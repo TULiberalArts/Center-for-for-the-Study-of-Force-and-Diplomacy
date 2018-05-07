@@ -13,9 +13,9 @@ published: true
 ---
 Housed within Temple University’s History Department, The Center for the Study of Force and Diplomacy (CENFAD) was founded in 1993 by Drs. Richard Immerman, Russell Weigley and David Rosenberg. CENFAD fosters interdisciplinary faculty and student research on the historic and contemporary use of force and diplomacy in a global context. 
 
-The Director of CENFAD Dr. Alan McPherson, reports to the Dean of the College of Liberal Arts at Temple University and to CENFAD’s Board of Advisors. CENFAD sponsors lectures, colloquia, workshops and conferences on an ongoing basis (listed under News and Events); and various multi-year projects.
+The Director of CENFAD [Dr. Alan McPherson](https://liberalarts.temple.edu/academics/faculty/mcpherson-alan), reports to the Dean of the College of Liberal Arts at Temple University and to CENFAD’s Board of Advisors. CENFAD sponsors lectures, colloquia, workshops and conferences on an ongoing basis (listed under News and Events); and various multi-year projects.
 
-Each year, CENFAD gives several prizes to recognize and support undergraduate and graduate research in military, diplomatic, and international history. 
+Each year, CENFAD gives several prizes to recognize and support undergraduate and graduate research in military, diplomatic and international history. 
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
