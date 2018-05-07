@@ -19,10 +19,10 @@ Each year, CENFAD gives several prizes to recognize and support undergraduate an
 
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-image.html 
-    title=" " 
-    content=" " 
+    title="Strategic Visions" 
+    content="Check out the newest edition of Strategic Visions, the biannual newsletter of CENFAD to find out what we have coming up in CENFAD in fall 2018!" 
     image="" 
-    button-link=" " 
+    button-link="https://tuljournals.temple.edu/index.php/strategic_visions/article/view/36/61" 
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
