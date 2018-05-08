@@ -2,7 +2,7 @@
 title: Research
 permalink: /research/
 layout: page
-keywords: ''
+keywords: 'cenfad, awards, fellowships, travel, graduate students, prizes'
 description: >- 
 published: true
 sidebar: true
