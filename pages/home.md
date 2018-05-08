@@ -36,7 +36,7 @@ Each year, CENFAD gives several prizes to recognize and support undergraduate an
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title=" " 
+        title="NEED CONTENT" 
         content=" " 
         image="" 
         button-link=" " 
