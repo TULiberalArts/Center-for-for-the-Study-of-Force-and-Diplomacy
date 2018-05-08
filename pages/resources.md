@@ -38,6 +38,8 @@ Temple University, Department of History<br>
 1115 W. Berks St.<br>
 Philadelphia, PA 19122-6089<br>
 
+___
+
 ## Fellowships and Post-Docs
 - [SMU Center for Presidential History Postdoctoral Fellowship](http://www.cla.temple.edu/cenfad/Resources/documents/SMUCenterforPresidentialHistoryPostdoctoralFellowship.pdf) (December 1, 2013)
 
