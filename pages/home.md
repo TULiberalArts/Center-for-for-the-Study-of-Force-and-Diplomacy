@@ -28,8 +28,8 @@ Each year, CENFAD gives several prizes to recognize and support undergraduate an
   </div>
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
-      title=" " 
-      content=" " 
+      title="The International History Workshop" 
+      content="The International History Workshop seeks to promote the exchange of ideas among scholars working on international, transnational, and global history; and to develop contacts between Temple faculty and graduate students working in this area and their peers at other leading programs in the country." 
       image="" 
       button-link=" " 
       button-text="Learn More" %}
