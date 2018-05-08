@@ -36,27 +36,25 @@ Any paper written by an undergraduate student in the 2017 calendar year submitte
 
 **The deadline for submissions is 5:00 pm on Sunday April 15, 2018.**
 
-Please address all questions and Electronic Submissions to:
-Eric Perinovic<br>
-[eric.perinovic@temple.edu](mailto:eric.perinovic@temple.edu)<br>
+Please address all questions and Electronic Submissions to [Eric Perinovic](mailto:eric.perinovic@temple.edu).
 
 **2018 Winner:**
 - Holden Zimmerman, University of Kansas, "Defensive Humanitarianism: Swiss Internment Camps in WWI"
 
 **Previous Winners:**
-- 2017: Charlotte Blatt, Dartmouth College, "Operational Success, Strategic Failure: Assessing the 2007 Iraq Troop Surge"
-- 2016: Erica Ma, University of Pennsylvania, "A State Divided: The Decisive Impact of Third-Party Interventions on Secession Conflicts (1945-2011)"
-- 2015: Nathan Hausman, United States Air Force Academy, "Competing Narratives: Comparing Perspectives on NATO Intervention in Kosovo"
-- 2014: Alison Strongwater, Cornell University, "Modern Mercenaries: Threat or Savior?"
-- 2014 Honorable Mention: Pamela Hoss, University College London, "French Fears over Power Shifts: the October War, the Catalyst for the Deterioration of Franco-American relations in 1973?"
-- 2013: Jean-Robert Lalancette, McGill University, "From Decrepit Empire to Third World Champion: France's Incredible Transition, 1958-1963"
-- 2012: George Bogden, Yale University, "Refugees, Statecraft, and Legitimacy: Forced Migration and Foreign Policy after the First Persian Gulf War"
-- 2011: Yongqing Douglas Yang, University of Wisconsin-Madison, "The Panamanian Paradox: A President�s Struggle to Remove Manuel Noriega"
-- 2010: Robert King, Harvard University, "Academic Scribblers: Policy Reports and the Making of American Strategy on Latin America, 1948-1980"
- 2009: Raymond Joseph Parrot, University of Virginia, "An Education for Occupation: Army Civil Affairs Training And Military Planning for Postwar Germany"
-- 2008: Justin King, University of Wisconsin-Madison, "Partners and Rivals: Political Economy and American Diplomacy, 1969-1974"
-- 2007: Debbie Sharnak, Vassar College, "The Perception of Strategic Alliances: Carter's Failure to Normalize Relations With Vietnam" 
-- 2006: Betsey Beasley, University of Georgia at Athens, "Damsels in Distress, Frustrated Old Women, and the Masculine Enterprise: Gendered Constructs in U.S. Relations with Vietnam, 1963-1968"
+- 2017: Charlotte Blatt, Dartmouth College, ["Operational Success, Strategic Failure: Assessing the 2007 Iraq Troop Surge"](https://liberalarts.temple.edu/sites/liberalarts/files/CharlotteBlatt-Submission%20%281%29.pdf)
+- 2016: Erica Ma, University of Pennsylvania, ["A State Divided: The Decisive Impact of Third-Party Interventions on Secession Conflicts (1945-2011)](https://liberalarts.temple.edu/sites/liberalarts/files/Erica%20Ma_submission%20FINAL.pdf)"
+- 2015: Nathan Hausman, United States Air Force Academy, ["Competing Narratives: Comparing Perspectives on NATO Intervention in Kosovo"](https://liberalarts.temple.edu/sites/liberalarts/files/Hausman%20US-Russia%20Kosovo.pdf)
+- 2014: Alison Strongwater, Cornell University, ["Modern Mercenaries: Threat or Savior?"](https://liberalarts.temple.edu/sites/liberalarts/files/StrongwaterModernMercenaries.pdf)
+- 2014 Honorable Mention: Pamela Hoss, University College London, ["French Fears over Power Shifts: the October War, the Catalyst for the Deterioration of Franco-American relations in 1973?"](https://liberalarts.temple.edu/sites/liberalarts/files/HossFrenchFears.pdf)
+- 2013: Jean-Robert Lalancette, McGill University, ["From Decrepit Empire to Third World Champion: France's Incredible Transition, 1958-1963"](https://liberalarts.temple.edu/sites/liberalarts/files/Lalancette.ShermanPrize2013.pdf)
+- 2012: George Bogden, Yale University, ["Refugees, Statecraft, and Legitimacy: Forced Migration and Foreign Policy after the First Persian Gulf War"](https://liberalarts.temple.edu/sites/liberalarts/files/Bogden-Sherman%20Prize%202012.doc)
+- 2011: Yongqing Douglas Yang, University of Wisconsin-Madison, ["The Panamanian Paradox: A President�s Struggle to Remove Manuel Noriega"](https://liberalarts.temple.edu/sites/liberalarts/files/YangPanamanianParadox.pdf)
+- 2010: Robert King, Harvard University, ["Academic Scribblers: Policy Reports and the Making of American Strategy on Latin America, 1948-1980"](https://liberalarts.temple.edu/sites/liberalarts/files/King.pdf)
+ 2009: Raymond Joseph Parrot, University of Virginia, ["An Education for Occupation: Army Civil Affairs Training And Military Planning for Postwar Germany"](https://liberalarts.temple.edu/sites/liberalarts/files/RaymondJosephParrott_Virginia_ArmyCivilAffairsinPostwarGermany.pdf)
+- 2008: Justin King, University of Wisconsin-Madison, ["Partners and Rivals: Political Economy and American Diplomacy, 1969-1974"](https://liberalarts.temple.edu/sites/liberalarts/files/PartnersandRivals.doc)
+- 2007: Debbie Sharnak, Vassar College, ["The Perception of Strategic Alliances: Carter's Failure to Normalize Relations With Vietnam"](https://liberalarts.temple.edu/sites/liberalarts/files/Normalizing%20Relations%20with%20Vietnam.doc) 
+- 2006: Betsey Beasley, University of Georgia at Athens, ["Damsels in Distress, Frustrated Old Women, and the Masculine Enterprise: Gendered Constructs in U.S. Relations with Vietnam, 1963-1968"](https://liberalarts.temple.edu/sites/liberalarts/files/Betsy%20Beasley%20vietnam%20research%20paper7%20publish.doc)
 
 ## Fellowships
 
