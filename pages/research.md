@@ -56,6 +56,8 @@ Please address all questions and Electronic Submissions to [Eric Perinovic](mail
 - 2007: Debbie Sharnak, Vassar College, ["The Perception of Strategic Alliances: Carter's Failure to Normalize Relations With Vietnam"](https://liberalarts.temple.edu/sites/liberalarts/files/Normalizing%20Relations%20with%20Vietnam.doc) 
 - 2006: Betsey Beasley, University of Georgia at Athens, ["Damsels in Distress, Frustrated Old Women, and the Masculine Enterprise: Gendered Constructs in U.S. Relations with Vietnam, 1963-1968"](https://liberalarts.temple.edu/sites/liberalarts/files/Betsy%20Beasley%20vietnam%20research%20paper7%20publish.doc)
 
+___
+
 ## Fellowships
 
 ### Thomas J. Davis Endowed Fellowship in Diplomacy and Foreign Relations
@@ -158,6 +160,8 @@ Awarded to a Temple University graduate student of military or diplomatic histor
 - 2005-06: Uta Kresse 
 - 2004-05: Ginger Davis
 - 2003-04: Bob Wintermute
+
+___
 
 ## Conference Travel Funds
 
