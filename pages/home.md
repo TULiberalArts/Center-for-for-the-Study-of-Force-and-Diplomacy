@@ -6,7 +6,7 @@ description: >-
 keywords: 'history department, center for the study of force and diplomacy'
 feature: true
 feature-title: CENFAD | Center for the Study of Force and Diplomacy
-feature-image: media/CENFAD hero.jpg
+feature-image: media/CENFAD_LOGO_05092012_001.jpg
 feature-body: >- 
   NEED A BODY
 published: true
