@@ -37,8 +37,12 @@ Temple’s History Department is unusually rich in faculty that work on internat
 [2008 Human Rights in History](https://liberalarts.temple.edu/sites/liberalarts/files/IHWonHumanRightsConferenceAnnouncement.pdf)<br>
 ![Human Rights in Histor]({{site.baseurl}}/media/resized Humanrightsinhistory_001.jpg){:.img-left}
 
+___
+
 [2007 Liberations/Occupations: Framing Intervention in the 20th Century](https://liberalarts.temple.edu/sites/liberalarts/files/ihw-occupations.pdf)<br>
 ![Liberations/Occupations: Framing Intervention in the 20th Century]({{site.baseurl}}/media/LiberationsOccupations.jpg){:.img-left}
+
+___
 
 [2006 Defining International History](https://liberalarts.temple.edu/sites/liberalarts/files/ihw-bordercrossings.pdf)<br>
 ![Defining International History]({{site.baseurl}}/media/BorderCrossings.jpg){:.img-left}
