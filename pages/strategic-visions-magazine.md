@@ -37,10 +37,10 @@ Read the [Fall 2018 Edition of _Strategic Visions!_](https://tuljournals.temple.
 - Eric Perinovic (Temple University), ["Note from the Davis Fellow"](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/36/61)
 
 **Book Reviews:**
-- Brian McNamara (Temple University), [Review of Engel, Jeffrey. When the World Seemed New: George H.W. Bush and the End of the Cold War](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/37/62). Boston: Houghton Mifflin Harcourt, 2017.
-- Alexandre Caillot (Temple University), [Review of Kinzer, Stephen. The True Flag: Theodore Roosevelt, Mark Twain, and the Birth of American Empire](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/39). New York: Henry Holt and Company, 2017.
-- Mathias Fuelling (Temple University), [Reivew of Hindley, Meredith. Destination Casablanca: Exile, Espionage, and the Battle for North Africa in World War II](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/38). New York: PublicAffairs, 2017.
-- Mann Duah (Temple University), [Review of Suri, Jeremi. The Impossible Presidency. The Rise and Fall of America's Highest Office](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/40). New York: Hatchett Books, 2017.
+- Brian McNamara (Temple University), [Review of Engel, Jeffrey. _When the World Seemed New: George H.W. Bush and the End of the Cold War_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/37/62). Boston: Houghton Mifflin Harcourt, 2017.
+- Alexandre Caillot (Temple University), [Review of Kinzer, Stephen. _The True Flag: Theodore Roosevelt, Mark Twain, and the Birth of American Empire_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/39). New York: Henry Holt and Company, 2017.
+- Mathias Fuelling (Temple University), [Reivew of Hindley, Meredith. _Destination Casablanca: Exile, Espionage, and the Battle for North Africa in World War II_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/38). New York: PublicAffairs, 2017.
+- Mann Duah (Temple University), [Review of Suri, Jeremi. _The Impossible Presidency. The Rise and Fall of America's Highest Office_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/40). New York: Hatchett Books, 2017.
 
 **Featured Articles**
 - [Spring 2016 Edition](https://liberalarts.temple.edu/sites/liberalarts/files/s.v.%20spring%202016.pdf)
@@ -64,29 +64,29 @@ ___
 - Keith Riley (Temple University), [Review of Parker, Jason. _Hearts, Minds, Voices: U.S. Cold War Public Diplomacy and the Formation of the Third World_](https://liberalarts.temple.edu/sites/liberalarts/files/Review%20of%20Jason%20Parker.pdf). New York: Oxford University Press, 2016.
 
 ### Spring 2016
-- Thomas A. Reinstein (Temple University), Review of Jersild, Austin. The Sino-Soviet Alliance: An International History. Chapel Hill: University of North Carolina Press, 2014.
-- Britnee Smith (Temple University), Review of Masuda, Hajimu. Cold War Crucible: The Korean Conflict and the Postwar World. Cambridge: Harvard University Press, 2015.
-- Jesse Curtis (Temple University), Review of Simpson, Audra. Mohawk Interruptus: Political Life Across the Borders of Settler States. Durham: Duke University Press, 2014.
+- Thomas A. Reinstein (Temple University), Review of Jersild, Austin. _The Sino-Soviet Alliance: An International History_. Chapel Hill: University of North Carolina Press, 2014.
+- Britnee Smith (Temple University), Review of Masuda, Hajimu. _Cold War Crucible: The Korean Conflict and the Postwar World_. Cambridge: Harvard University Press, 2015.
+- Jesse Curtis (Temple University), Review of Simpson, Audra. _Mohawk Interruptus: Political Life Across the Borders of Settler States_. Durham: Duke University Press, 2014.
 
 ### Fall 2015
-- Danielle K. Scherer (Temple University), Review of Bush, Sarah Sunn. The Taming of Democracy Assistance: Why Democracy Promotion Does Not Confront Dictators. Cambridge, UK: Cambridge University Press, 2015.
-- Brian McNamara (Temple University), Review of Gleijeses, Piero. Visions of Freedom: Havana, Washington, Pretoria, and the Struggle for Southern Africa, 1976-1991. Chapel Hill: University of North Carolina Press, 2013.
-- Manna Duah (Temple University), Review of Kimball, Warren. The Juggler: Franklin Roosevelt as Wartime Statesman. Princeton: Princeton University Press, 1991.
-- Stephen Bentel (Temple University), Review of Matera, Marc. Black London: The Imperial Metropolis and Decolonization in the Twentieth Century. Oakland: University of California Press, 2015.
-- Britnee Smith (Temple University), Review of Sargent, Daniel J. A Superpower Transformed: The Remaking of American Foreign Relations in the 1970s. New York: Oxford University Press, 2015.
+- Danielle K. Scherer (Temple University), Review of Bush, Sarah Sunn. _The Taming of Democracy Assistance: Why Democracy Promotion Does Not Confront Dictators_. Cambridge, UK: Cambridge University Press, 2015.
+- Brian McNamara (Temple University), Review of Gleijeses, Piero. _Visions of Freedom: Havana, Washington, Pretoria, and the Struggle for Southern Africa_, 1976-1991. Chapel Hill: University of North Carolina Press, 2013.
+- Manna Duah (Temple University), Review of Kimball, Warren. _The Juggler: Franklin Roosevelt as Wartime Statesman_. Princeton: Princeton University Press, 1991.
+- Stephen Bentel (Temple University), Review of Matera, Marc. _Black London: The Imperial Metropolis and Decolonization in the Twentieth Century_. Oakland: University of California Press, 2015.
+- Britnee Smith (Temple University), Review of Sargent, Daniel J. _A Superpower Transformed: The Remaking of American Foreign Relations in the 1970s_. New York: Oxford University Press, 2015.
 
 ### Spring 2015
-- James Cook-Thajudeen (Temple University), Review of Todd Cleveland, Stones of Contention: A History of Africa's Diamonds. Athens, OH: Ohio University Press, 2014.
-- Seth S. Tannenbaum (Temple University), Review of Maria Hoehn and Martin Klimke, A Breath of Freedom: The Civil Rights Struggle, African American GIs, and Germany. New York: Palgrave MacMillan, 2010.
-- Larry Kessler (Temple University), Review of Ari Kelman, A Misplaced Massacre: Struggling over the Memory of Sand Creek. Cambridge, MA: Harvard University Press, 2013.
-- Jean-Pierre Beugoms (Temple University), Review of Paul Kennedy, Engineers of Victory: The Problem Solvers Who Turned the Tide in the Second World War. New York: Random House, 2013.
-- Britnee Smith (Temple University), Review of Barbara Keys, Reclaiming American Virtue: The Human Rights Revolution of the 1970s. Cambridge, MA: Harvard University Press, 2014.
+- James Cook-Thajudeen (Temple University), Review of Todd Cleveland, _Stones of Contention: A History of Africa's Diamonds_. Athens, OH: Ohio University Press, 2014.
+- Seth S. Tannenbaum (Temple University), Review of Maria Hoehn and Martin Klimke, _A Breath of Freedom: The Civil Rights Struggle, African American GIs, and Germany_. New York: Palgrave MacMillan, 2010.
+- Larry Kessler (Temple University), Review of Ari Kelman, _A Misplaced Massacre: Struggling over the Memory of Sand Creek_. Cambridge, MA: Harvard University Press, 2013.
+- Jean-Pierre Beugoms (Temple University), Review of Paul Kennedy, _Engineers of Victory: The Problem Solvers Who Turned the Tide in the Second World War_. New York: Random House, 2013.
+- Britnee Smith (Temple University), Review of Barbara Keys, _Reclaiming American Virtue: The Human Rights Revolution of the 1970s_. Cambridge, MA: Harvard University Press, 2014.
 
 ### Fall 2014
-- Britnee Smith (Temple University), Review of Amy S. Greenberg, A Wicked War: Polk, Clay, Lincoln, and the 1846 U.S. Invasion of Mexico. New York: Alfred A. Knopf, 2012.
-- Minju Bae (Temple University), Review of Brenda Gayle Plummer, In Search of Power: African Americans in the Era of Decolonization, 1956-1974. Cambridge: Cambridge University Press, 2013.
-- Stephen Bentel (Temple University), Review of Michael A. Reynolds, Shattering Empires: The Clash and Collapse of the Ottoman and Russian Empires 1908-1918. Cambridge: Cambridge University Press, 2011.
-- Manna Duah (Temple University), Review of Marie-Jeanne Rossignol, The Nationalist Ferment: The Origin of U.S. Foreign Policy, 1792-1812. Translated by Lillian A. Parrott. Columbus: Ohio State University Press, 2004.
+- Britnee Smith (Temple University), Review of Amy S. Greenberg, _A Wicked War: Polk, Clay, Lincoln, and the 1846 U.S. Invasion of Mexico_. New York: Alfred A. Knopf, 2012.
+- Minju Bae (Temple University), Review of Brenda Gayle Plummer, _In Search of Power: African Americans in the Era of Decolonization, 1956-1974_. Cambridge: Cambridge University Press, 2013.
+- Stephen Bentel (Temple University), Review of Michael A. Reynolds, _Shattering Empires: The Clash and Collapse of the Ottoman and Russian Empires 1908-1918_. Cambridge: Cambridge University Press, 2011.
+- Manna Duah (Temple University), Review of Marie-Jeanne Rossignol, _The Nationalist Ferment: The Origin of U.S. Foreign Policy, 1792-1812. Translated by Lillian A. Parrott_. Columbus: Ohio State University Press, 2004.
 
 ## Newsletter Archive
 
