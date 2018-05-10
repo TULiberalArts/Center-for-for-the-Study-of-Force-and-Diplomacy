@@ -34,13 +34,13 @@ The International History Workshop seeks to promote the exchange of ideas among 
 Temple’s History Department is unusually rich in faculty that work on international history. We have scholars here who are experts not only on one nation, continent, or time period, but on historical trends and patterns that cross borders and that find peoples of various national backgrounds interacting, competing, warring and even peace-making. This is why we have attracted such an able body of graduate students here to work in these areas, and they are beginning to make their mark in the field of international history.
 
 ## Past Conferences
-[2008 Human Rights in History](https://liberalarts.temple.edu/sites/liberalarts/files/IHWonHumanRightsConferenceAnnouncement.pdf)
+[2008 Human Rights in History](https://liberalarts.temple.edu/sites/liberalarts/files/IHWonHumanRightsConferenceAnnouncement.pdf)<br>
 ![Human Rights in Histor]({{site.baseurl}}/media/resized Humanrightsinhistory_001.jpg){:.img-left}
 
-[2007 Liberations/Occupations: Framing Intervention in the 20th Century](https://liberalarts.temple.edu/sites/liberalarts/files/ihw-occupations.pdf)
+[2007 Liberations/Occupations: Framing Intervention in the 20th Century](https://liberalarts.temple.edu/sites/liberalarts/files/ihw-occupations.pdf)<br>
 ![Liberations/Occupations: Framing Intervention in the 20th Century]({{site.baseurl}}/media/LiberationsOccupations.jpg){:.img-left}
 
-[2006 Defining International History](https://liberalarts.temple.edu/sites/liberalarts/files/ihw-bordercrossings.pdf)
+[2006 Defining International History](https://liberalarts.temple.edu/sites/liberalarts/files/ihw-bordercrossings.pdf)<br>
 ![Defining International History]({{site.baseurl}}/media/BorderCrossings.jpg){:.img-left}
 
 ## Past Speakers
