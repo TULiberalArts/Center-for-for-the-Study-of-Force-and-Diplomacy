@@ -131,7 +131,7 @@ ___
 
 **Volume 5**
 - [Fall 2004 Number II](http://www.temple.edu/cenfad/strategic-visions/SV5-2-04/SV-5-2_htm.htm) 
-- [Spring 2004 Number I](http://www.temple.edu/cenfad/strategic-visions/SV5-1-04/sv-5-1.htm)
+- Spring 2004 Number I
 
 **Volume 4**
 - [Fall 2003 Number II](http://www.temple.edu/cenfad/strategic-visions/SV-4-03/SV-4-2.html) 
