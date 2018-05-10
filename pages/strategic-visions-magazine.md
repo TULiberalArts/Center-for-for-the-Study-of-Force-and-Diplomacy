@@ -88,6 +88,8 @@ ___
 - Stephen Bentel (Temple University), Review of Michael A. Reynolds, _Shattering Empires: The Clash and Collapse of the Ottoman and Russian Empires 1908-1918_. Cambridge: Cambridge University Press, 2011.
 - Manna Duah (Temple University), Review of Marie-Jeanne Rossignol, _The Nationalist Ferment: The Origin of U.S. Foreign Policy, 1792-1812. Translated by Lillian A. Parrott_. Columbus: Ohio State University Press, 2004.
 
+___
+
 ## Newsletter Archive
 
 **Volume 16**
