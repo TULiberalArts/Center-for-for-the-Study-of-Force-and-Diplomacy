@@ -47,6 +47,8 @@ ___
 [2006 Defining International History](https://liberalarts.temple.edu/sites/liberalarts/files/ihw-bordercrossings.pdf)<br>
 ![Defining International History]({{site.baseurl}}/media/BorderCrossings.jpg){:.img-left}
 
+___
+
 ## Past Speakers
 - Thomas Westerman, _University of Connecticut_, “The Commission for Relief in Belgium, The United States, and Belgian Deportations during World War I”
 - Stephen R. Porter, _University of Cincinnati_, “Human Rights and the Problem of Formal Equality: Labor Exploitation in the U.S. Displaced Persons Program”
