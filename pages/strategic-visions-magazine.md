@@ -87,3 +87,56 @@ ___
 - Minju Bae (Temple University), Review of Brenda Gayle Plummer, In Search of Power: African Americans in the Era of Decolonization, 1956-1974. Cambridge: Cambridge University Press, 2013.
 - Stephen Bentel (Temple University), Review of Michael A. Reynolds, Shattering Empires: The Clash and Collapse of the Ottoman and Russian Empires 1908-1918. Cambridge: Cambridge University Press, 2011.
 - Manna Duah (Temple University), Review of Marie-Jeanne Rossignol, The Nationalist Ferment: The Origin of U.S. Foreign Policy, 1792-1812. Translated by Lillian A. Parrott. Columbus: Ohio State University Press, 2004.
+
+## Newsletter Archive
+
+**Volume 16**
+- [Spring 2017 Number II](http://mailchi.mp/dd347f5eafff/cenfad-strategic-visions-spring-2017?e=[UNIQID])
+- [Fall 2016 Number I](http://us14.campaign-archive2.com/?u=5e746d99fd6f46113cc5601b2&id=0725b889f6&e=4f68eda965)
+
+**Volume 15**
+- [Fall 2015 Number I](http://www.cla.temple.edu/cenfad/strategic%20visions%20fall%202015.pdf)
+- [Spring 2016 Number II](http://www.cla.temple.edu/cenfad/strategic-visions/documents/s.v.%20spring%202016.pdf)
+
+**Volume 14**
+- [Fall 2014 Number I](http://www.cla.temple.edu/cenfad/strategic-visions/documents/Strategic%20Visions%20Fall%202014.pdf)
+- [Spring 2015 Number II](http://www.cla.temple.edu/cenfad/strategic-visions/documents/Strategic%20Visions%20Spring%202015.pdf)
+
+**Volume 13**
+- [Fall 2013 Number I](http://www.temple.edu/cenfad/documents/StrategicVisionsFall2013.pdf)
+- [Spring 2014 Number II](http://www.cla.temple.edu/cenfad/documents/StrategicVisionsSpring2014.pdf)
+
+**Volume 12**
+- [Fall 2012 Number I](http://www.cla.temple.edu/cenfad/strategic-visions/past/documents/SVFall2012.Final.pdf)
+- [Spring 2013 Number II](http://www.temple.edu/cenfad/strategic-visions/documents/SVSpring2013.pdf)
+
+**Volume 10**
+- [Fall 2010 Number I](http://www.cla.temple.edu/cenfad/strategic-visions/past/documents/SVFall2010-revised.pdf)
+
+**Volume 9**
+- [Fall 2009 Number II](http://www.cla.temple.edu/cenfad/strategic-visions/past/Vol9Number2.htm)
+- [Spring 2008 Number I](http://www.cla.temple.edu/cenfad/strategic-visions/past/Volume9Number2.htm)
+
+**Volume 8**
+- [Fall 2007 Number II](http://www.temple.edu/cenfad/strategic-visions/SV-Fall2007.htm) 
+- [Spring 2007 Number I](http://www.temple.edu/cenfad/strategic-visions/SV-Spring2007.html)
+
+**Volume 7**
+- [Fall 2006 Number II](http://www.temple.edu/cenfad/strategic-visions/SV-Fall2006.html) 
+- [Spring 2006 Number I](http://www.temple.edu/cenfad/strategic-visions/SV-Spring2006.html)
+
+**Volume 6**
+- [Fall 2005 Number II](http://www.temple.edu/cenfad/strategic-visions/SV-Fall2005.html) 
+- [Spring 2005 Number I](http://www.temple.edu/cenfad/strategic-visions/SV-Spring2005.html)
+
+**Volume 5**
+- [Fall 2004 Number II](http://www.temple.edu/cenfad/strategic-visions/SV5-2-04/SV-5-2_htm.htm) 
+- [Spring 2004 Number I](http://www.temple.edu/cenfad/strategic-visions/SV5-1-04/sv-5-1.htm)
+
+**Volume 4**
+- [Fall 2003 Number II](http://www.temple.edu/cenfad/strategic-visions/SV-4-03/SV-4-2.html) 
+- [Spring 2003 Number I](http://www.temple.edu/cenfad/strategic-visions/SV-4-03/SV-4-1_htm.htm)
+
+**Volume 3** 
+- [September 2002 Number II](http://www.temple.edu/cenfad/strategic-visions/SV-3-02/strategicvisions-3-2.html) 
+- [April 2002 Number I](http://www.temple.edu/cenfad/strategic-visions/SV-3-02/strategicvisions-3-1.html)
