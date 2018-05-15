@@ -31,7 +31,7 @@ Each year, CENFAD gives several prizes to recognize and support undergraduate an
       title="The International History Workshop" 
       content="The International History Workshop seeks to promote the exchange of ideas among scholars working on international, transnational, and global history; and to develop contacts between Temple faculty and graduate students working in this area and their peers at other leading programs in the country." 
       image="" 
-      button-link=" " 
+      button-link="https://develop.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/international-history-workshop/" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
