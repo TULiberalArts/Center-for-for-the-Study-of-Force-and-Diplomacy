@@ -105,12 +105,12 @@ ___
 - [Spring 2015 Number II](http://www.cla.temple.edu/cenfad/strategic-visions/documents/Strategic%20Visions%20Spring%202015.pdf)
 
 **Volume 13**
-- [Fall 2013 Number I](http://www.temple.edu/cenfad/documents/StrategicVisionsFall2013.pdf)
+- Fall 2013 Number I
 - [Spring 2014 Number II](http://www.cla.temple.edu/cenfad/documents/StrategicVisionsSpring2014.pdf)
 
 **Volume 12**
 - [Fall 2012 Number I](http://www.cla.temple.edu/cenfad/strategic-visions/past/documents/SVFall2012.Final.pdf)
-- [Spring 2013 Number II](http://www.temple.edu/cenfad/strategic-visions/documents/SVSpring2013.pdf)
+- Spring 2013 Number II
 
 **Volume 10**
 - [Fall 2010 Number I](http://www.cla.temple.edu/cenfad/strategic-visions/past/documents/SVFall2010-revised.pdf)
@@ -120,25 +120,25 @@ ___
 - [Spring 2008 Number I](http://www.cla.temple.edu/cenfad/strategic-visions/past/Volume9Number2.htm)
 
 **Volume 8**
-- [Fall 2007 Number II](http://www.temple.edu/cenfad/strategic-visions/SV-Fall2007.htm) 
-- [Spring 2007 Number I](http://www.temple.edu/cenfad/strategic-visions/SV-Spring2007.html)
+- Fall 2007 Number II
+- Spring 2007 Number I
 
 **Volume 7**
-- [Fall 2006 Number II](http://www.temple.edu/cenfad/strategic-visions/SV-Fall2006.html) 
-- [Spring 2006 Number I](http://www.temple.edu/cenfad/strategic-visions/SV-Spring2006.html)
+- Fall 2006 Number II
+- Spring 2006 Number I
 
 **Volume 6**
-- [Fall 2005 Number II](http://www.temple.edu/cenfad/strategic-visions/SV-Fall2005.html) 
-- [Spring 2005 Number I](http://www.temple.edu/cenfad/strategic-visions/SV-Spring2005.html)
+- Fall 2005 Number II 
+- Spring 2005 Number I
 
 **Volume 5**
-- [Fall 2004 Number II](http://www.temple.edu/cenfad/strategic-visions/SV5-2-04/SV-5-2_htm.htm) 
+- Fall 2004 Number II
 - Spring 2004 Number I
 
 **Volume 4**
-- [Fall 2003 Number II](http://www.temple.edu/cenfad/strategic-visions/SV-4-03/SV-4-2.html) 
-- [Spring 2003 Number I](http://www.temple.edu/cenfad/strategic-visions/SV-4-03/SV-4-1_htm.htm)
+- Fall 2003 Number II 
+- Spring 2003 Number I
 
 **Volume 3** 
-- [September 2002 Number II](http://www.temple.edu/cenfad/strategic-visions/SV-3-02/strategicvisions-3-2.html) 
-- [April 2002 Number I](http://www.temple.edu/cenfad/strategic-visions/SV-3-02/strategicvisions-3-1.html)
+- September 2002 Number II 
+- April 2002 Number I
