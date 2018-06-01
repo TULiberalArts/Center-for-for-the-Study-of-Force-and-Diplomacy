@@ -1,31 +1,15 @@
 ---
-title: International History Workshop
+# global predefined variables
+layout: tla_page
 permalink: /international-history-workshop/
-layout: page
-keywords: ''
-description: >- 
 published: true
+# meta-data variables
+title: International History Workshop
+description: >- 
+keywords: ''
+# custom variables
 sidebar: true
-sidebar-content: |
- **Center for the Study of Force and Diplomacy**   
-   Temple University, Department of History  
-   918 Gladfelter Hall     
-   [(215) 204-7466](tel:2152047466)       
-   Fax: (215) 204-5891    
-   [tuh41270@temple.edu](mailto:tuh41270@temple.edu)    
-   
-   ___
-   
-   **Director**   
-   Alan McPherson  
-   918 Gladfelter Hall       
-   [alan.mcpherson@temple.edu](mailto:alan.mcpherson@temple.edu)       
-     
-   ___
-   
-  **Thomas J. Davis Fellow**   
-    Eric Perinovic     
-    [eric.perinovic@temple.edu](mailto:eric.perinovic@temple.edu)       
+sidebar_content: sidebars/international-history-workshop.html      
 ---
 The International History Workshop seeks to promote the exchange of ideas among scholars working on international, transnational, and global history; and to develop contacts between Temple faculty and graduate students working in this area and their peers at other leading programs in the country.
 
