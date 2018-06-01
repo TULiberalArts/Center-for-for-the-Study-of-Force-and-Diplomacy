@@ -1,31 +1,15 @@
 ---
-title: Research
+# global predefined variables
+layout: tla_page
 permalink: /research/
-layout: page
-keywords: 'cenfad, awards, fellowships, travel, graduate students, prizes'
-description: >- 
 published: true
+# meta-data variables
+title: Research
+description: >- 
+keywords: 'cenfad, awards, fellowships, travel, graduate students, prizes'
+# custom variables
 sidebar: true
-sidebar-content: |
- **Center for the Study of Force and Diplomacy**   
-   Temple University, Department of History  
-   918 Gladfelter Hall     
-   [(215) 204-7466](tel:2152047466)       
-   Fax: (215) 204-5891    
-   [tuh41270@temple.edu](mailto:tuh41270@temple.edu)    
-   
-   ___
-   
-   **Director**   
-   Alan McPherson  
-   918 Gladfelter Hall       
-   [alan.mcpherson@temple.edu](mailto:alan.mcpherson@temple.edu)       
-     
-   ___
-   
-  **Thomas J. Davis Fellow**   
-    Eric Perinovic     
-    [eric.perinovic@temple.edu](mailto:eric.perinovic@temple.edu)       
+sidebar_content: sidebars/research.html      
 ---
 ## Prizes
 
