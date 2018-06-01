@@ -1,31 +1,15 @@
 ---
-title: History of CENFAD
+# global predefined variables
+layout: tla_page
 permalink: /history-of-cenfad/
-layout: page
-keywords: ''
-description: >- 
 published: true
+# meta-data variables
+title: History of CENFAD
+description: >- 
+keywords: ''
+# custom variables
 sidebar: true
-sidebar-content: |
- **Center for the Study of Force and Diplomacy**   
-   Temple University, Department of History  
-   918 Gladfelter Hall     
-   [(215) 204-7466](tel:2152047466)       
-   Fax: (215) 204-5891    
-   [tuh41270@temple.edu](mailto:tuh41270@temple.edu)    
-   
-   ___
-   
-   **Director**   
-   Alan McPherson  
-   918 Gladfelter Hall       
-   [alan.mcpherson@temple.edu](mailto:alan.mcpherson@temple.edu)       
-     
-   ___
-   
-  **Thomas J. Davis Fellow**   
-    Eric Perinovic     
-    [eric.perinovic@temple.edu](mailto:eric.perinovic@temple.edu)       
+sidebar_content: sidebars/history-of-cenfad.html     
 ---
 ## A History of the Center for the Study of Force and Diplomacy
 As my tenure as CENFAD director comes to a close in spring 2017, I can’t help but think back to how it all began—and the many way stations in between. I won’t bore you with the whole story. It’s a long one. But for the sake of ensuring that I’m not the sole keeper of CENFAD’s institutional memory, I’ll jot down the CliffsNotes version.
