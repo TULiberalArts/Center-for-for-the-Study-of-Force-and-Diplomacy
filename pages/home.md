@@ -1,15 +1,19 @@
 ---
-title: Home
+# global predefined variables
+layout: tla_home
 permalink: /
-layout: home
+published: true
+# meta-data variables
+title: Home
 description: >-
 keywords: 'history department, center for the study of force and diplomacy'
+# custom variables
+sidebar: false
 feature: true
 feature-title: CENFAD | Center for the Study of Force and Diplomacy
 feature-image: media/CENFAD hero.jpg
 feature-body: >- 
   NEED A BODY
-published: true
 ---
 ![CENFAD Logo]({{site.baseurl}}/media/resized CENFAD_LOGO_05092012_001.jpg){:.img-right}
 Housed within Temple University’s History Department, The Center for the Study of Force and Diplomacy (CENFAD) was founded in 1993 by Drs. Richard Immerman, Russell Weigley and David Rosenberg. CENFAD fosters interdisciplinary faculty and student research on the historic and contemporary use of force and diplomacy in a global context. 
