@@ -1,31 +1,15 @@
 ---
-title: Strategic Visions Magazine
+# global predefined variables
+layout: tla_page
 permalink: /strategic-visions-magazine/
-layout: page
-keywords: ''
-description: >- 
 published: true
+# meta-data variables
+title: Strategic Visions Magazine
+description: >- 
+keywords: ''
+# custom variables
 sidebar: true
-sidebar-content: |
- **Center for the Study of Force and Diplomacy**   
-   Temple University, Department of History  
-   918 Gladfelter Hall     
-   [(215) 204-7466](tel:2152047466)       
-   Fax: (215) 204-5891    
-   [tuh41270@temple.edu](mailto:tuh41270@temple.edu)    
-   
-   ___
-   
-   **Director**   
-   Alan McPherson  
-   918 Gladfelter Hall       
-   [alan.mcpherson@temple.edu](mailto:alan.mcpherson@temple.edu)       
-     
-   ___
-   
-  **Thomas J. Davis Fellow**   
-    Eric Perinovic     
-    [eric.perinovic@temple.edu](mailto:eric.perinovic@temple.edu)       
+sidebar_content: sidebars/strategic-visions-magazine.html      
 ---
 ![Strategic Visions Magazine logo]({{site.baseurl}}/media/clip_image002.jpg){:.img-center}
 ## Strategic Visions Fall 2018 Edition 
