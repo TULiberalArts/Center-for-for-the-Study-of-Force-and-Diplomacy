@@ -61,7 +61,7 @@ ___
 - [Inter-University Seminar on Armed Forces and Society](http://www.iusafs.org/)
 - [Society for Military History](http://www.smh-hq.org/)
 - [H-Diplo](http://www.h-net.msu.edu/~diplo/)
-- [U.S. Army Heritage and Education Center & Military History Institute](http://www.carlisle.army.mil/ahec/)
+- U.S. Army Heritage and Education Center & Military History Institute
 
 ## National and International Archives
 - [Australian Archives](http://www.naa.gov.au/default.html)
