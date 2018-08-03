@@ -4,6 +4,11 @@
 
 Center for the Study of Force and Diplomacy is statically generated with [Jekyll](https://jekyllrb.com) and hosted by [The College of Liberal Arts](https://liberalarts.temple.edu) at [Temple University](https://temple.edu).
 
+| Links |  |
+| --- | --- |
+| Development | https://develop.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/ |
+| Production |  |
+
 ## Content Structure
 
 | Directory |  |
