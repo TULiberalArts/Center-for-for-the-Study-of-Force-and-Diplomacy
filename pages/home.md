@@ -40,7 +40,7 @@ ___
       title="CENFAD Lecture Series" 
       content="Need a description" 
       image="" 
-      button-link="/center-for-the-study-of-force-and-diplomacy#lecture-series/" 
+      button-link="center-for-the-study-of-force-and-diplomacy#lecture-series" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
