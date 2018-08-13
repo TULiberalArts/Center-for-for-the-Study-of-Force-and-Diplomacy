@@ -2,7 +2,7 @@
 # global predefined variables
 layout: tla_page
 permalink: /international-history-workshop/
-published: true
+published: false
 # meta-data variables
 title: International History Workshop
 description: >- 
