@@ -1,10 +1,10 @@
 ---
 # global predefined variables
 layout: tla_page
-permalink: /research/
+permalink: /funding/
 published: true
 # meta-data variables
-title: Research
+title: Funding
 description: >- 
 keywords: 'cenfad, awards, fellowships, travel, graduate students, prizes'
 # custom variables
