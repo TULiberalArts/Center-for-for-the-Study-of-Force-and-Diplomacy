@@ -255,3 +255,43 @@ _"Self-Determination, Economic Sovereignty and International History."_<br>
 **Abstract:** Self-determination is one of the most important – and contested – ideas in modern international politics. Yet scholars largely take its meaning and history for granted. This talk will explore the emergence and dispersal of claims to the ‘right of economic self-determination’ after 1941, claims which were bitterly opposed by the great powers, and the ways in which its proponents sought to enlarge the scope of sovereignty and rights during the Cold War.
 - [Video of Brad Simpson's Lecture](https://ensemble.temple.edu/Watch/Ed56Wik9)
 
+_"Vikings in Vietnam: Norwegian Captains and CIA Clandestine Operations in North Vietnam."_<br>
+**Alessandro Giorgi**<br>
+**Wednesday, February 10, 2016 3:30pm**<br>
+
+**Bio:** Alessandro Giorgi is an Italian military historian and author. His focus is centered on World War 2, Vietnam, and clandestine operations. After military service in the 11th Infantry Battalion “Casale”, Italian Army, he graduated at the Università Luigi Bocconi in Milan with a thesis on the Italian defense industry. He is the author of: Cronaca della Seconda Guerra Mondiale 1939-1945 (“Chronology of WWII 1939-1945”, Editoriale Lupo publisher, Vicchio, Florence, 2013), Cronaca della Guerra del Vietnam 1961-1975 (“Chronology of the Vietnam War 1961-1975”, Editoriale Lupo, Vicchio, Florence, 2015) and other works.
+
+**Abstract:** In a little-known episode of the Vietnam War, the CIA hired Norwegian skippers to command fast patrol boats to land South Vietnamese commandos and combat swimmers on the coasts of North Vietnam. This talk explores the causes and consequences of this Norwegian connection, an intriguing episode of the early stages of the Vietnam War.
+
+Copies of Alessandro Giorgi's books will be available for purchase and signing.
+- [Video of Allessandro Giorgi's Lecture](https://ensemble.temple.edu/Watch/Xn85SrPg)
+
+_"The Rise of the Military Welfare State."_<br>
+**Jennifer Mittelstadt, Rutgers University**<br>
+**Tuesday, February 23, 2016 3:30pm**<br>
+
+**Bio:** Jennifer Mittelstadt is Associate Professor of History at Rutgers University, New Brunswick.  She has written and edited two books on social welfare, _From Welfare to Workfare:  The Unintended Consequences of Liberal Reform, 1945-1965_ (Chapel Hill:  University of North Carolina Press, 2005) and (with Premilla Nadasen and Marisa Chappell) _Welfare in the United States: A History with Documents_ (New York:  Routledge, 2009).  A former fellow at the Woodrow Wilson Center for International Scholars, her writing has appeared in such publications as _Jacobin, the New York Times_, and the _LA Times_.  Her most recent book is _The Rise of the Military Welfare State_ (Harvard, 2015).
+
+**Abstract:** Since the end of the draft, the U.S. Army has prided itself on its patriotic volunteers who heed the call to “Be All That You Can Be.” But beneath the recruitment slogans, the army promised volunteers something more tangible: a social safety net including medical and dental care, education, child care, financial counseling, housing assistance, legal services, and other privileges that had long been reserved for career soldiers. _The Rise of the Military Welfare State_ examines how the U.S. Army’s extension of benefits to enlisted men and women created a military welfare system of unprecedented size and scope.
+
+America’s all-volunteer army took shape in the 1970s, in the wake of widespread opposition to the draft. Abandoning compulsory conscription, it wrestled with how to attract and retain soldiers—a task made more difficult by the military’s plummeting prestige after Vietnam. The army solved the problem, Mittelstadt shows, by promising to take care of its own—the more than ten million Americans who volunteered for active duty after 1973 and their families. While the United States dismantled its civilian welfare system in the 1980s and 1990s, army benefits continued to expand.
+
+Yet not everyone was pleased by programs that, in their view, encouraged dependency, infantilized soldiers, and feminized the institution. Fighting to outsource and privatize the army’s “socialist” system and to reinforce “self-reliance” among American soldiers, opponents rolled back some of the military welfare state’s signature achievements, even as a new era of war began.
+
+Copies of Dr. Mittelstadt's book will be available for purchase and signing.
+- [Video of Jennifer Mittelstadt's Lecture](https://ensemble.temple.edu/Watch/m9X8Hpa2)
+
+_"Arsenal of Liberty: The Development of American Military Manufacturing in the Early Republic."_<br>
+**Andrew J.B. Fagal, Princeton University, Assistant Editor, The Papers of Thomas Jefferson**<br>
+**Wednesday, March 16, 2016 3:30pm**<br>
+
+**Bio:** Andrew J. B. Fagal is an assistant editor for the Papers of Thomas Jefferson at Princeton University. He received his Ph.D. from Binghamton University, the State University of New York, in 2013 and has had his work on the War of 1812 published in _The New England Quarterly_ and _New York History_. He is currently completing his book manuscript on the political economy of war in the early republic.
+
+**Abstract:** Between the American Revolution and the War of 1812 there was a fundamental transformation in American manufacturing capacity. During the War of Independence the Continental Congress and state governments were forced to turn to the international market for arms and munitions as domestic suppliers could not hope to meet the army's material demands. The situation some thirty years later was vastly different as domestic suppliers such as DuPont, Eli Whitney, and the Springfield Armory were able to keep the armed forces well-supplied with the instruments of battle. This talk will explore why this broad economic change occurred, the domestic politics and policies behind it, and its significance for understanding the nature of governance in the early American republic.
+
+_"The Elusive President: Why is JFK so hard to understand?"_<br>
+**Tim Naftali, New York University**<br>
+**Thursday, April 14, 2016 3:30pm**
+
+**Bio:** An associate clinical professor of history and public service at NYU and co-director of NYU’s Center for the United States and the Cold War, Tim Naftali is a native of Montreal and a graduate of Yale with a doctorate in history from Harvard. Using Soviet-era documents, he and Russian academic Aleksandr Fursenko wrote the prize-winning _One Hell of a Gamble: Khrushchev, Castro and Kennedy, 1958-1964_ and _Khrushchev’s Cold War_, the latter winning the _Duke of Westminster’s Medal for Military Literature_ in 2007 and inclusion on _Foreign Affairs’_ 2014 list of the ten best books on the Cold War. As a consultant to the 9/11 Commission, Naftali wrote a history of US counterterrorism, published as _Blind Spot: The Secret History of American Counterterrorism_, which included an account of the US response to the 1972 Munich Olympics massacre. Naftali came to NYU after serving as the founding director of the federal Richard Nixon Presidential Library and Museum in Yorba Linda, California.  Naftali, whose work has appeared in _The New York Times, The Los Angeles Times, Slate_ and _Foreign Affairs_, is also seen regularly on television as a commentator on contemporary history.  Most recently, he was featured in CNN’s _The Sixties_ and _The Seventies_ and in the PBS documentaries, _Dick Cavett’s Watergate, Dick Cavett’s Vietnam_ and _The Bomb_.
+- [Video of Dr. Naftali's Lecture](https://ensemble.temple.edu/Watch/t4C6KoWs)
