@@ -60,6 +60,7 @@ _“International Human Rights and Forced Migration in National Politics: India 
 She has also contributed a chapter to Governance and the Governed: a collaborative book project between the London School of Economics and Tata Institute of Social Science called . She is currently a non-resident Visitng Fellow at the Center for the Advanced Study of India (CASI) at the University of Pennsylvania. While much of her research has a strong empirical focus, she also centrally engages with larger theoretical questions. Her current areas of interest are governance and the state.
 - [Video of Sanjeevini Lokhande](https://ensemble.temple.edu/Watch/Ky2p9B5M)
 
+
 ### Fall 2017
 _"The Greatest Question that Has Ever Been Presented to the American People."_<br>
 **Stephen Kinzer, Senior Fellow at Brown University Watson Institute for International and Public Affairs**<br>
@@ -110,6 +111,7 @@ _"National Security in the 21st Century."_<br>
 
 He received his commission into the infantry upon his graduation from West Point in 2003 and, after completing his graduate studies at Oxford University, served as a tactical leader in the 82nd Airborne Division, deploying to Iraq during the Surge in 2007 and to Haiti following the earthquake in 2010. He then served as a Strategic Advisor and Strategic Analyst on the personal staffs of General David Petraeus in Afghanistan in 2010 and then General James Mattis at United States Central Command. He returned to West Point to serve as an Instructor and Assistant Professor of International Relations and Comparative Politics in the Department of Social Sciences. Upon completion of the U.S. Army Command and General Staff College, he then served as a Battalion Executive Officer before assuming duties as a Brigade Operations Officer, culminating in his orchestration of Exercise Yudh Abhyas with the Indian Army near the India-Nepal border.
 - [Video of Lt. Col. Benedict's Lecture](https://ensemble.temple.edu/Watch/o6ZMc5i9)
+
 
 ### Spring 2017
 _"The Texas Gun Frontier and the Travails of Mexican History."_<br>
@@ -174,6 +176,7 @@ This lecture examines why Kennan felt the purges in such an intensely personal w
 **Friday, May 5, 2017 9:00am**<br>
 
 Gather with current and former Temple faculty members, graduate students, and friends of CENFAD to celebrate the career of our director, Dr. Richard Immerman. After many terrific years spent at Temple and directing CENFAD, Dr. Immerman is retiring. To see him off, a number of his former graduate students will return to Temple to give presentations on their current research -- a true testament to his impact on the field.
+
 
 ## Fall 2016
 _"A Mongrel-American Social Science: International Relations."_<br>
@@ -244,6 +247,7 @@ _"Foreign Intervention in Africa: From The Cold War to the War on Terror."_<br>
 
 Copies of Dr. Schmidt's book will be available for purchase and signing.
 - [Video of Dr. Schmidt's Lecture](https://ensemble.temple.edu/Watch/Ye8n6CPt)
+
 
 ### Spring 2016
 _"Self-Determination, Economic Sovereignty and International History."_<br>
