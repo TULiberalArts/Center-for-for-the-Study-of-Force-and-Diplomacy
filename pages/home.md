@@ -38,17 +38,17 @@ ___
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
       title="CENFAD Lecture Series" 
-      content="Need a description" 
+      content="Need a description (Nick can write)" 
       image="" 
       button-link="https://develop.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/lecture-series/" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title="NEED CONTENT if Box Staying" 
-        content="Need a description" 
+        title="Funding" 
+        content="Need a description (Nick can write)" 
         image="" 
-        button-link=" " 
+        button-link="https://develop.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/funding/" 
         button-text="Learn More" %}
       </div>
 </div>
