@@ -38,15 +38,15 @@ ___
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
       title="CENFAD Lecture Series" 
-      content="" 
+      content="Need a description" 
       image="" 
-      button-link="" 
+      button-link="/center-for-the-study-of-force-and-diplomacy#lecture-series/" 
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
-        title="NEED CONTENT" 
-        content=" " 
+        title="NEED CONTENT if Box Staying" 
+        content="Need a description" 
         image="" 
         button-link=" " 
         button-text="Learn More" %}
