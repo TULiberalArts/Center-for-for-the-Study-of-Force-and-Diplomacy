@@ -244,3 +244,14 @@ _"Foreign Intervention in Africa: From The Cold War to the War on Terror."_<br>
 
 Copies of Dr. Schmidt's book will be available for purchase and signing.
 - [Video of Dr. Schmidt's Lecture](https://ensemble.temple.edu/Watch/Ye8n6CPt)
+
+### Spring 2016
+_"Self-Determination, Economic Sovereignty and International History."_<br>
+**Bradley Simpson, University of Connecticut**<br>
+**Wednesday, January 20, 2016 3:30pm**<br>
+
+**Bio:** Brad Simpson is associate professor of history and Asian Studies at the University of Connecticut. He is the author of _Economists with Guns: Authoritarian Development and U.S.-Indonesian Relations, 1960-1968_(Stanford 2008). During his time at the Humanities Institute Brad is writing a global history of the idea of self-determination, exploring its political, cultural and legal descent through post-1945 U.S. foreign relations and international politics, to be published by Oxford University Press.
+
+**Abstract:** Self-determination is one of the most important – and contested – ideas in modern international politics. Yet scholars largely take its meaning and history for granted. This talk will explore the emergence and dispersal of claims to the ‘right of economic self-determination’ after 1941, claims which were bitterly opposed by the great powers, and the ways in which its proponents sought to enlarge the scope of sovereignty and rights during the Cold War.
+- [Video of Brad Simpson's Lecture](https://ensemble.temple.edu/Watch/Ed56Wik9)
+
