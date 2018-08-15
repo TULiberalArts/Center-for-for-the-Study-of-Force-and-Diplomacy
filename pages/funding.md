@@ -20,7 +20,7 @@ Any paper written by an undergraduate student in the 2017 calendar year submitte
 
 **The deadline for submissions is 5:00 pm on Sunday April 15, 2018.**
 
-Please address all questions and Electronic Submissions to [Eric Perinovic](mailto:eric.perinovic@temple.edu).
+Please address all questions and Electronic Submissions to [Mike Fischer](mailto:tuh29881@temple.edu).
 
 **2018 Winner:**
 - Holden Zimmerman, University of Kansas, "Defensive Humanitarianism: Swiss Internment Camps in WWI"
