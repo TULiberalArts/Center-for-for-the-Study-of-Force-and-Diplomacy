@@ -38,7 +38,7 @@ ___
   <div class="row row-wide">
     <div class="col m12 l4">{% include cards/card2-image.html 
       title="CENFAD Lecture Series" 
-      content="Need a description (Nick can write)" 
+      content="Attend a CENFAD lecture to learn more about the study of force and diplomacy from government officials and award-winning scholars." 
       image="" 
       button-link="https://develop.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/lecture-series/" 
       button-text="Learn More" %}
@@ -46,7 +46,7 @@ ___
     <div class="row row-wide">
       <div class="col m12 l4">{% include cards/card2-image.html 
         title="Funding" 
-        content="Need a description (Nick can write)" 
+        content="The Center for the Study of Force and Diplomacy offers prizes, fellowships and travel funds to make cutting-edge research possible." 
         image="" 
         button-link="https://develop.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/funding/" 
         button-text="Learn More" %}
