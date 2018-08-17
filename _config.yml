@@ -37,6 +37,8 @@ university:
 college:
   name: College of Liberal Arts
   url: https://liberalarts.temple.edu/
+program_news: https://liberalarts.temple.edu/news/center-for-the-study-of-force-and-diplomacy
+program_events: https://events.temple.edu/department/center-for-the-study-of-force-and-diplomacy
   
 # CSV/JSON/YAML data feeds URLs, to be fetched before each build
 events-feed: https://liberalarts.temple.edu/events/center-for-the-study-of-force-and-diplomacy/csv
