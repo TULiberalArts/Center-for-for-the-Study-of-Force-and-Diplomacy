@@ -27,16 +27,6 @@ ___
 ## Fellowships and Post-Docs
 - [SMU Center for Presidential History Postdoctoral Fellowship](http://www.cla.temple.edu/cenfad/Resources/documents/SMUCenterforPresidentialHistoryPostdoctoralFellowship.pdf) (December 1, 2013)
 
-## General Funding Opportunities
-- [Databases and Resources](http://www.cla.temple.edu/cenfad/Resources/DatabasesandResources.htm)
-- [Opportunities for Undergraduates](http://www.cla.temple.edu/cenfad/Resources/OpportunitiesforUndergraduates.htm)
-- [Scholarly Associations](http://www.cla.temple.edu/cenfad/Resources/ScholarlyAssociations.htm)
-- [Centers, Foundations, Institutions and Organizations](http://www.cla.temple.edu/cenfad/Resources/cfio.htm)
-- [University Libraries and Centers](http://www.cla.temple.edu/cenfad/Resources/UniversityLibrariesCentersandInstitutions.htm)
-- [Government Funding](http://www.cla.temple.edu/cenfad/Resources/GovernmentFunding.htm)
-- [Congress, American Politics, and the Presidency](http://www.cla.temple.edu/cenfad/Resources/CongressAmericanPoliticsandthePresidency.htm)
-- [Foreign Language Training](http://www.cla.temple.edu/cenfad/Resources/ForeignLanguageTraining.htm)
-
 ## Journals (subscription may be required)
 - [American Diplomacy](http://www.unc.edu/depts/diplomat/)
 - [Diplomatic History](http://www.colorado.edu/history/diplomatic/)
