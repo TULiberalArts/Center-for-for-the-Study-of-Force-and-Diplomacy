@@ -29,7 +29,7 @@ ___
 
 ## Journals (subscription may be required)
 - [American Diplomacy](http://www.unc.edu/depts/diplomat/)
-- [Diplomatic History](http://www.colorado.edu/history/diplomatic/)
+- Diplomatic History
 - [Foreign Affairs](http://www.foreignaffairs.org/)
 - [International Security](http://www.mitpressjournals.org/loi/isec)
 - [Perspective](http://web.bu.edu/ISCIP/perspective.html)
