@@ -158,7 +158,7 @@ Temple University's Center for the Study of Force and Diplomacy (CENFAD) is happ
 
 3) a proof that you will be presenting, for instance a copy/screenshot of the program page where you appear.
 
-- **The deadline for submissions is Fall Semester-5:00 pm on October 2.**
+- **The deadline for submissions is Fall Semester-5:00 pm on October 1, 2018.**
 - **Spring Semester-5:00 pm on March 1.**
 
 **_Please address all questions and Electronic Submissions to [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu)_**.
