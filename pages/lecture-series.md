@@ -14,6 +14,50 @@ sidebar_content: sidebars/history-of-cenfad.html
 ## Events and Video
 Over the years, CENFAD has invited guest speakers to give talks on issues that relate to the study of force and diplomacy. Past speakers have included Pulitzer- and Bancroft-winning scholars such as John Lewis Gaddis, Ari Kelman, Melvyn Leffler, and Fredrik Logevall, current and former government officials including Gov. Tom Ridge, Gen. Wesley Clark, Anthony Lake, and Aaron O’Connell, and scholars working on the cutting edge of military and diplomatic history like Stephen Biddle, Frank Costigliola, Greg Daddis, Brian DeLay, Thomas Fingar, Maria Höhn, Barbara Keys, Brian Linn, Jennifer Mittelstadt, Tim Naftali, Andrew Preston, Andrew Rotter, Dennis Showalter, and Mark Stoler. Many of these speakers have appeared under the auspices of the CENFAD colloquium series, which is an annual highlight at Temple. CENFAD colloquia typically are scheduled once or twice a month during the semester in the Russell F. Weigley Room, Gladfelter 914. To suggest a speaker, contact CENFAD's Thomas Davis Fellow, [Mike Fischer](mailto:tuh29881@temple.edu).
 
+### Fall 2018
+_“American Interventions in Revolutionary Russia: Methods, Motives, Memories”_
+**David Foglesong, Professor of History at Rutgers University**<br>
+**Wednesday, September 5, 2018 3:30 pm**<br>
+
+**Bio:** David Foglesong is a historian of the foreign relations of the United States whose research has focused primarily on relations between the United States and Russia. He is the author of many articles in scholarly journals and two books: The American Mission and the “Evil Empire": The Crusade for a "Free Russia" Since 1881 (Cambridge University Press, 2007); and America's Secret War Against Bolshevism: U.S. Intervention in the Russian Civil War, 1917-1920 (The University of North Carolina Press, 1995).
+
+Foglesong earned a B.A. in European Studies, magna cum laude, from Amherst College in 1980. He received his Ph.D. in History from the University of California at Berkeley in 1991. Since 1991 Foglesong has been a professor of History at Rutgers University in New Brunswick, New Jersey. He regularly teaches courses on U.S. foreign policy, the Cold War, U.S. experiences with “nation building,” and modern Russian history.
+
+Foglesong has received fellowships and grants from the Gerald R. Ford Foundation, the Hoover Institution on War, Revolution and Peace, the International Research and Exchanges Board, the Kennan Institute for Advanced Russian Studies, and the MacArthur International Security Studies program.
+
+Foglesong is currently working on two book-length projects. Together with two Russian historians, he is writing a comprehensive history of American-Russian relations since 1776. In addition, he is conducting research for a history of American debates over “nation building” efforts in military occupations of foreign countries since 1898.
+
+_“"Losing Hearts and Minds: American-Iranian Relations and International Education during the Cold War."_
+**Matthew Shannon, Assistant Professor of History at Emory & Henry College**<br>
+**Thursay, September 20, 2018 3:30 pm**<br>
+
+**Bio:** Matthew Shannon is an Assistant Professor of History at Emory & Henry College where he is a historian of U.S. foreign relations. His book, which began as a dissertation at Temple, is titled _Losing Hearts and Minds: American-Iranian Relations and International Education during the Cold War,_ and it was published with Cornell University Press in 2017. He has articles in journals such as _Diplomatic History_, _International History Review_, _Iranian Studies_, and _The Sixties_,and is the co-editor of a forthcoming volume with Palgrave Macmillan titled _9/11 and the Academy: the Liberal Arts and the Twenty-First Century World_. He remains focused in his current work on the transnational and cultural ties between the United States in Iran, particularly the mid-century missionary presence and its impact on the broader American “mission” in Iran at the height of the developmentalist moment from the 1940s to the 1960s.
+
+_“The Control War: The Struggle for South Vietnam, 1968-1975”_
+**Martin Clemis**<br>
+**Assistant Professor of History and Government at Valley Forge Military College and Assistant Director of Research at the H.R. McMaster Center for Security Studies**<br>
+**Wednesday, October 3, 2018 3:30 pm**<br>
+
+**Bio:** Martin G. Clemis earned a PhD in history from Temple University in 2015 under the direction of Gregory J.W. Urwin.  He is Assistant Professor of History and Government at Valley Forge Military College and Assistant Director of Research at the H.R. McMaster Center for Security Studies. He is also a part-time lecturer at Rutgers University, Camden. Martin is the author of _The Control War: The Struggle for South Vietnam, 1968-1975_ (University of Oklahoma Press, 2018). He is also a contributing author in _Drawdowns: The American Way of Postwar_ (New York University Press, 2017), _War and Geography: The Spatiality of Organized Mass Violence_ (Ferdinand Schoningh, 2017), and _Beyond the Quagmire: New Interpretations of the Vietnam Conflict_ (University of North Texas Press, 2019). Martin has had articles published in Army History and Small Wars and Insurgencies. His current research explores the intersection of war and agriculture during the Second Indochina War. Martin is presently working on a book project that examines the military and political significance of rice during the conflict.
+
+_“U.S. Foreign Policy and Muslim Women’s Human Rights”_
+**Kelly Shannon**<br>
+**Associate Professor of History at Florida Atlantic University**<br>
+**Wednesday, October 17, 2018 3:30 pm**<br>
+**Bio:** Kelly J. Shannon is an Associate Professor of History at Florida Atlantic University (FAU). She specializes in the 20th century history of U.S. foreign relations, with particular attention to the Islamic world, transnational history, and human rights. She is the author of _U.S. Foreign Policy and Muslim Women’s Human Rights_ (University of Pennsylvania Press, 2018). Her other publications include book chapters and journal articles on American foreign policy, women’s human rights, and the Islamic world. Dr. Shannon was an inaugural faculty fellow with FAU’s Peace, Justice, and Human Rights (PJHR) Initiative. She is the recipient of several grants and honors, including a National Endowment for the Humanities (NEH) Summer Stipend, the Samuel Flagg Bemis Research Grant from the Society for Historians of American Foreign Relations (SHAFR), and CENFAD's Thomas Davis Fellowship and Marvin Wachman Fellowship in Force and Diplomacy. She was also nominated for the 2018 Andrew Carnegie Fellows Program. Prior to joining the faculty at FAU, Dr. Shannon was a Visiting Assistant Professor of History at La Salle University in Philadelphia and an Assistant Professor of History and International Studies at the University of Alaska Anchorage. She earned her Ph.D. in History at Temple University, her M.A. in History at the University of Connecticut, and her B.A. in History from Vassar College. Dr. Shannon is currently working on a book-length study of U.S. relations with Iran during the first half of the twentieth century, tentatively entitled _The Ties of Good Harmony: U.S.-Iran Relations, 1905-1953_.
+
+_"To Master the Boundless Sea: The U.S. Navy, the Marine Environment, and the Cartography of Empire”_
+**Jason Smith**<br>
+**Assistant Professor of History at southern Connecticut State University**<br>
+**Thursday, November 15, 2018 3:30 pm**<br>
+**Bio:** Jason W. Smith is assistant professor of history at Southern Connecticut State University. He is the author of numerous articles published in the _Journal of Military History_, _Environmental History_, the _International Journal of Maritime History_, and the _New England Quarterly_. He is the author of _To Master the Boundless Sea: The U.S. Navy, the Marine Environment, and the Cartography of Empire_ (UNC Press, 2018). His new project will be a social and cultural history of American navalism at the turn of the twentieth century.
+
+_“Consuming Japan: Popular Culture and the Globalizing of America”_
+**Drew McKevitt**<br>
+**Professor of History at Louisiana Tech University**
+
+___
+
 ### Spring 2018
 _“The Trump Era or Interregnum? The Changing View of Europe in the United States.”_<br>
 **Stephen Szabo, Senior Resident Fellow at the Johns Hopkins University’s American Institute for Contemporary German Studies and Adjunct Lecturer at the School of Advanced International Studies**<br>
