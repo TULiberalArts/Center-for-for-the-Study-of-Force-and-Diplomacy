@@ -8,8 +8,7 @@ title: Resources
 description: >-
 keywords: 'funding opportunities, research grants, resources, journals, archives'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/resources.html       
+sidebar: sidebars/resources.html       
 ---
 ## Support CENFAD
 The Center for the Study of Force and Diplomacy constantly seeks to expand its support base by recruiting more members. Membership levels begin at $15.00 per year for current Temple students, both graduate and undergraduate. A regular membership is $30.00, a sustaining membership is $250.00, and a lifetime membership is $1,000. Readers of Strategic Visions are encouraged to enlist themselves or their friends as members of the Center for the Study of Force and Diplomacy by making use of the form that accompanies this newsletter.
@@ -17,7 +16,7 @@ The Center for the Study of Force and Diplomacy constantly seeks to expand its s
 Members receive a subscription to Strategic Visions and free admission to all Center activities. The Center also welcomes tax-deductible gifts from individuals and corporations interested in supporting its mission. Make out your check to Temple University - Center for the Study of Force and Diplomacy, and mail it to:
 
 **Center for the Study of Force and Diplomacy**<br>
-Temple University, Department of History<br> 
+Temple University, Department of History<br>
 913 Gladfelter Hall<br>
 1115 W. Berks St.<br>
 Philadelphia, PA 19122-6089<br>

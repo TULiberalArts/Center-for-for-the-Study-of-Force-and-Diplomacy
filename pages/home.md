@@ -8,7 +8,6 @@ title: Home
 description: >-
 keywords: 'history department, center for the study of force and diplomacy'
 # custom variables
-sidebar: false
 promotion-table: true
 feature: false
 ---

@@ -5,14 +5,13 @@ permalink: /strategic-visions-magazine/
 published: true
 # meta-data variables
 title: Strategic Visions Magazine
-description: >- 
+description: >-
 keywords: ''
 # custom variables
-sidebar: true
-sidebar_content: sidebars/strategic-visions-magazine.html      
+sidebar: sidebars/strategic-visions-magazine.html      
 ---
 ![Strategic Visions Magazine logo]({{site.baseurl}}/media/clip_image002.jpg){:.responsive-img .img-center}
-## Strategic Visions Fall 2018 Edition 
+## Strategic Visions Fall 2018 Edition
 Read the [Fall 2018 Edition of _Strategic Visions!_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/36/61)
 
 ### Contents:

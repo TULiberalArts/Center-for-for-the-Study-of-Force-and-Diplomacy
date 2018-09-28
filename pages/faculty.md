@@ -8,6 +8,4 @@ title: Faculty
 description: >-
 keywords: ''
 # custom variables
-sidebar: false
 ---
-

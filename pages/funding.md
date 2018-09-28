@@ -5,11 +5,10 @@ permalink: /funding/
 published: true
 # meta-data variables
 title: Funding
-description: >- 
+description: >-
 keywords: 'cenfad, awards, fellowships, travel, graduate students, prizes'
 # custom variables
-sidebar: true
-sidebar_content: sidebars/research.html      
+sidebar: sidebars/research.html      
 ---
 ## Prizes
 
@@ -37,7 +36,7 @@ Please address all questions and Electronic Submissions to [Mike Fischer](mailto
 - 2010: Robert King, Harvard University, ["Academic Scribblers: Policy Reports and the Making of American Strategy on Latin America, 1948-1980"](https://liberalarts.temple.edu/sites/liberalarts/files/King.pdf)
  2009: Raymond Joseph Parrot, University of Virginia, ["An Education for Occupation: Army Civil Affairs Training And Military Planning for Postwar Germany"](https://liberalarts.temple.edu/sites/liberalarts/files/RaymondJosephParrott_Virginia_ArmyCivilAffairsinPostwarGermany.pdf)
 - 2008: Justin King, University of Wisconsin-Madison, ["Partners and Rivals: Political Economy and American Diplomacy, 1969-1974"](https://liberalarts.temple.edu/sites/liberalarts/files/PartnersandRivals.doc)
-- 2007: Debbie Sharnak, Vassar College, ["The Perception of Strategic Alliances: Carter's Failure to Normalize Relations With Vietnam"](https://liberalarts.temple.edu/sites/liberalarts/files/Normalizing%20Relations%20with%20Vietnam.doc) 
+- 2007: Debbie Sharnak, Vassar College, ["The Perception of Strategic Alliances: Carter's Failure to Normalize Relations With Vietnam"](https://liberalarts.temple.edu/sites/liberalarts/files/Normalizing%20Relations%20with%20Vietnam.doc)
 - 2006: Betsey Beasley, University of Georgia at Athens, ["Damsels in Distress, Frustrated Old Women, and the Masculine Enterprise: Gendered Constructs in U.S. Relations with Vietnam, 1963-1968"](https://liberalarts.temple.edu/sites/liberalarts/files/Betsy%20Beasley%20vietnam%20research%20paper7%20publish.doc)
 
 ___
@@ -58,11 +57,11 @@ This fellowship is made possible by the generosity of Todd Davis, who received h
 - 2011-12: Kaete O'Connell
 - 2010-11: Matthew Shannon
 - 2009-10: Timothy Sayle
-- 2008-09: Benjamin Brandenburg 
+- 2008-09: Benjamin Brandenburg
 - 2007-08: Kelly J. Shannon
 - 2006-07: Eric Klinek
 - 2005-06: David Zierler
-- 2004-05: Wendy Wong 
+- 2004-05: Wendy Wong
 - 2003-04: Andrew McKevitt
 
 ### Sergeant Major William F. Berger Prize Endowed Fellowship for War and Society
@@ -100,7 +99,7 @@ Endowed research award for Temple University graduate students of diplomatic and
 - 2011-12: Martin Clemis
 - 2010-11: Ryan Johnson
 - 2009-10: Michael Dolski
-- 2008-09: Eric Klinek 
+- 2008-09: Eric Klinek
 - 2007-08: Lynette Deem
 - 2006-07: Richard Grippaldi
 - 2005-06: David Ulbrich
@@ -120,11 +119,11 @@ To be awarded to a Temple University graduate student in the history of U.S. for
 - 2011-12: Larry Kessler
 - 2010-11: Carla Stephens
 - 2009-10: Benjamin Brandenberg and Holger Lowendorf
-- 2008-09: Kelly J. Shannon and Wendy Wong 
+- 2008-09: Kelly J. Shannon and Wendy Wong
 - 2007-08: David Zierler
 - 2006-07: Hieu Ho
 - 2005-06: Ginger Davis
-- 2004-05: Darren Bardell 
+- 2004-05: Darren Bardell
 - 2003-04: Laura Szumanski Steel
 
 ### Jeffrey Bower Endowed Research Fellowship
@@ -140,10 +139,10 @@ Awarded to a Temple University graduate student of military or diplomatic histor
 - 2011-12: Aaron Sullivan
 - 2010-11: Ben Brandenberg
 - 2009-10: Claude Barnes and Michele Louro
-- 2008-09: Andrew McKevitt 
+- 2008-09: Andrew McKevitt
 - 2007-08: Katherine Scott
-- 2006-07: Britton MacDonald 
-- 2005-06: Uta Kresse 
+- 2006-07: Britton MacDonald
+- 2005-06: Uta Kresse
 - 2004-05: Ginger Davis
 - 2003-04: Bob Wintermute
 

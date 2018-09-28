@@ -5,11 +5,11 @@ permalink: /international-history-workshop/
 published: false
 # meta-data variables
 title: International History Workshop
-description: >- 
+description: >-
 keywords: ''
 # custom variables
-sidebar: true
-sidebar_content: sidebars/international-history-workshop.html      
+
+sidebar: sidebars/international-history-workshop.html      
 ---
 The International History Workshop seeks to promote the exchange of ideas among scholars working on international, transnational, and global history; and to develop contacts between Temple faculty and graduate students working in this area and their peers at other leading programs in the country.
 
