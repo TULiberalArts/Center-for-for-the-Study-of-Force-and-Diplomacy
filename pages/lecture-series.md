@@ -33,11 +33,15 @@ _“The Nicaraguan Civic Insurrection: A Historical Perspective”_<br>
 **Monday, September 17, 2018, 3:30 pm**<br>
 Professor Bendaña is a Nicaraguan historian and former Ambassador to the United Nations. He will discuss the recent Nicaraguan Civic Insurrection in the context of the history of Nicaragua and its political and social unrest.
 
+- [Video of Alejandro Bendaña's Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/Mc86Wek3/view)
+
 _“"Losing Hearts and Minds: American-Iranian Relations and International Education during the Cold War."_<br>
 **Matthew Shannon, Assistant Professor of History at Emory & Henry College_<br>
 **Thursay, September 20, 2018 3:30 pm**<br>
 
 **Bio:** Matthew Shannon is an Assistant Professor of History at Emory & Henry College where he is a historian of U.S. foreign relations. His book, which began as a dissertation at Temple, is titled _Losing Hearts and Minds: American-Iranian Relations and International Education during the Cold War,_ and it was published with Cornell University Press in 2017. He has articles in journals such as _Diplomatic History_, _International History Review_, _Iranian Studies_, and _The Sixties_,and is the co-editor of a forthcoming volume with Palgrave Macmillan titled _9/11 and the Academy: the Liberal Arts and the Twenty-First Century World_. He remains focused in his current work on the transnational and cultural ties between the United States in Iran, particularly the mid-century missionary presence and its impact on the broader American “mission” in Iran at the height of the developmentalist moment from the 1940s to the 1960s.
+
+- [Video of Matthew Shannon's Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/Qc9n2MRf/view)
 
 _“The Control War: The Struggle for South Vietnam, 1968-1975”_<br>
 **Martin Clemis**<br>
