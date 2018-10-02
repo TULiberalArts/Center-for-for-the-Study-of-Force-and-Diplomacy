@@ -107,7 +107,7 @@ Endowed research award for Temple University graduate students of diplomatic and
 - 2003-04: John Bonin
 
 ### Marvin Wachman Fellowship in Force and Diplomacy
-To be awarded to a Temple University graduate student in the history of U.S. foreign relations. Direct questions or applications should contact [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu). **The deadline for spring awards is October 1.
+To be awarded to a Temple University graduate student in the history of U.S. foreign relations. Direct questions or applications should contact [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu). **The deadline for spring awards is March 1.**
 
 **Previous Recipients:**
 - 2017-18: Keith Riley
