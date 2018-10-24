@@ -8,4 +8,5 @@ title: Faculty
 description: >-
 keywords: ''
 # custom variables
+faculty: profiles/faculty.html
 ---
