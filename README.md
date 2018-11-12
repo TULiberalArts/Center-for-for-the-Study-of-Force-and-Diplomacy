@@ -7,7 +7,7 @@ Center for the Study of Force and Diplomacy is statically generated with [Jekyll
 | Links |  |
 | --- | --- |
 | Development | https://develop.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/ |
-| Production |  |
+| Production | https://www.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/ |
 
 ## Content Structure
 
