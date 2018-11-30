@@ -67,6 +67,9 @@ _"To Master the Boundless Sea: The U.S. Navy, the Marine Environment, and the Ca
 **Thursday, November 15, 2018 3:30 pm**<br>
 **Bio:** Jason W. Smith is assistant professor of history at Southern Connecticut State University. He is the author of numerous articles published in the _Journal of Military History_, _Environmental History_, the _International Journal of Maritime History_, and the _New England Quarterly_. He is the author of _To Master the Boundless Sea: The U.S. Navy, the Marine Environment, and the Cartography of Empire_ (UNC Press, 2018). His new project will be a social and cultural history of American navalism at the turn of the twentieth century.
 
+- [Interview with Jason Smith](https://drive.google.com/file/d/1VMikySsfYi45HVcg1jMoFrvbzESHbFPD/view?usp=sharing) 
+- [Video of Jason Smith's Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/q6C7RpFk/view)
+
 _“Consuming Japan: Popular Culture and the Globalizing of America”_<br>
 **Drew McKevitt**<br>
 **Professor of History at Louisiana Tech University**
