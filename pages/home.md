@@ -9,6 +9,7 @@ description: >-
 keywords: 'history department, center for the study of force and diplomacy'
 # custom variables
 promotion-table: true
+feature-image: null
 feature: true
 ---
 ![CENFAD Logo]({{site.baseurl}}/media/resized CENFAD_LOGO_05092012_001.jpg){:.img-right}
