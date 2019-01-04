@@ -13,6 +13,39 @@ sidebar: sidebars/history-of-cenfad.html
 ## Events and Video
 Over the years, CENFAD has invited guest speakers to give talks on issues that relate to the study of force and diplomacy. Past speakers have included Pulitzer- and Bancroft-winning scholars such as John Lewis Gaddis, Ari Kelman, Melvyn Leffler, and Fredrik Logevall, current and former government officials including Gov. Tom Ridge, Gen. Wesley Clark, Anthony Lake, and Aaron O’Connell, and scholars working on the cutting edge of military and diplomatic history like Stephen Biddle, Frank Costigliola, Greg Daddis, Brian DeLay, Thomas Fingar, Maria Höhn, Barbara Keys, Brian Linn, Jennifer Mittelstadt, Tim Naftali, Andrew Preston, Andrew Rotter, Dennis Showalter, and Mark Stoler. Many of these speakers have appeared under the auspices of the CENFAD colloquium series, which is an annual highlight at Temple. CENFAD colloquia typically are scheduled once or twice a month during the semester in the Russell F. Weigley Room, Gladfelter 914. To suggest a speaker, contact CENFAD's Thomas Davis Fellow, [Mike Fischer](mailto:tuh29881@temple.edu).
 
+___
+
+### Spring 2019
+_“The Kingdom of God Has No Borders: A Global History of American Evangelicals”_<br>
+**Melanie McAlister, Professor of American Studies and International Affairs at George Washington University**<br>
+**Wednesday, January 23, 2019 4:30 pm**<br>
+
+_“A Roundtable Discussion of US Military History and Military Culture”_<br>
+**Colonel Edward A. Kaplan, USAF and the US Army War College**<br>
+**Tuesday, January 29, 2019 10 am**<br>
+
+_“Activists and Insurgents: Human Rights Advocacy During the Contra War, 1981-1988”_<br>
+**Erik Moore, CENFAD Non-Resident Fellow and Postdoctorial Associate at the University of Oklahoma **<br>
+**Wednesday, February 6, 2019 4:30 pm**<br>
+
+_“Harry Washington’s Peace: Slavery and Freedom in the United States’ Founding Treaty”_<br>
+**Eliga Gould, Professor of History**<br>
+**Thursday, February 21, 2019 4:30 pm**<br>
+
+_“The Ghosts of Colonial Past and the Crisis of Post-Qadhdhafi Libya”_<br>
+**Ali Ahmida, Professor of Political Science at the University of New England**<br>
+**Thursday, March 14, 2019 4:30 pm**<br>
+
+_“Jimmy Carter in Africa: Race and the Cold War”_<br>
+**Nancy Mitchell, Professor of History at North Carolina State University**<br>
+**Wednesday, April 24, 2019 4:30 pm**<br>
+
+_“In the Shadow of Vietnam: Lyndon Johnson and the Third World”_<br>
+**Mark Lawrence, Associate Professor of History at University of Texas at Austin**<br>
+**Tuesday, January 29, 2019 10 am**<br>
+
+___
+
 ### Fall 2018
 _“American Interventions in Revolutionary Russia: Methods, Motives, Memories”_<br>
 **David Foglesong, Professor of History at Rutgers University**<br>
