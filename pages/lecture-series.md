@@ -25,7 +25,7 @@ _“A Roundtable Discussion of US Military History and Military Culture”_<br>
 **Tuesday, January 29, 2019 10 am**<br>
 
 _“Activists and Insurgents: Human Rights Advocacy During the Contra War, 1981-1988”_<br>
-**Erik Moore, CENFAD Non-Resident Fellow and Postdoctorial Associate at the University of Oklahoma **<br>
+**Erik Moore, CENFAD Non-Resident Fellow and Postdoctorial Associate at the University of Oklahoma**<br>
 **Wednesday, February 6, 2019 4:30 pm**<br>
 
 _“Harry Washington’s Peace: Slavery and Freedom in the United States’ Founding Treaty”_<br>
