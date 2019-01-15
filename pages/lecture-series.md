@@ -19,6 +19,11 @@ ___
 _“The Kingdom of God Has No Borders: A Global History of American Evangelicals”_<br>
 **Melanie McAlister, Professor of American Studies and International Affairs at George Washington University**<br>
 **Wednesday, January 23, 2019 4:30 pm**<br>
+**Bio:** Melani McAlister is Professor of American Studies and International Affairs at George Washington University. She is an expert of studies of the United States in a global context, transnational United States history, United States media and cultural history, evangelical Christianity, religion and politics. 
+
+She is the author of the recently published book _The Kingdom of God Has No Borders: A Global History of American Evangelicals_, as well as the author of _Epic Encounters: Culture, Media, and U.S. Interests in the Middle East since 1945_ (2001) and the co-editor of _Religion and Politics in the Contemporary United States_ (2008). Furthermore, she has published in a variety of academic journals including the _Journal of American History and Diplomatic History_.
+
+She received her PhD in American Civilization from Brown University and her BA in International Affairs from the University of North Carolina-Chapel Hill. She has been the recipient of a variety of fellowships and grants including an NEH grant to begin work on a cultural history of humanitarianism in the Cold War.
 
 _“A Roundtable Discussion of US Military History and Military Culture”_<br>
 **Colonel Edward A. Kaplan, USAF and the US Army War College**<br>
