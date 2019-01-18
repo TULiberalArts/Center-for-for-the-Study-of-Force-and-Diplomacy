@@ -47,7 +47,7 @@ _“Jimmy Carter in Africa: Race and the Cold War”_<br>
 
 _“In the Shadow of Vietnam: Lyndon Johnson and the Third World”_<br>
 **Mark Lawrence, Associate Professor of History at University of Texas at Austin**<br>
-**Tuesday, January 29, 2019 10 am**<br>
+**Wednesday, April 24, 2019 4:30 pm**<br>
 
 ___
 
