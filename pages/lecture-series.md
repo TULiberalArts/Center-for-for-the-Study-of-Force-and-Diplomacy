@@ -17,13 +17,15 @@ ___
 
 ### Spring 2019
 _“The Kingdom of God Has No Borders: A Global History of American Evangelicals”_<br>
-**Melanie McAlister, Professor of American Studies and International Affairs at George Washington University**<br>
+**Melani McAlister, Professor of American Studies and International Affairs at George Washington University**<br>
 **Wednesday, January 23, 2019 4:30 pm**<br>
 **Bio:** Melani McAlister is Professor of American Studies and International Affairs at George Washington University. She is an expert of studies of the United States in a global context, transnational United States history, United States media and cultural history, evangelical Christianity, religion and politics. 
 
 She is the author of the recently published book _The Kingdom of God Has No Borders: A Global History of American Evangelicals_, as well as the author of _Epic Encounters: Culture, Media, and U.S. Interests in the Middle East since 1945_ (2001) and the co-editor of _Religion and Politics in the Contemporary United States_ (2008). Furthermore, she has published in a variety of academic journals including the _Journal of American History and Diplomatic History_.
 
 She received her PhD in American Civilization from Brown University and her BA in International Affairs from the University of North Carolina-Chapel Hill. She has been the recipient of a variety of fellowships and grants including an NEH grant to begin work on a cultural history of humanitarianism in the Cold War.
+
+- [Video of Melani McAlister’s Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/y2FHz53D/view) 
 
 _“A Roundtable Discussion of US Military History and Military Culture”_<br>
 **Colonel Edward A. Kaplan, USAF and the US Army War College**<br>
@@ -32,22 +34,37 @@ _“A Roundtable Discussion of US Military History and Military Culture”_<br>
 _“Activists and Insurgents: Human Rights Advocacy During the Contra War, 1981-1988”_<br>
 **Erik Moore, CENFAD Non-Resident Fellow and Postdoctorial Associate at the University of Oklahoma**<br>
 **Wednesday, February 6, 2019 4:30 pm**<br>
+**Bio:** Erik Moore is a postdoctoral associate at the University of Oklahoma’s Humanities Forum. He is also a 2018-2019 visiting fellow at Temple University’s Center for the Study of Force and Diplomacy. Moore was previously a Bullard-Wethington Fellow (2016-17) and a Hudson Family Fellow (2013-16) at the University of Oklahoma where he received his PhD in history in 2018. Before entering graduate school, Moore practiced law in the Kansas City area six years.
+
+Moore’s research focuses on law in U.S. foreign relations to explain how domestic conceptions of law interacted with that of other nations to influence international affairs. His current book project examines how U.S.-based NGOs, the Reagan administration, and the Nicaraguan government defined and then operationalized human rights as a transnational language of advocacy during the Contra War of the 1980s. Research in Sandinista records in Managua and in NGO archives throughout the United States demonstrates that Contra opponents tried to reframe the conflict for Congress and the American people as an issue of human rights, not Cold War geopolitics. Moore’s work will be published in the December 2018 issue of _Diplomacy and Statecraft_.
 
 _“Harry Washington’s Peace: Slavery and Freedom in the United States’ Founding Treaty”_<br>
 **Eliga Gould, Professor of History**<br>
 **Thursday, February 21, 2019 4:30 pm**<br>
+Bio: Eliga Gould is a historian of the American Revolution at the University of New Hampshire who emphasizes the revolution’s “outer” history in the wider world. He focuses on the international history of the American Revolution and the ways in which the Revolution interacted with wider world. He is the author several books including _Among the Powers of the Earth: The American Revolution and the Making of a New World Empire_ (2012). 
+
+He received his Ph.D. at Johns Hopkins University and has taught at the University of New Hampshire since 1992. 
 
 _“The Ghosts of Colonial Past and the Crisis of Post-Qadhdhafi Libya”_<br>
 **Ali Ahmida, Professor of Political Science at the University of New England**<br>
 **Thursday, March 14, 2019 4:30 pm**<br>
+Bio: Professor Ali Ahmida is the founding Chair of the Department of Political Science at the University of New England. He is an expert in political theory, comparative politics, and historical sociology who focuses on North Africa, specifically modern Libya. He is the author of books including _The Making of Modern Libya: State Formation, Colonialization and Resistance_ (2009), as well as several major articles published in a variety of journals. 
+
+Dr. Ahmida received his M.A. and Ph.D. from the University of Washington and has received a certificate from the Harvard Graduate School of Education. 
 
 _“Jimmy Carter in Africa: Race and the Cold War”_<br>
 **Nancy Mitchell, Professor of History at North Carolina State University**<br>
 **Wednesday, April 24, 2019 4:30 pm**<br>
+Bio: Dr. Mitchell is a Professor of History at North Carolina State University who focuses on Cold War diplomatic history. She is the author of _Jimmy Carter in Africa: Race and the Cold War_ (2016), which received several awards including the American Academy of Diplomacy’s Douglas Dillon Award, and the Society of Historians of American Foreign Relations’ Robert Ferrell Prize. 
+
+Dr. Mitchell received her MA and Ph.D. in history from Johns Hopkins University and teaches courses in Modern American History and American Foreign Relations.
 
 _“In the Shadow of Vietnam: Lyndon Johnson and the Third World”_<br>
 **Mark Lawrence, Associate Professor of History at University of Texas at Austin**<br>
 **Wednesday, April 24, 2019 4:30 pm**<br>
+Bio: Dr. Lawrence is Associate Professor of History at The University of Texas at Austin and Distinguished Fellow at the Robert S. Strauss Center for International Security and Law. He is an expert in U.S. Foreign Relations, the Vietnam War, international history, and decolonialization. He is the author of books including _Assuming the Burden: Europe and the American Commitment to War in Vietnam_ (2005) and _The Vietnam War: A Concise International History_ (2008).
+
+Dr. Lawrence earned his Ph.D. at Yale University and teaches courses in American history, the Vietnam War, American foreign relations, and the Cold War. 
 
 ___
 
@@ -111,6 +128,10 @@ _"To Master the Boundless Sea: The U.S. Navy, the Marine Environment, and the Ca
 _“Consuming Japan: Popular Culture and the Globalizing of America”_<br>
 **Drew McKevitt**<br>
 **Professor of History at Louisiana Tech University**
+**Bio:** Drew McKevitt is professor of history at Louisiana Tech University. He is the author of the recently published book _Consuming Japan: Popular Culture and the Globalizing of America_. He focuses on the role of popular culture in American-Japanese foreign relations.
+
+- [Interview with Drew McKevitt](https://gallery.mailchimp.com/5e746d99fd6f46113cc5601b2/files/33aefb53-b779-4ef2-a160-b91ba82317de/_8_Drew_McKevitt_Interview.pdf)
+- [Video of Drew McKevitt’s Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/Cz5a9YFb/view)
 
 ___
 
