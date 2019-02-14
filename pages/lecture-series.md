@@ -47,7 +47,7 @@ ___
 _“Harry Washington’s Peace: Slavery and Freedom in the United States’ Founding Treaty”_<br>
 **Eliga Gould, Professor of History**<br>
 **Thursday, February 21, 2019 4:30 pm**<br>
-Bio: Eliga Gould is a historian of the American Revolution at the University of New Hampshire who emphasizes the revolution’s “outer” history in the wider world. He focuses on the international history of the American Revolution and the ways in which the Revolution interacted with wider world. He is the author several books including _Among the Powers of the Earth: The American Revolution and the Making of a New World Empire_ (2012). 
+**Bio:** Eliga Gould is a historian of the American Revolution at the University of New Hampshire who emphasizes the revolution’s “outer” history in the wider world. He focuses on the international history of the American Revolution and the ways in which the Revolution interacted with wider world. He is the author several books including _Among the Powers of the Earth: The American Revolution and the Making of a New World Empire_ (2012). 
 
 He received his Ph.D. at Johns Hopkins University and has taught at the University of New Hampshire since 1992. 
 
@@ -56,7 +56,7 @@ ___
 _“The Ghosts of Colonial Past and the Crisis of Post-Qadhdhafi Libya”_<br>
 **Ali Ahmida, Professor of Political Science at the University of New England**<br>
 **Thursday, March 14, 2019 4:30 pm**<br>
-Bio: Professor Ali Ahmida is the founding Chair of the Department of Political Science at the University of New England. He is an expert in political theory, comparative politics, and historical sociology who focuses on North Africa, specifically modern Libya. He is the author of books including _The Making of Modern Libya: State Formation, Colonialization and Resistance_ (2009), as well as several major articles published in a variety of journals. 
+**Bio:** Professor Ali Ahmida is the founding Chair of the Department of Political Science at the University of New England. He is an expert in political theory, comparative politics, and historical sociology who focuses on North Africa, specifically modern Libya. He is the author of books including _The Making of Modern Libya: State Formation, Colonialization and Resistance_ (2009), as well as several major articles published in a variety of journals. 
 
 Dr. Ahmida received his M.A. and Ph.D. from the University of Washington and has received a certificate from the Harvard Graduate School of Education. 
 
@@ -65,7 +65,7 @@ ___
 _“Jimmy Carter in Africa: Race and the Cold War”_<br>
 **Nancy Mitchell, Professor of History at North Carolina State University**<br>
 **Wednesday, April 3, 2019 4:30 pm**<br>
-Bio: Dr. Mitchell is a Professor of History at North Carolina State University who focuses on Cold War diplomatic history. She is the author of _Jimmy Carter in Africa: Race and the Cold War_ (2016), which received several awards including the American Academy of Diplomacy’s Douglas Dillon Award, and the Society of Historians of American Foreign Relations’ Robert Ferrell Prize. 
+**Bio:** Dr. Mitchell is a Professor of History at North Carolina State University who focuses on Cold War diplomatic history. She is the author of _Jimmy Carter in Africa: Race and the Cold War_ (2016), which received several awards including the American Academy of Diplomacy’s Douglas Dillon Award, and the Society of Historians of American Foreign Relations’ Robert Ferrell Prize. 
 
 Dr. Mitchell received her MA and Ph.D. in history from Johns Hopkins University and teaches courses in Modern American History and American Foreign Relations.
 
@@ -74,7 +74,7 @@ ___
 _“In the Shadow of Vietnam: Lyndon Johnson and the Third World”_<br>
 **Mark Lawrence, Associate Professor of History at University of Texas at Austin**<br>
 **Wednesday, April 24, 2019 4:30 pm**<br>
-Bio: Dr. Lawrence is Associate Professor of History at The University of Texas at Austin and Distinguished Fellow at the Robert S. Strauss Center for International Security and Law. He is an expert in U.S. Foreign Relations, the Vietnam War, international history, and decolonialization. He is the author of books including _Assuming the Burden: Europe and the American Commitment to War in Vietnam_ (2005) and _The Vietnam War: A Concise International History_ (2008).
+**Bio:** Dr. Lawrence is Associate Professor of History at The University of Texas at Austin and Distinguished Fellow at the Robert S. Strauss Center for International Security and Law. He is an expert in U.S. Foreign Relations, the Vietnam War, international history, and decolonialization. He is the author of books including _Assuming the Burden: Europe and the American Commitment to War in Vietnam_ (2005) and _The Vietnam War: A Concise International History_ (2008).
 
 Dr. Lawrence earned his Ph.D. at Yale University and teaches courses in American history, the Vietnam War, American foreign relations, and the Cold War. 
 
