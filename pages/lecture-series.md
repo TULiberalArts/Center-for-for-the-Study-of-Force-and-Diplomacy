@@ -27,6 +27,8 @@ She received her PhD in American Civilization from Brown University and her BA i
 
 - [Video of Melani McAlister’s Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/y2FHz53D/view) 
 
+___
+
 _“A Roundtable Discussion of US Military History and Military Culture”_<br>
 **Colonel Edward A. Kaplan, USAF and the US Army War College**<br>
 **Tuesday, January 29, 2019 10 am**<br>
@@ -38,12 +40,16 @@ _“Activists and Insurgents: Human Rights Advocacy During the Contra War, 1981-
 
 Moore’s research focuses on law in U.S. foreign relations to explain how domestic conceptions of law interacted with that of other nations to influence international affairs. His current book project examines how U.S.-based NGOs, the Reagan administration, and the Nicaraguan government defined and then operationalized human rights as a transnational language of advocacy during the Contra War of the 1980s. Research in Sandinista records in Managua and in NGO archives throughout the United States demonstrates that Contra opponents tried to reframe the conflict for Congress and the American people as an issue of human rights, not Cold War geopolitics. Moore’s work will be published in the December 2018 issue of _Diplomacy and Statecraft_.
 
+___
+
 _“Harry Washington’s Peace: Slavery and Freedom in the United States’ Founding Treaty”_<br>
 **Eliga Gould, Professor of History**<br>
 **Thursday, February 21, 2019 4:30 pm**<br>
 Bio: Eliga Gould is a historian of the American Revolution at the University of New Hampshire who emphasizes the revolution’s “outer” history in the wider world. He focuses on the international history of the American Revolution and the ways in which the Revolution interacted with wider world. He is the author several books including _Among the Powers of the Earth: The American Revolution and the Making of a New World Empire_ (2012). 
 
 He received his Ph.D. at Johns Hopkins University and has taught at the University of New Hampshire since 1992. 
+
+___
 
 _“The Ghosts of Colonial Past and the Crisis of Post-Qadhdhafi Libya”_<br>
 **Ali Ahmida, Professor of Political Science at the University of New England**<br>
@@ -52,12 +58,16 @@ Bio: Professor Ali Ahmida is the founding Chair of the Department of Political S
 
 Dr. Ahmida received his M.A. and Ph.D. from the University of Washington and has received a certificate from the Harvard Graduate School of Education. 
 
+___
+
 _“Jimmy Carter in Africa: Race and the Cold War”_<br>
 **Nancy Mitchell, Professor of History at North Carolina State University**<br>
-**Wednesday, April 24, 2019 4:30 pm**<br>
+**Wednesday, April 3, 2019 4:30 pm**<br>
 Bio: Dr. Mitchell is a Professor of History at North Carolina State University who focuses on Cold War diplomatic history. She is the author of _Jimmy Carter in Africa: Race and the Cold War_ (2016), which received several awards including the American Academy of Diplomacy’s Douglas Dillon Award, and the Society of Historians of American Foreign Relations’ Robert Ferrell Prize. 
 
 Dr. Mitchell received her MA and Ph.D. in history from Johns Hopkins University and teaches courses in Modern American History and American Foreign Relations.
+
+___
 
 _“In the Shadow of Vietnam: Lyndon Johnson and the Third World”_<br>
 **Mark Lawrence, Associate Professor of History at University of Texas at Austin**<br>
