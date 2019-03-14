@@ -43,6 +43,7 @@ _“Activists and Insurgents: Human Rights Advocacy During the Contra War, 1981-
 Moore’s research focuses on law in U.S. foreign relations to explain how domestic conceptions of law interacted with that of other nations to influence international affairs. His current book project examines how U.S.-based NGOs, the Reagan administration, and the Nicaraguan government defined and then operationalized human rights as a transnational language of advocacy during the Contra War of the 1980s. Research in Sandinista records in Managua and in NGO archives throughout the United States demonstrates that Contra opponents tried to reframe the conflict for Congress and the American people as an issue of human rights, not Cold War geopolitics. Moore’s work will be published in the December 2018 issue of _Diplomacy and Statecraft_.
 
 - [Video of Erik Moore’s Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/p3RCe85M/view) 
+- [Interview withErik Moore](https://drive.google.com/file/d/1FrbZDepHSTZ8Nv2CpKBI15YEskJ8MmnF/view?usp=sharing)
 
 ___
 
@@ -53,6 +54,7 @@ _“Harry Washington’s Peace: Slavery and Freedom in the United States’ Foun
 
 He received his Ph.D. at Johns Hopkins University and has taught at the University of New Hampshire since 1992. 
 
+-[Video of Eliga Gould's Lecture](Video of Eliga Gould’s Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/La94NyMm/view)
 ___
 
 _“The Ghosts of Colonial Past and the Crisis of Post-Qadhdhafi Libya”_<br>
