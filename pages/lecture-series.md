@@ -64,12 +64,16 @@ _“The Ghosts of Colonial Past and the Crisis of Post-Qadhdhafi Libya”_<br>
 
 Dr. Ahmida received his M.A. and Ph.D. from the University of Washington and has received a certificate from the Harvard Graduate School of Education. 
 
+- [Video of Ali Ahmida’s Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/d8A7RrEz/view)
+
 ___
 
 _“From Confrontatin to Détente?: Controversies about a planned Cold War Museum at Checkpoint Charlie, Berlin”_<br>
 **Andres Etges, Senior Lecturer in American History at the Amerika-Institut of the University of Munich**<br>
 **Tuesday, March 26, 2019 4:30 pm**<br>
 **Bio:** Dr. Andreas Etges is senior lecturer in American history at the Amerika-Institut of the University of Munich. The Cold War specialist and expert on the Kennedy presidency studied in Bochum, Bielefeld and at the University of Wisconsin-Madison. He has curated several historical exhibits on John F. Kennedy and is involved in setting up an international museum of the Cold War at Checkpoint Charlie in Berlin. He is the author of _Western Europe_, in The Oxford Handbook of the Cold War. Petra Goedde and Richard Immerman (eds.), Oxford University Press: Oxford 2013, _From Confrontation to Détente? Controversies about a Planned Cold War Museum at Checkpoint Charlie, Berlin_, in: Memoria e Ricerca (1.2017), 81-98, and editor (with Konrad Jarausch and Christian Ostermann) of _The Cold War: Historiography, Memory, Representation, Munich: de Gruyter 2017_. He is also funder and co-editor of the new e-journal _International Public History_, the journal of the International Federation for Public History.
+
+- [Video of Andres Etges’s Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/g8A5Fji6/view)
 
 ___
 
@@ -79,6 +83,9 @@ _“Jimmy Carter in Africa: Race and the Cold War”_<br>
 **Bio:** Dr. Mitchell is a Professor of History at North Carolina State University who focuses on Cold War diplomatic history. She is the author of _Jimmy Carter in Africa: Race and the Cold War_ (2016), which received several awards including the American Academy of Diplomacy’s Douglas Dillon Award, and the Society of Historians of American Foreign Relations’ Robert Ferrell Prize. 
 
 Dr. Mitchell received her MA and Ph.D. in history from Johns Hopkins University and teaches courses in Modern American History and American Foreign Relations.
+
+- [Video of Nancy Mitchell’s Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/Kz6a3NJy/view)
+- [Interview with Nancy Mitchell](https://drive.google.com/file/d/1mPXRNBgXUKCme3U1fjEiztfn0hyC3seG/view?usp=sharing)
 
 ___
 
