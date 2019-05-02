@@ -11,6 +11,26 @@ keywords: ''
 sidebar: sidebars/strategic-visions-magazine.html      
 ---
 ![Strategic Visions Magazine logo]({{site.baseurl}}/media/clip_image002.jpg){:.responsive-img .img-center}
+## Strategic Visions Spring 2019 Edition
+Read the [Spring 2019 Edition of _Strategic Visions!_](https://tuljournals.temple.edu/index.php/strategic_visions/index)
+
+### Contents:
+**Featured Articles:**
+- Dr. Alan McPherson (Temple University): ["News from the Director"](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/36/61)
+- Michael Fischer (Temple University): ["Note from the Davis Fellow"](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/36/61)
+
+**Book Reviews:**
+- Brandon Kinney (Temple University), [Review of Nancy Mitchell. _Jimmy Carter in Africa: Race and the Cold War_](). Stanford: Stanford University Press, 2016.
+- Ariel Natalo-Lifton (Temple University), [Review of Kara Dixon Vuic. _The Girl Next Door: Bringing the Home Front to the Front Line_](). Cambridge: Harvard University Press, 2019.
+- Brandon Kinney (Temple University), [Review of Kenneth M. Pollack. _Armies of Sand: The Past, Present, and Future of Arab Military Effectiveness_](). New York: Oxford University Press, 2019.
+- Graydon Dennison (Temple University), [Review of Nancy Mitchell. _Review of Nancy Mitchell. Jimmy Carter in Africa: Race and the Cold War_](). Stanford: Stanford University Press, 2016.
+
+**Editorial Staff**
+- **Editor-in-Chief:** Michael Fischer, Graduate Student, 2018-19 Thomas J. Davis Fellow<br>
+- **CENFAD Director:** Dr. Alan McPherson<br>
+
+___
+
 ## Strategic Visions Fall 2018 Edition
 Read the [Fall 2018 Edition of _Strategic Visions!_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/36/61)
 
