@@ -31,7 +31,7 @@ Read the [Spring 2019 Edition of _Strategic Visions!_](https://tuljournals.templ
 
 ___
 
-## Strategic Visions Fall 2018 Edition
+## Fall 2018 Edition
 Read the [Fall 2018 Edition of _Strategic Visions!_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/36/61)
 
 ### Contents:
