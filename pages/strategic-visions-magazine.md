@@ -11,7 +11,7 @@ keywords: ''
 sidebar: sidebars/strategic-visions-magazine.html      
 ---
 ![Strategic Visions Magazine logo]({{site.baseurl}}/media/clip_image002.jpg){:.responsive-img .img-center}
-## Strategic Visions Spring 2019 Edition
+## Spring 2019 Edition
 Read the [Spring 2019 Edition of _Strategic Visions!_](https://tuljournals.temple.edu/index.php/strategic_visions/index)
 
 ### Contents:
