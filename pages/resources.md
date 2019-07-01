@@ -31,7 +31,7 @@ ___
 - Diplomatic History
 - [Foreign Affairs](http://www.foreignaffairs.org/)
 - [International Security](http://www.mitpressjournals.org/loi/isec)
-- [Perspective](http://web.bu.edu/ISCIP/perspective.html)
+- [Perspective](http://www.bu.edu/)
 - [Political Science Quarterly](http://www.psqonline.org/)
 - [International Organization](http://journals.cambridge.org/action/displayJournal?jid=INO)
 - [Survival](http://www.tandfonline.com/loi/tsur20#.UknnjYbkt8E)
