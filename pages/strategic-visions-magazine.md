@@ -1,6 +1,6 @@
 ---
 # global predefined variables
-layout: tla_page
+layout: tla_page_test
 permalink: /strategic-visions-magazine/
 published: true
 # meta-data variables
