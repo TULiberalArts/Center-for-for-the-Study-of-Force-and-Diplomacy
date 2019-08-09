@@ -9,9 +9,11 @@ description: >-
 keywords: 'history department, center for the study of force and diplomacy'
 # custom variables
 promotion-table: true
-feature-image: media/CENFAD hero.jpg
+feature-image: 
 feature: true
 ---
+![CENFAD Logo]({{site.baseurl}}/media/CENFAD hero.jpg){:.img-center}
+
 ![CENFAD Logo]({{site.baseurl}}/media/resized CENFAD_LOGO_05092012_001.jpg){:.img-right}
 The Center for the Study of Force and Diplomacy (CENFAD) fosters interdisciplinary faculty and student research on the historic and contemporary use of force and diplomacy in a global context. The Center sponsors an ongoing lecture series and occasional workshops and colloquia. Each year, it also gives fellowships, prizes, and conference funding to recognize and support undergraduate and graduate research in military, diplomatic and international history.
 
