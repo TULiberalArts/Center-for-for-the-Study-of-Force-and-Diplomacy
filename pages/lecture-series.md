@@ -108,7 +108,8 @@ _“Harry Washington’s Peace: Slavery and Freedom in the United States’ Foun
 
 He received his Ph.D. at Johns Hopkins University and has taught at the University of New Hampshire since 1992. 
 
--[Video of Eliga Gould's Lecture](Video of Eliga Gould’s Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/La94NyMm/view)
+- [Video of Eliga Gould's Lecture](Video of Eliga Gould’s Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/La94NyMm/view)
+
 ___
 
 _“The Ghosts of Colonial Past and the Crisis of Post-Qadhdhafi Libya”_<br>
