@@ -152,5 +152,5 @@ Dr. Lawrence earned his Ph.D. at Yale University and teaches courses in American
 
 ___
 
-- **View more of our [Past Lectures and Videos from 2016-2018](https://liberalarts.temple.edu/sites/liberalarts/files/2016-18%20Past%20Lecture%20Archives.pdf)
+- **View more of our [Past Lectures and Videos from 2016-2018](https://liberalarts.temple.edu/sites/liberalarts/files/2016-18%20Past%20Lecture%20Archives.pdf)**
 - **View more of our [Past Lectures and Videos from 2007-2015](https://liberalarts.temple.edu/sites/liberalarts/files/CENFAD%20Guest%20Speaker%20Lectures.pdf)**
