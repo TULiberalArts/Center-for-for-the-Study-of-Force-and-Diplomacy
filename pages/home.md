@@ -23,7 +23,7 @@ The Director of CENFAD [Dr. Alan McPherson](https://liberalarts.temple.edu/acade
 - [Alan McPherson](https://liberalarts.temple.edu/academics/faculty/mcpherson-alan)
 
 **Thomas J. Davis Fellow**
-- [Mike Fischer](mailto:tuh29881@temple.edu)
+- [Brandon Kinney](mailto:tuj62914@temple.edu)
 
 ___
 
