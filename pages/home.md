@@ -47,7 +47,7 @@ ___
       title="CENFAD Lecture Series"
       content="Attend a CENFAD lecture to learn more about the study of force and diplomacy from government officials and award-winning scholars."
       image=""
-      button-link="https://develop.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/lecture-series/"
+      button-link="https://www.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/lecture-series/"
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
@@ -55,7 +55,7 @@ ___
         title="Funding"
         content="The Center for the Study of Force and Diplomacy offers prizes, fellowships and travel funds to make cutting-edge research possible."
         image=""
-        button-link="https://develop.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/funding/"
+        button-link="https://www.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/funding/"
         button-text="Learn More" %}
       </div>
 </div>
