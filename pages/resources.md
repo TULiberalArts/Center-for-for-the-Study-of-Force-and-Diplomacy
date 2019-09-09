@@ -27,7 +27,7 @@ ___
 - SMU Center for Presidential History Postdoctoral Fellowship (December 1, 2013)
 
 ## Journals (subscription may be required)
-- [American Diplomacy](http://www.unc.edu/depts/diplomat/)
+- American Diplomacy
 - Diplomatic History
 - [Foreign Affairs](http://www.foreignaffairs.org/)
 - [International Security](http://www.mitpressjournals.org/loi/isec)
