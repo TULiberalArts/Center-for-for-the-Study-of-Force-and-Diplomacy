@@ -25,6 +25,8 @@ Latner’s research has also been published in the journals _Diplomatic History,
 
 Latner is currently working on a second book-length project which is a study of United States soft power and regime change programs in Cuba and Venezuela after the Cold War. 
 
+- [Video of Teishan Latner’s Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/Mk5i6R9B/view) 
+
 ___
 
 _“MAKING FRIENDS?” U.S. Public Diplomacy Strategies in Latin America during the Cold War”_<br>
