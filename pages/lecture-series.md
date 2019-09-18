@@ -38,6 +38,8 @@ Among other publications, Rodríguez-Jiménez has co-edited the following books 
 
 He has also taught Graduate or Masters courses for other universities: Università degli studi di Bergamo; Wake Forest; Ohio Wesleyan; Colby College; University of Extremadura; UNED-Madrid; George Washington University, and Carlos III.
 
+- [Video of Francisco Rodriguez-Jimenez’s Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/Kd84Ate6/view) 
+
 ___
 
 _“The Jim Crow Cigarette in China: An Intimate History of Corporate Imperialism”_<br>
