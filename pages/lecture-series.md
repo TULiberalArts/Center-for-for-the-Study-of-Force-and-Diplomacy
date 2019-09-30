@@ -65,11 +65,19 @@ Currently, he is at work on a book about the birth of the Republican Party in th
 ___
 
 _“The 1968 Olympics… in Divided Berlin?”_<br>
-**Dr. Heath Dichter, Associate Professor at De Montfort University**<br>
+**Dr. Heather Dichter, Associate Professor at De Montfort University**<br>
 **Wednesday, November 6, 2019 4:30 pm**<br>
 **Bio:** Heather Dichter is an Associate Professor at the Leicester Castle Business School at De Montfort University. Her research expertise focuses on topics such as the Olympics, International Sports, and the intersection between sports and diplomacy. She has been published in journals such as _The International Journal of History of Sport_ and _The History of Education_, co-edited _Olympic Reform Ten Years Later_, and co-authored an essay in _Diplomatic Games: Sport, Statecraft, and International Relations since 1945_.
 
 Dr. Dichter received her MA in History from the University of North Carolina and her PhD in History from the University of Toronto. 
+
+___
+
+_“Henry Kissinger and American Power”_<br>
+**Dr. Thomas Schwartz**<br>
+**Bio:** Thomas Alan Schwartz is a historian of the foreign relations of the United States, with related interests in Modern European history and the history of international relations. He is the author of _America’s Germany: John J. McCloy and the Federal Republic of Germany_ (Harvard, 1991), which was translated into German, _Die Atlantik Brücke_ (Ullstein, 1992). The book examined the “dual containment” policy of the United States in Germany, a policy which sought to integrate Germany into the West while using her resources and strength to contain the Soviet Union. This book received the Stuart Bernath Book Prize of the Society of American Foreign Relations, and the Harry S. Truman Book Award, given by the Truman Presidential Library. 
+
+He is also the author of _Lyndon Johnson and Europe: In the Shadow of Vietnam_ (Harvard, 2003), which examined the Johnson Administration’s policy toward Europe and assessed the impact of the war in Vietnam on its other foreign policy objectives. He is the co-editor with Matthias Schulz of _The Strained Alliance: U.S.-European Relations from Nixon to Carter,_ (Cambridge University Press, 2009). Professor Schwartz's book, _Henry Kissinger and American Power_, is forthcoming in Spring 2020. 
 
 ___
 
