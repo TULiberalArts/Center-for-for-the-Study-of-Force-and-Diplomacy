@@ -53,7 +53,7 @@ ___
 - U.S. Army Heritage and Education Center & Military History Institute
 
 ## National and International Archives
-- [Australian Archives](http://www.naa.gov.au/default.html)
+- [Australian Archives](https://www.naa.gov.au/)
 - [Canadian National Archives](http://www.archives.ca/)
 - [United States National Archives and Records Administration (NARA)](http://www.nara.gov/)
 - [New Zealand National Archives](http://www.archives.govt.nz/)
