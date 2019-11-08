@@ -21,10 +21,8 @@ Any paper written by an undergraduate student in the 2019-2020 school year submi
 
 Please address all questions and Electronic Submissions to [Brandon Kinney](mailto:tuj6194@temple.edu).
 
-**2018 Winner:**
-- Holden Zimmerman, University of Kansas, "Defensive Humanitarianism: Swiss Internment Camps in WWI"
-
 **Previous Winners:**
+- 2018: Holden Zimmerman, University of Kansas, "Defensive Humanitarianism: Swiss Internment Camps in WWI"
 - 2017: Charlotte Blatt, Dartmouth College, ["Operational Success, Strategic Failure: Assessing the 2007 Iraq Troop Surge"](https://liberalarts.temple.edu/sites/liberalarts/files/CharlotteBlatt-Submission%20%281%29.pdf)
 - 2016: Erica Ma, University of Pennsylvania, ["A State Divided: The Decisive Impact of Third-Party Interventions on Secession Conflicts (1945-2011)](https://liberalarts.temple.edu/sites/liberalarts/files/Erica%20Ma_submission%20FINAL.pdf)"
 - 2015: Nathan Hausman, United States Air Force Academy, ["Competing Narratives: Comparing Perspectives on NATO Intervention in Kosovo"](https://liberalarts.temple.edu/sites/liberalarts/files/Hausman%20US-Russia%20Kosovo.pdf)
@@ -45,6 +43,8 @@ ___
 
 ### Thomas J. Davis Endowed Fellowship in Diplomacy and Foreign Relations
 This fellowship is made possible by the generosity of Todd Davis, who received his Ph.D. in History from Temple in 2002 and served as the first graduate assistant for development for the Center for the Study of Diplomacy (CENFAD). Todd named the fellowship after his father, a decorated first lieutenant in the U.S. Army who was killed in action during the Vietnam War. Responsibilities will be dedicated to advancing the Center for the Study of Force and Diplomacy. In this capacity, your assignment will be primarily to assist, through research and writing, applications for external grants to support CENFAD’s projects. You will also be expected to assist in the publication of CENFAD’s newsletter, Strategic Visions, help publicize lectures and symposia, administrate CENFAD’s website, coordinate CENFAD colloquia and other events, and contribute in parallel ways. As is the case with a conventional assistantship, you will not be expected to work more than 20 hours per week. The fellowship includes a stipend — amount changes each year. Students should apply to [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu) by **December 15 for a fellowship for the next academic year**. Please include an update CV, a letter of recommendation from anybody that may attest to the applicant’s relevant abilities and qualifications, and a 1-2 page statement on the applicant’s abilities to successful serve in this role. 
+
+- 2019-2020 Recipient: Brandon Kinney
 
 **Previous Recipients:**
 - 2018-19: Michael Fischer
@@ -89,7 +89,10 @@ A student is not eligible to receive the same award twice. However, receipt of o
 ### John Votaw Endowed Research Award
 Endowed research award for Temple University graduate students of diplomatic and military history, with preference going to military history. Direct questions or applications should apply to [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu). **The deadline is October 1.**
 
+- 2019-2020 Recipient: Ariel Natalo-Lifton
+
 **Previous Recipients:**
+- 2018-2019: Alexandre Caillot
 - 2017-18: Manna Duah
 - 2016-17: Silke Zoller
 - 2015-16: John Worsencroft
@@ -110,6 +113,7 @@ Endowed research award for Temple University graduate students of diplomatic and
 To be awarded to a Temple University graduate student in the history of U.S. foreign relations. Direct questions or applications should contact [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu). **The deadline for spring awards is March 1.**
 
 **Previous Recipients:**
+- 2018-2019: None
 - 2017-18: Keith Riley
 - 2016-17: Thomas Reinstein and John Worsencroft
 - 2015-16: Tyler Bamford, Kaete O'Connell, and Silke Zoller
@@ -130,6 +134,7 @@ To be awarded to a Temple University graduate student in the history of U.S. for
 Awarded to a Temple University graduate student of military or diplomatic history. Preference is given to students who incorporate a study of technology into their work. Direct questions or applications should contact [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu). **The deadline for spring awards is October 1.**
 
 **Previous Recipients:**
+- 2018-2019: Eric Perinovic
 - 2017-18: Kaete O'Connell
 - 2016-17: Tyler Bamford
 - 2015-16: Thomas Reinstein
