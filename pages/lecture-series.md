@@ -85,7 +85,7 @@ He is also the author of _Lyndon Johnson and Europe: In the Shadow of Vietnam_ (
 ___
 
 _“Fighting With Allies: The United States and the World War II Grand Alliance”_<br>
-**Dr. Mark Stoler, Associate Professor at De Montfort University**<br>
+**Dr. Mark Stoler, Professor Emeritus, University of Vermont**<br>
 **Thursday, November 21, 2019**<br>
 **Bio:** Mark A. Stoler earned his B.A. at the City College of New York (1966) and his Ph.D. at the University of Wisconsin-Madison (1971). He joined the UVM faculty in 1970 and became Professor Emeritus in 2007.
 
