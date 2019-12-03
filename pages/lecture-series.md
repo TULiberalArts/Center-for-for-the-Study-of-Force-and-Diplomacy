@@ -61,9 +61,9 @@ _“Free Labor and Democratic Revolution: The Early Republican Party Confronts t
 **Wednesday, October 9, 2019 4:30 pm**<br>
 **Bio:** Matthew Karp is an Associate Professor of History at Princeton University, where he teaches courses on the American Civil War era. His first book, _This Vast Southern Empire: Slaveholders at the Helm of American Foreign Policy_ (Harvard University Press, 2016) received the John H. Dunning Prize from the American Historical Association, the James Broussard Prize from the Society for Historians of the Early American Republic, and the Stuart L. Bernath Prize from the Society for Historians of American Foreign Relations.
 
-Karp has won year-long fellowships from the New-York Historical Society, the American Academy of Arts and Sciences, and the McNeil Center for Early American Studies. His essays and reviews have appeared in the _Journal of Southern History, Common-place, Jacobin, The Nation, The Wall Street Journal, Boston Review_, and _Public Books_.
+Karp has won year-long fellowships from the New-York Historical Society, the American Academy of Arts and Sciences, and the McNeil Center for Early American Studies. His essays and reviews have appeared in the _Journal of Southern History, Common-place, Jacobin, The Nation, The Wall Street Journal, Boston Review_, and _Public Books_. Currently, he is at work on a book about the birth of the Republican Party in the 1850s.
 
-Currently, he is at work on a book about the birth of the Republican Party in the 1850s.
+- [Video of Matthew Karp’s Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/a8LBp25E/view) 
 
 ___
 
@@ -97,6 +97,8 @@ _“Fighting With Allies: The United States and the World War II Grand Alliance�
 Stoler's areas of special expertise are U.S. diplomatic and military history and World War II. Included among his many publications are Allies and Adversaries: the Joint Chiefs of Staff, the Grand Alliance, and U.S. Strategy in World War II (2000), The Politics of the Second Front: American Military Planning and Diplomacy in Coalition Warfare, 1941-1943 (1977), George C. Marshall: Soldier-Statesman of the American Century (1989), and Allies in War: Britain and America against the Axis Powers, 1940-1945 (2005). He also co-authored Explorations in American History (1987) with Marshall True, Major Problems in the History of World War II (2003) with Melanie Gustafson, and Debating Franklin D. Roosevelt’s Foreign Policies (2005) with Justus Doenecke.
 
 Stoler's scholarship earned him the University Scholar Award at UVM (1993) and the Distinguished Book Award of the Society for Military History (2002); his equally distinguished teaching earned him the Dean's Lecture Award (1992), the George V. Kidder Outstanding Faculty Award (1984), and the Kroepsch-Maurice Excellence in Teaching Award (2006). In addition to teaching at UVM, Stoler has served as a visiting professor at the U.S. Military Academy at West Point, the U.S. Naval War College, the University of Haifa in Israel, the U.S. Military History Institute, Williams College, and Washington & Lee University. He has also produced two audio/DVD courses for The Teaching Company and served as editor of volumes 6 and 7 of The Papers of George Catlett Marshall (2013 and 2016).  Most recently he co-edited with Molly Michelmore of The United States in World War II: A Documentary History (2018). He is former president of the Society for Historians of American Foreign Relations (2004) and a former trustee of the Society for Military History.
+
+- [Video of Mark Stoler’s Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/Hn9q8E2Y/view) 
 
 ___
 
