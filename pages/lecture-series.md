@@ -56,7 +56,7 @@ An interdisciplinary scholar and researcher, Enstad received her PhD in history 
 
 ___
 
-_“Millions of Abolitionists: The Early Republican Party and the Democratic Struggle Against Slavery”_<br>
+_“Free Labor and Democratic Revolution: The Early Republican Party Confronts the World”_<br>
 **Dr. Matthew Karp, Associate Professor of History, Princeton University**<br>
 **Wednesday, October 9, 2019 4:30 pm**<br>
 **Bio:** Matthew Karp is an Associate Professor of History at Princeton University, where he teaches courses on the American Civil War era. His first book, _This Vast Southern Empire: Slaveholders at the Helm of American Foreign Policy_ (Harvard University Press, 2016) received the John H. Dunning Prize from the American Historical Association, the James Broussard Prize from the Society for Historians of the Early American Republic, and the Stuart L. Bernath Prize from the Society for Historians of American Foreign Relations.
