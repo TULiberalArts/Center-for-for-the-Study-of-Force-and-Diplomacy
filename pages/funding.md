@@ -67,6 +67,8 @@ This fellowship is made possible by the generosity of Todd Davis, who received h
 ### Sergeant Major William F. Berger Prize Endowed Fellowship for War and Society
 Responsibilities will be dedicated to advancing the History Department’s concentration in War and Society, primarily as a teaching assistant in the course War and Peace, if it is being offered. As is the case with a conventional assistantship, awardees will not be expected to work more than 20 hours per week. The prize includes a stipend. Continuing students apply to the Director of Graduate Studies **by December 15 for a fellowship for the next academic year**. Please include an update CV, a letter of recommendation from anybody that may attest to the applicant’s relevant abilities and qualifications, and a 1-2 page statement on the applicant’s abilities to successful serve in this role.
 
+- 2019-2020: Rhiannon Amato
+
 **Previous Recipients:**
 - September 2015 – Alexandre Caillot
 - October 2014 – Thomas Reinstein
