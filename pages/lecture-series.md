@@ -15,93 +15,65 @@ Over the years, CENFAD has invited guest speakers to give talks on issues that r
 
 ___
 
-### Fall 2019
-_“Cuban Revolution in America: Havana and the Making of a United States Left, 1968- 1992”_<br>
-**Dr. Teishan Latner, Assistant Professor of History at Thomas Jefferson University**<br>
-**Wednesday, September 4, 2019 4:30 pm**<br>
-**Bio:** Teishan A. Latner is Assistant Professor of History at Thomas Jefferson University. A scholar of the United States and Cuba, he received his Ph.D. from the University of California, Irvine in 2014. His first book, _Cuban Revolution in America: Havana and the Making of a United States Left, 1968- 1992_, was published by The University of North Carolina Press in 2018 for the “Justice, Power, and Politics” book series. 
+### Spring 2020
+_“Enduring Alliance: A History of NATO and the Postwar Global Order”_<br>
+**Dr. Timothy Andrews Sayle, Assistant Professor at the University of Toronto**<br>
+**Thursday, February 6, 4:30 pm**<br>
 
-Latner’s research has also been published in the journals _Diplomatic History, SOULS: a Critical Journal of Black Politics, Culture, and Society_, and _the Journal of Transnational American Studies_. Prior to coming to Jefferson, Latner was a Postdoctoral Fellow at New York University’s Center for the United States and the Cold War, and a Research Associate at the Center for Black Studies Research at the University of California, Santa Barbara. 
+Timothy Andrews Sayle is Assistant Professor of History and Director of the International Relations Program at the University of Toronto. His _Enduring Alliance: A History of NATO and the Postwar Global Order_ was published by Cornell University Press in April 2019. He is also a principal co-investigator and editor of an oral history project examining President George W. Bush’s decision to “surge” troops to Iraq in 2007; a volume of the oral history, The Last Card: Inside George W. Bush’s Decision to Surge in Iraq  will be published by Cornell University Press in September 2019. His research on NATO, Canadian-American relations, and intelligence issues has been published in the _International Journal, the International History Review, Historical Journal, Cold War History, Canadian Military History, and Intelligence & National Security_ and in several edited books.
 
-Latner is currently working on a second book-length project which is a study of United States soft power and regime change programs in Cuba and Venezuela after the Cold War. 
-
-- [Video of Teishan Latner’s Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/Mk5i6R9B/view) 
+Sayle is a Senior Fellow of the Bill Graham Centre for Contemporary International History, an affiliate of the Centre for the Study of the United States, and an associate of the Center for Presidential History at Southern Methodist University. He is a Fellow of Trinity College in the University of Toronto and alumnus of Massey College. He directs Canada Declassified, and in 2017 he co-founded the Canadian Foreign Intelligence History Project.
 
 ___
 
-_“MAKING FRIENDS?” U.S. Public Diplomacy Strategies in Latin America during the Cold War”_<br>
-**Dr. Francisco Rodriguez-Jimenez, Professor at the University of Salamanca**<br>
-**Wednesday, September 11, 2019 4:30 pm**<br>
-**Bio:** Francisco Rodríguez-Jiménez is professor at the University of Salamanca; formerly, he was a postdoctoral researcher at Weatherhead Centre for International Affairs, Harvard University (2012-2013) and a Fulbright Visiting Scholar at George Washington University, 2010-2012. His areas of concentration are: International Relations in the XX century; US Public Diplomacy and the so-called Cultural Cold War (Spain-United States-Latin America).
+_“From Selma to Moscow: How Human Rights Activists Transformed U.S. Foreign Policy”_<br>
+**Dr. Sarah Snyder, Associate Professor at American University**<br>
+**Wednesday, February 12, 4:30pm**<br>
+Sarah B. Snyder is a historian of U.S. foreign relations who specializes in the history of the Cold War, human rights activism, and U.S. human rights policy. She is the author of _From Selma to Moscow: How Human Rights Activists Transformed U.S. Foreign Policy_ (Columbia University Press, 2018), which explains how transnational connections and 1960s-era social movements inspired Americans to advocate for a new approach to human rights.
 
-Among other publications, Rodríguez-Jiménez has co-edited the following books in the last years: U.S. Public Diplomacy and Democratization in Spain. Selling Democracy?; El Portugal salazarista frente a la democracia; Estrategias de Diplomacia Cultural en un Mundo Interpolar; Mujeres universitarias en España y América Latina. Rodríguez-Jiménez serves (or has acted) as international reviewer for the European Commission’s Research Agency (Horizon 2020 and Marie Curie Actions); Fulbright Screening Committees (in Madrid and in Washington), and Dublin Trinity College.
+Her first book, _Human Rights Activism and the End of the Cold War: A Transnational History of the Helsinki Network_ (Cambridge University Press), analyzes the development of a transnational network devoted to human rights advocacy and its contributions to the end of the Cold War. The Society for Historians of American Foreign Relations awarded it the 2012 Stuart Bernath Book Prize by for best first book by an author and the 2012 Myrna F. Bernath Book Award for the best book written by a woman in the field in the previous two years.
 
-He has also taught Graduate or Masters courses for other universities: Università degli studi di Bergamo; Wake Forest; Ohio Wesleyan; Colby College; University of Extremadura; UNED-Madrid; George Washington University, and Carlos III.
+In addition to authoring several chapters in edited collections, she has also published articles in _Diplomatic History, Cold War History, Human Rights Quarterly, Diplomacy & Statecraft, Journal of Transatlantic Studies, European Journal of Human Rights_ and _Journal of American Studies_.
 
-- [Video of Francisco Rodriguez-Jimenez’s Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/Kd84Ate6/view) 
-
-___
-
-_“The Jim Crow Cigarette in China: An Intimate History of Corporate Imperialism”_<br>
-**Dr. Nan Enstad, Robinson Edwards Professor of History at the University of Wisconsin, Madison**<br>
-**Wednesday, September 26, 2019 4:30 pm**<br>
-**Bio:** Nan Enstad is the Robinson Edwards Professor of History at the University of Wisconsin, Madison, an affiliate of the Gender and Women’s Studies Department and the Afro-American Studies Department, and the current Director of the UW Food Studies Network. Her research and teaching interests include the history of capitalism, cultural history, and the history of food systems. In all of her work she foregrounds race, gender, sexuality, and labor.
-
-Enstad is the author of _Cigarettes Inc.: An Intimate History of Corporate Imperialism_ published by University of Chicago Press in October of 2018, and _Ladies of Labor, Girls of Adventure: Popular Culture and Labor Politics at the turn of the Twentieth Century_, which appeared from Columbia University Press in 1999.
-
-An interdisciplinary scholar and researcher, Enstad received her PhD in history at the University of Minnesota along with a certificate in Feminist Studies and a minor in American Studies.
-
-- [Video of Nan Enstad’s Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/d4G9KgAk/view) 
-- [Interview with Nan Enstad](https://drive.google.com/file/d/1Alsf_m06y9GfNcIZrupeZtPC7iwDux5P/view?usp=sharing)
+She previously served as a Lecturer at University College London, a Cassius Marcellus Clay Postdoctoral Fellow in the Department of History at Yale University, the Pierre Keller Post -Doctoral Fellow in Transatlantic Relations at the Whitney and Betty MacMillan Center for International and Area Studies also at Yale, and as a professorial lecturer at Georgetown University. She received her Ph.D. from Georgetown, a M.A. from University College London, and a B.A. with honors from Brown University. 
 
 ___
 
-_“Free Labor and Democratic Revolution: The Early Republican Party Confronts the World”_<br>
-**Dr. Matthew Karp, Associate Professor of History, Princeton University**<br>
-**Wednesday, October 9, 2019 4:30 pm**<br>
-**Bio:** Matthew Karp is an Associate Professor of History at Princeton University, where he teaches courses on the American Civil War era. His first book, _This Vast Southern Empire: Slaveholders at the Helm of American Foreign Policy_ (Harvard University Press, 2016) received the John H. Dunning Prize from the American Historical Association, the James Broussard Prize from the Society for Historians of the Early American Republic, and the Stuart L. Bernath Prize from the Society for Historians of American Foreign Relations.
+_“Slave Soldiers, Power, and Agency in Morocco in the 18th Century”_<br>
+**Dr. Chouki El Hamel, Professor at Arizona State University**<br>
+**Wednesday, February 19, 4:30pm**<br>
+Chouki El Hamel is a professor of history in the School of Historical, Philosophical and Religious Studies at Arizona State University, specializing in West and Northwest Africa. His training and doctoral studies in France at the Centre de Recherches Africaines (University of Sorbonne, Paris I & VII) were in African history and Islamic societies. He taught courses in African history at North Carolina State University in Raleigh and at Duke University in Durham, N.C. In 2002, he was a scholar in residence at the Schomburg Center for Research in Black Culture in New York City (NEH fellowship) and he was a visiting professor at Nice University, France in 2016. In the academic year of 2016-17, he was awarded a Fulbright grant for research in Morocco. 
 
-Karp has won year-long fellowships from the New-York Historical Society, the American Academy of Arts and Sciences, and the McNeil Center for Early American Studies. His essays and reviews have appeared in the _Journal of Southern History, Common-place, Jacobin, The Nation, The Wall Street Journal, Boston Review_, and _Public Books_. Currently, he is at work on a book about the birth of the Republican Party in the 1850s.
-
-- [Video of Matthew Karp’s Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/a8LBp25E/view) 
+His research interests focus on the spread and the growth of Islamic culture and the evolution of Islamic institutions in Africa. He is particularly interested in the subaltern relationship of servile and marginalized communities to Islamic ruling institutions. His research into these relationships revolves around issues of power/class, slavery, race/ethnicity, gender and social justice. He published two major books and many scholarly articles in academic journals and popular magazines. His most recent book is _Black Morocco: a History of Slavery, Race, and Islam_ (Cambridge University Press, 2013), which has won Honorable Mention for the L. Carl Brown American Institute for Maghrib Studies Book Prize. Over the past decade, he has actively participated in a wide variety of positions ranging from committee work to the faculty senate.
 
 ___
 
-_“The 1968 Olympics… in Divided Berlin?”_<br>
-**Dr. Heather Dichter, Associate Professor at De Montfort University**<br>
-**Wednesday, November 6, 2019 4:30 pm**<br>
-**Bio:** Heather Dichter is an Associate Professor at the Leicester Castle Business School at De Montfort University. Her research expertise focuses on topics such as the Olympics, International Sports, and the intersection between sports and diplomacy. She has been published in journals such as _The International Journal of History of Sport_ and _The History of Education_, co-edited _Olympic Reform Ten Years Later_, and co-authored an essay in _Diplomatic Games: Sport, Statecraft, and International Relations since 1945_.
+_“How to Hide an Empire: Telling the Story of the Greater United States”_<br>
+**Dr. Daniel Immerwahr, Professor at  Northwestern University**<br>
+**Thursday, March 19, 4:30pm**<br>
+Dr. Immerwahr received his undergraduate degree from Columbia University, where he studied history and philosophy. Then, funded by a Marshall scholarship, he received a second BA, this time at King's College at Cambridge University with a thesis on African architecture under the supervision of John Lonsdale. He received his doctoral degree in history at the University of California, Berkeley, studying under the intellectual historian David Hollinger. His dissertation won the Allan Nevins Prize in American Economic History from the Economic History Association, and it received honorable mention for the Betty M. Unterberger Prize from the Society for Historians of American Foreign Relations.
 
-Dr. Dichter received her MA in History from the University of North Carolina and her PhD in History from the University of Toronto. 
+In 2011-12, Dr. Immerwahr was a postdoctoral fellow at Columbia University's Committee on Global Thought. In fall 2012, he joined Northwestern University's history department.
 
-- [Video of Heather Dichter’s Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/x3WAp54Y/view) 
+His first book, _Thinking Small_ (Harvard, 2015), offers a critical account of the United States' pursuit of grassroots development at home and abroad in the middle of the twentieth century. It won the Merle Curti Prize in Intellectual History from the Organization of American Historians and was the co-winner of the Annual Book Prize from the Society for U.S. Intellectual History. Also, in 2015 he received the Stuart L. Bernath Lecture Prize from the Society for Historians of American Foreign Relations, given every year to a younger scholar for "excellence in teaching and research in the field of foreign relations."
 
-___
+His second book, _How to Hide an Empire_ (Farrar, Straus and Giroux, 2019) is about the United States' territorial empire: colonies, occupation zones, and military bases. Dr. Immerwahr is currently researching in two areas: the popular culture of twentieth-century U.S. foreign relations and urban environmental catastrophes of the nineteenth century.
 
-_“Henry Kissinger and American Power”_<br>
-**Dr. Thomas Schwartz**<br>
-**Bio:** Thomas Alan Schwartz is a historian of the foreign relations of the United States, with related interests in Modern European history and the history of international relations. He is the author of _America’s Germany: John J. McCloy and the Federal Republic of Germany_ (Harvard, 1991), which was translated into German, _Die Atlantik Brücke_ (Ullstein, 1992). The book examined the “dual containment” policy of the United States in Germany, a policy which sought to integrate Germany into the West while using her resources and strength to contain the Soviet Union. This book received the Stuart Bernath Book Prize of the Society of American Foreign Relations, and the Harry S. Truman Book Award, given by the Truman Presidential Library. 
-
-He is also the author of _Lyndon Johnson and Europe: In the Shadow of Vietnam_ (Harvard, 2003), which examined the Johnson Administration’s policy toward Europe and assessed the impact of the war in Vietnam on its other foreign policy objectives. He is the co-editor with Matthias Schulz of _The Strained Alliance: U.S.-European Relations from Nixon to Carter,_ (Cambridge University Press, 2009). Professor Schwartz's book, _Henry Kissinger and American Power_, is forthcoming in Spring 2020. 
-
-- [Interview with Thomas Schwartz](https://drive.google.com/file/d/1B5ETLQkhJ2BsUaiv_WfQ32IAlHiv7vIK/view?usp=sharing)
-- [Video of Thomas Schwartz’s Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/t8E7Kwe5/view) 
+Dr. Immerwahr’s writing has appeared in the _New York Times, The New Republic, The Guardian, The Nation, Slate, Diplomatic History, Modern Intellectual History, the Journal of the History of Ideas, the Journal of African Cultural Studies, Modern American History, Jacobin, n+1_ and _Dissent_, among other venues.
 
 ___
 
-_“Fighting With Allies: The United States and the World War II Grand Alliance”_<br>
-**Dr. Mark Stoler, Professor Emeritus, University of Vermont**<br>
-**Thursday, November 21, 2019**<br>
-**Bio:** Mark A. Stoler earned his B.A. at the City College of New York (1966) and his Ph.D. at the University of Wisconsin-Madison (1971). He joined the UVM faculty in 1970 and became Professor Emeritus in 2007.
+_“The Price of Aid: The Economic Cold War in India”_<br>
+**Dr. David Engerman, Professor at Yale University**<br>
+**Wednesday, April 15, 4:30pm**<br>
+David C. Engerman is a scholar of twentieth-century international history. Building on his dual training in American and Russian/Soviet history at the University of California-Berkeley (where he received his Ph.D. in 1998), he wrote two books on the place of Russia and the USSR in American intellectual and political life: _Modernization from the Other Shore: American Intellectuals and the Romance of Russian Development_ (Harvard UP, 2003) and _Know Your Enemy: The Rise and Fall of America’s Soviet Experts_ (Oxford UP, 2009). 
 
-Stoler's areas of special expertise are U.S. diplomatic and military history and World War II. Included among his many publications are Allies and Adversaries: the Joint Chiefs of Staff, the Grand Alliance, and U.S. Strategy in World War II (2000), The Politics of the Second Front: American Military Planning and Diplomacy in Coalition Warfare, 1941-1943 (1977), George C. Marshall: Soldier-Statesman of the American Century (1989), and Allies in War: Britain and America against the Axis Powers, 1940-1945 (2005). He also co-authored Explorations in American History (1987) with Marshall True, Major Problems in the History of World War II (2003) with Melanie Gustafson, and Debating Franklin D. Roosevelt’s Foreign Policies (2005) with Justus Doenecke.
+He has also researched and written on a variety of topics related to the history of development assistance, including a co-edited volume, Staging Growth: Modernization, Development and the Global Cold War (U-Mass Press, 2003), and most recently a monograph, The Price of Aid: The Economic Cold War in India (Harvard UP, 2018). This research was also the topic of his presidential address for the Society for Historians of American Foreign Relations in 2016.  Research for The Price of Aid was supported by grants and fellowships from the American Council of Learned Societies, the American Institute of Indian Studies, the American Philosophical Society, the Guggenheim Foundation, the Kennan Institute for Advanced Russian Studies, the National Council for Eurasian and East European Studies, the National Endowment for the Humanities, and the Eisenhower, Johnson and Truman presidential libraries.
 
-Stoler's scholarship earned him the University Scholar Award at UVM (1993) and the Distinguished Book Award of the Society for Military History (2002); his equally distinguished teaching earned him the Dean's Lecture Award (1992), the George V. Kidder Outstanding Faculty Award (1984), and the Kroepsch-Maurice Excellence in Teaching Award (2006). In addition to teaching at UVM, Stoler has served as a visiting professor at the U.S. Military Academy at West Point, the U.S. Naval War College, the University of Haifa in Israel, the U.S. Military History Institute, Williams College, and Washington & Lee University. He has also produced two audio/DVD courses for The Teaching Company and served as editor of volumes 6 and 7 of The Papers of George Catlett Marshall (2013 and 2016).  Most recently he co-edited with Molly Michelmore of The United States in World War II: A Documentary History (2018). He is former president of the Society for Historians of American Foreign Relations (2004) and a former trustee of the Society for Military History.
-
-- [Video of Mark Stoler’s Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/Hn9q8E2Y/view) 
+Engerman joined the faculty at Yale after nineteen years at Brandeis University. His new research focuses on the geopolitics of international economic inequality in the second half of the twentieth century.
 
 ___
 
-- **View more of our [Past Lectures and Videos from Spring 2019](https://drive.google.com/file/d/1w2ne9l5RIB9MbaTKeVtjj5JL7Xi94Flq/view?usp=sharing)** 
+- **View more of our [Past Lectures and Videos from 2019](https://drive.google.com/file/d/1OyBZlWv7Ur6T-lhZEjzF9ZytiIae9RRx/view?usp=sharing)** 
 - **View more of our [Past Lectures and Videos from 2016-2018](https://liberalarts.temple.edu/sites/liberalarts/files/2016-18%20Past%20Lecture%20Archives.pdf)**
 - **View more of our [Past Lectures and Videos from 2007-2015](https://liberalarts.temple.edu/sites/liberalarts/files/CENFAD%20Guest%20Speaker%20Lectures.pdf)**
