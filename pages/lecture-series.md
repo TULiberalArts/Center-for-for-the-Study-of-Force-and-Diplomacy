@@ -39,7 +39,7 @@ She previously served as a Lecturer at University College London, a Cassius Marc
 
 ___
 
-_“Slave Soldiers, Power, and Agency in Morocco in the 18th Century”_<br>
+_“Slave Soldiers and Maroonage in Morocco in the 18th Century”_<br>
 **Dr. Chouki El Hamel, Professor at Arizona State University**<br>
 **Wednesday, February 19, 4:30pm**<br>
 Chouki El Hamel is a professor of history in the School of Historical, Philosophical and Religious Studies at Arizona State University, specializing in West and Northwest Africa. His training and doctoral studies in France at the Centre de Recherches Africaines (University of Sorbonne, Paris I & VII) were in African history and Islamic societies. He taught courses in African history at North Carolina State University in Raleigh and at Duke University in Durham, N.C. In 2002, he was a scholar in residence at the Schomburg Center for Research in Black Culture in New York City (NEH fellowship) and he was a visiting professor at Nice University, France in 2016. In the academic year of 2016-17, he was awarded a Fulbright grant for research in Morocco. 
