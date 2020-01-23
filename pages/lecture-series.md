@@ -74,6 +74,6 @@ Engerman joined the faculty at Yale after nineteen years at Brandeis University.
 
 ___
 
-- **View more of our [Past Lectures and Videos from 2019](https://drive.google.com/file/d/1OyBZlWv7Ur6T-lhZEjzF9ZytiIae9RRx/view?usp=sharing)** 
+- **View more of our [Past Lectures and Videos from 2019](https://docs.google.com/document/d/1f0nfTFdbBHdgwyJCqozzeW132OfN_6miB3Uaoilmw8k/edit?usp=sharing)** 
 - **View more of our [Past Lectures and Videos from 2016-2018](https://liberalarts.temple.edu/sites/liberalarts/files/2016-18%20Past%20Lecture%20Archives.pdf)**
 - **View more of our [Past Lectures and Videos from 2007-2015](https://liberalarts.temple.edu/sites/liberalarts/files/CENFAD%20Guest%20Speaker%20Lectures.pdf)**
