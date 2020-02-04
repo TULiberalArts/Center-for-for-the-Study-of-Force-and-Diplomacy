@@ -46,7 +46,7 @@ ___
 - [American Historical Association](http://www.historians.org/)
 - [Organization of American Historians](http://www.oah.org/)
 - [Society for Historians of American Foreign Relations (SHAFR)](http://www.shafr.org/)
-- [The Cold War International History Project (CWIHP)](http://www.wilsoncenter.org/index.cfm?fuseaction=topics.home&topic_id=1409)
+- [The Cold War International History Project (CWIHP)](https://www.wilsoncenter.org/)
 - [Inter-University Seminar on Armed Forces and Society](http://www.iusafs.org/)
 - [Society for Military History](http://www.smh-hq.org/)
 - [H-Diplo](http://www.h-net.msu.edu/~diplo/)
