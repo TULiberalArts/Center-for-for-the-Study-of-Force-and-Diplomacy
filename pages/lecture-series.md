@@ -46,6 +46,16 @@ Chouki El Hamel is a professor of history in the School of Historical, Philosoph
 
 His research interests focus on the spread and the growth of Islamic culture and the evolution of Islamic institutions in Africa. He is particularly interested in the subaltern relationship of servile and marginalized communities to Islamic ruling institutions. His research into these relationships revolves around issues of power/class, slavery, race/ethnicity, gender and social justice. He published two major books and many scholarly articles in academic journals and popular magazines. His most recent book is _Black Morocco: a History of Slavery, Race, and Islam_ (Cambridge University Press, 2013), which has won Honorable Mention for the L. Carl Brown American Institute for Maghrib Studies Book Prize. Over the past decade, he has actively participated in a wide variety of positions ranging from committee work to the faculty senate.
 
+
+___
+
+_“Reagan, Pinochet, and the Return to Democracy in Chile”_<br>
+**Dr. Pablo Rubio, Visiting Researcher, Georgetown University**<br>
+**Thursday, February 27, 2:00pm**<br>
+Dr. Pablo Rubio received his PhD in Contemporary History from the Universidad Autónoma de Madrid and Pontificia Universidad Católica de Chile. He is currently a visiting researcher in the Department of History at Georgetown University and researcher at the Biblioteca del Congreso Nacional de Chile. He is a specialist in Chilean and Latin American history and has published more than 30 articles and book chapters. Additionally, he has been a professor at different European and Chilean universities. 
+
+He has published the following books: _Los civiles de Pinochet. La derecha en el régimen militar chileno, 1983-1990; Conflictos y tensiones en el Chile republican; América Latina y tiempo presente. Historia y documentos; and América Latina actual. Del populismo al giro de izquierdas._ Currently, he is preparing a book on the role of the United States at the end of the Pinochet regime and the Chilean democratic transition, based on declassified documents and interviews.
+
 ___
 
 _“How to Hide an Empire: Telling the Story of the Greater United States”_<br>
