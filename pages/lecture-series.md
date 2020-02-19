@@ -24,6 +24,8 @@ Timothy Andrews Sayle is Assistant Professor of History and Director of the Inte
 
 Sayle is a Senior Fellow of the Bill Graham Centre for Contemporary International History, an affiliate of the Centre for the Study of the United States, and an associate of the Center for Presidential History at Southern Methodist University. He is a Fellow of Trinity College in the University of Toronto and alumnus of Massey College. He directs Canada Declassified, and in 2017 he co-founded the Canadian Foreign Intelligence History Project.
 
+- [_Interview with Dr. Timothy Andrews Sayle_](https://drive.google.com/file/d/1p8-a080JipIT6aRyLGTaKsXTWObBd7Df/view?usp=sharing)
+
 ___
 
 _“From Selma to Moscow: How Human Rights Activists Transformed U.S. Foreign Policy”_<br>
