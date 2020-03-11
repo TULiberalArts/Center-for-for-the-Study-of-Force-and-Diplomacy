@@ -28,7 +28,7 @@ The Director of CENFAD [Dr. Alan McPherson](https://liberalarts.temple.edu/acade
 ___
 
 <div class="row row-wide">
-  <div class="col m12 l4">{% include cards/card2-image.html
+  <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Strategic Visions"
     content="Check out the newest edition of Strategic Visions, the biannual newsletter of CENFAD to find out what we have coming up in CENFAD in fall 2018!"
     image=""
@@ -36,7 +36,7 @@ ___
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
-    <div class="col m12 l4">{% include cards/card2-image.html
+    <div class="col m12 l4">{% include cards/card2-fixed.html
       title="CENFAD Lecture Series"
       content="Attend a CENFAD lecture to learn more about the study of force and diplomacy from government officials and award-winning scholars."
       image=""
@@ -44,7 +44,7 @@ ___
       button-text="Learn More" %}
     </div>
     <div class="row row-wide">
-      <div class="col m12 l4">{% include cards/card2-image.html
+      <div class="col m12 l4">{% include cards/card2-fixed.html
         title="Funding"
         content="The Center for the Study of Force and Diplomacy offers prizes, fellowships and travel funds to make cutting-edge research possible."
         image=""
