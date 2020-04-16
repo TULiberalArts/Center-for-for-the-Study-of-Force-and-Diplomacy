@@ -38,7 +38,9 @@ Her first book, _Human Rights Activism and the End of the Cold War: A Transnatio
 
 In addition to authoring several chapters in edited collections, she has also published articles in _Diplomatic History, Cold War History, Human Rights Quarterly, Diplomacy & Statecraft, Journal of Transatlantic Studies, European Journal of Human Rights_ and _Journal of American Studies_.
 
-She previously served as a Lecturer at University College London, a Cassius Marcellus Clay Postdoctoral Fellow in the Department of History at Yale University, the Pierre Keller Post -Doctoral Fellow in Transatlantic Relations at the Whitney and Betty MacMillan Center for International and Area Studies also at Yale, and as a professorial lecturer at Georgetown University. She received her Ph.D. from Georgetown, a M.A. from University College London, and a B.A. with honors from Brown University. 
+She previously served as a Lecturer at University College London, a Cassius Marcellus Clay Postdoctoral Fellow in the Department of History at Yale University, the Pierre Keller Post -Doctoral Fellow in Transatlantic Relations at the Whitney and Betty MacMillan Center for International and Area Studies also at Yale, and as a professorial lecturer at Georgetown University. She received her Ph.D. from Georgetown, a M.A. from University College London, and a B.A. with honors from Brown University.
+
+- [_Interview with Dr. Sarah Snyder_](https://drive.google.com/file/d/1aObmruh9ox8b_-kVn4jUcq0q1XIz2xWH/view?usp=sharing)
 
 ___
 
@@ -61,7 +63,7 @@ He has published the following books: _Los civiles de Pinochet. La derecha en el
 
 ___
 
-_“How to Hide an Empire: Telling the Story of the Greater United States”_<br>
+_**CANCELLED**:“How to Hide an Empire: Telling the Story of the Greater United States”_<br>
 **Dr. Daniel Immerwahr, Professor at  Northwestern University**<br>
 **Thursday, March 19, 4:30pm**<br>
 Dr. Immerwahr received his undergraduate degree from Columbia University, where he studied history and philosophy. Then, funded by a Marshall scholarship, he received a second BA, this time at King's College at Cambridge University with a thesis on African architecture under the supervision of John Lonsdale. He received his doctoral degree in history at the University of California, Berkeley, studying under the intellectual historian David Hollinger. His dissertation won the Allan Nevins Prize in American Economic History from the Economic History Association, and it received honorable mention for the Betty M. Unterberger Prize from the Society for Historians of American Foreign Relations.
@@ -76,7 +78,7 @@ Dr. Immerwahr’s writing has appeared in the _New York Times, The New Republic,
 
 ___
 
-_“The Price of Aid: The Economic Cold War in India”_<br>
+_**CANCELLED**:“The Price of Aid: The Economic Cold War in India”_<br>
 **Dr. David Engerman, Professor at Yale University**<br>
 **Wednesday, April 15, 4:30pm**<br>
 David C. Engerman is a scholar of twentieth-century international history. Building on his dual training in American and Russian/Soviet history at the University of California-Berkeley (where he received his Ph.D. in 1998), he wrote two books on the place of Russia and the USSR in American intellectual and political life: _Modernization from the Other Shore: American Intellectuals and the Romance of Russian Development_ (Harvard UP, 2003) and _Know Your Enemy: The Rise and Fall of America’s Soviet Experts_ (Oxford UP, 2009). 
