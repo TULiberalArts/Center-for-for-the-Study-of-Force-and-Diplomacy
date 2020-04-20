@@ -41,6 +41,7 @@ In addition to authoring several chapters in edited collections, she has also pu
 She previously served as a Lecturer at University College London, a Cassius Marcellus Clay Postdoctoral Fellow in the Department of History at Yale University, the Pierre Keller Post -Doctoral Fellow in Transatlantic Relations at the Whitney and Betty MacMillan Center for International and Area Studies also at Yale, and as a professorial lecturer at Georgetown University. She received her Ph.D. from Georgetown, a M.A. from University College London, and a B.A. with honors from Brown University.
 
 - [_Interview with Dr. Sarah Snyder_](https://drive.google.com/file/d/1aObmruh9ox8b_-kVn4jUcq0q1XIz2xWH/view?usp=sharing)
+- [_Video of Sarah Snyder’s Lecture_](https://ensemble.temple.edu/hapi/v1/contents/permalinks/Sr58YcDq/view)
 
 ___
 
@@ -60,6 +61,8 @@ _“Reagan, Pinochet, and the Return to Democracy in Chile”_<br>
 Dr. Pablo Rubio received his PhD in Contemporary History from the Universidad Autónoma de Madrid and Pontificia Universidad Católica de Chile. He is currently a visiting researcher in the Department of History at Georgetown University and researcher at the Biblioteca del Congreso Nacional de Chile. He is a specialist in Chilean and Latin American history and has published more than 30 articles and book chapters. Additionally, he has been a professor at different European and Chilean universities. 
 
 He has published the following books: _Los civiles de Pinochet. La derecha en el régimen militar chileno, 1983-1990; Conflictos y tensiones en el Chile republican; América Latina y tiempo presente. Historia y documentos; and América Latina actual. Del populismo al giro de izquierdas._ Currently, he is preparing a book on the role of the United States at the end of the Pinochet regime and the Chilean democratic transition, based on declassified documents and interviews.
+
+- [_Video of Pablo Rubio’s Lecture_](https://ensemble.temple.edu/hapi/v1/contents/permalinks/Ap57Qxq9/view)
 
 ___
 
