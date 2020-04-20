@@ -29,7 +29,7 @@ ___
 ## Journals (subscription may be required)
 - American Diplomacy
 - Diplomatic History
-- [Foreign Affairs](http://www.foreignaffairs.org/)
+- Foreign Affairs
 - [International Security](http://www.mitpressjournals.org/loi/isec)
 - [Perspective](http://www.bu.edu/)
 - [Political Science Quarterly](http://www.psqonline.org/)
