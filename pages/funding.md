@@ -17,12 +17,14 @@ Temple University’s Center for the Study of Force and Diplomacy (CENFAD) is de
 
 Any paper written by an undergraduate student in the 2019-2020 school year submitted by either the student or a faculty member at the student’s college or university, is eligible. The paper must address an issue, contemporary or historical, that demonstrates the intersection of force and diplomacy in international affairs. Papers should be no longer than forty-five (45) pages in length. The selection committee will accept only electronic submissions. Please email papers as an attachment in any format, along with the name and contact information of the paper’s author. Please make sure that the file is clearly titled (ApplicantsName-submission.doc, for example), and include the paper’s title, author’s name, and an email address in the document itself.
 
-**The deadline for submissions is 5:00 pm on Sunday April 12, 2020.**
+**The deadline for submissions is 5:00 pm on April 12, 2021.**
 
-Please address all questions and Electronic Submissions to [Brandon Kinney](mailto:tuj6194@temple.edu).
+Please address all questions and Electronic Submissions to [Joshua Stern](mailto:tuj64084@temple.edu).
 
 **Previous Winners:**
-- 2018: Holden Zimmerman, University of Kansas, "Defensive Humanitarianism: Swiss Internment Camps in WWI"
+- 2020: Scott Hedberg, University of Kansas, [“Failure to Influence: US Information Service - Vietnam, 1954-1957”](https://drive.google.com/file/d/1BsDGh1YjG7XbQHfKUCnk2fNCN_-CLDkJ/view?usp=sharing)
+- 2019: No Winner
+- 2018: Holden Zimmerman, University of Kansas, ["Defensive Humanitarianism: Swiss Internment Camps in WWI"](https://drive.google.com/file/d/13rU5eQz3raMjx0dvEImPsb0lX6l-qcCs/view?usp=sharing)
 - 2017: Charlotte Blatt, Dartmouth College, ["Operational Success, Strategic Failure: Assessing the 2007 Iraq Troop Surge"](https://liberalarts.temple.edu/sites/liberalarts/files/CharlotteBlatt-Submission%20%281%29.pdf)
 - 2016: Erica Ma, University of Pennsylvania, ["A State Divided: The Decisive Impact of Third-Party Interventions on Secession Conflicts (1945-2011)](https://liberalarts.temple.edu/sites/liberalarts/files/Erica%20Ma_submission%20FINAL.pdf)"
 - 2015: Nathan Hausman, United States Air Force Academy, ["Competing Narratives: Comparing Perspectives on NATO Intervention in Kosovo"](https://liberalarts.temple.edu/sites/liberalarts/files/Hausman%20US-Russia%20Kosovo.pdf)
@@ -44,9 +46,10 @@ ___
 ### Thomas J. Davis Endowed Fellowship in Diplomacy and Foreign Relations
 This fellowship is made possible by the generosity of Todd Davis, who received his Ph.D. in History from Temple in 2002 and served as the first graduate assistant for development for the Center for the Study of Diplomacy (CENFAD). Todd named the fellowship after his father, a decorated first lieutenant in the U.S. Army who was killed in action during the Vietnam War. Responsibilities will be dedicated to advancing the Center for the Study of Force and Diplomacy. In this capacity, your assignment will be primarily to assist, through research and writing, applications for external grants to support CENFAD’s projects. You will also be expected to assist in the publication of CENFAD’s newsletter, Strategic Visions, help publicize lectures and symposia, administrate CENFAD’s website, coordinate CENFAD colloquia and other events, and contribute in parallel ways. As is the case with a conventional assistantship, you will not be expected to work more than 20 hours per week. The fellowship includes a stipend — amount changes each year. Students should apply to [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu) by **December 15 for a fellowship for the next academic year**. Please include an update CV, a letter of recommendation from anybody that may attest to the applicant’s relevant abilities and qualifications, and a 1-2 page statement on the applicant’s abilities to successful serve in this role. 
 
-- 2019-2020 Recipient: Brandon Kinney
+- 2020-2021 Recipient: [Joshua Stern](mailto:tuj64084@temple.edu)
 
 **Previous Recipients:**
+- 2019-20: Brandon Kinney
 - 2018-19: Michael Fischer
 - 2017-18: Eric Perinovic
 - 2016-17: Brian McNamara
