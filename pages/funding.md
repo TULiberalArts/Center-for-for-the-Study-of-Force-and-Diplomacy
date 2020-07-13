@@ -97,8 +97,8 @@ Students are eligible to receive the same award twice. Students do not apply for
 Endowed research award for Temple University graduate students of diplomatic and military history, with preference going to military history. Direct questions or applications should apply to [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu). **The deadline is October 1.**
 
 **Previous Recipients:**
-- 2019-2020: Ariel Natalo-Lifton
-- 2018-2019: Alexandre Caillot
+- 2019-20: Ariel Natalo-Lifton
+- 2018-19: Alexandre Caillot
 - 2017-18: Manna Duah
 - 2016-17: Silke Zoller
 - 2015-16: John Worsencroft
@@ -119,8 +119,8 @@ Endowed research award for Temple University graduate students of diplomatic and
 Awarded to a Temple University graduate student of military or diplomatic history. Preference is given to students who incorporate a study of technology into their work. Direct questions or applications should contact [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu). **The deadline for spring awards is October 1.**
 
 **Previous Recipients:**
-- 2019-2020: None
-- 2018-2019: Eric Perinovic
+- 2019-20: None
+- 2018-19: Eric Perinovic
 - 2017-18: Kaete O'Connell
 - 2016-17: Tyler Bamford
 - 2015-16: Thomas Reinstein
@@ -141,6 +141,7 @@ Awarded to a Temple University graduate student of military or diplomatic histor
 To be awarded to a Temple University graduate student in the history of U.S. foreign relations. Direct questions or applications should contact [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu). **The deadline for spring awards is March 1.**
 
 **Previous Recipients:**
+- 2019-2020: Alexandre Caillot, Mike Fischer and Josh Stern
 - 2018-2019: None
 - 2017-18: Keith Riley
 - 2016-17: Thomas Reinstein and John Worsencroft
