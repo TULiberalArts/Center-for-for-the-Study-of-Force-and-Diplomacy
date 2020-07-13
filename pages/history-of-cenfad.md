@@ -10,6 +10,8 @@ keywords: ''
 # custom variables
 sidebar: sidebars/history-of-cenfad.html     
 ---
+___
+
 ## A History of the Center for the Study of Force and Diplomacy
 As my tenure as CENFAD director comes to a close in spring 2017, I can’t help but think back to how it all began—and the many way stations in between. I won’t bore you with the whole story. It’s a long one. But for the sake of ensuring that I’m not the sole keeper of CENFAD’s institutional memory, I’ll jot down the CliffsNotes version.
 
