@@ -10,6 +10,8 @@ keywords: 'past lectures, lecture series'
 # custom variables
 sidebar: sidebars/history-of-cenfad.html     
 ---
+___
+
 ## Events and Video
 Over the years, CENFAD has invited guest speakers to give talks on issues that relate to the study of force and diplomacy. Past speakers have included Pulitzer- and Bancroft-winning scholars such as John Lewis Gaddis, Ari Kelman, Melvyn Leffler, and Fredrik Logevall, current and former government officials including Gov. Tom Ridge, Gen. Wesley Clark, Anthony Lake, and Aaron O’Connell, and scholars working on the cutting edge of military and diplomatic history like Stephen Biddle, Frank Costigliola, Greg Daddis, Brian DeLay, Thomas Fingar, Maria Höhn, Barbara Keys, Brian Linn, Jennifer Mittelstadt, Tim Naftali, Andrew Preston, Andrew Rotter, Dennis Showalter, and Mark Stoler. Many of these speakers have appeared under the auspices of the CENFAD colloquium series, which is an annual highlight at Temple. CENFAD colloquia typically are scheduled once or twice a month during the semester in the Russell F. Weigley Room, Gladfelter 914. To suggest a speaker, contact CENFAD's Thomas Davis Fellow, [Brandon Kinney](mailto:tuj62914@temple.edu).
 
