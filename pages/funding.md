@@ -12,6 +12,8 @@ sidebar: sidebars/research.html
 ---
 ## Prizes
 
+___
+
 ### 2021 Edwin H. Sherman Family Prize for Undergraduate Scholarship in Force and Diplomacy
 Temple University’s Center for the Study of Force and Diplomacy (CENFAD) is delighted to once again solicit submissions for its annual Edwin H. Sherman Prize for Undergraduate Scholarship in Force and Diplomacy. The recipient of the Edwin Sherman Prize receives a $1,000 award along with a certificate. CENFAD welcomes submissions from students or instructors/advisors/mentors.
 
