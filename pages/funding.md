@@ -79,8 +79,8 @@ Responsibilities will be dedicated to advancing the History Department’s conce
 - October 2011 – Seth Tannenbaum
 - July 2010 – Meredith Hohe
 
-## 2018 Research Fellowship Competition for Temple University Graduate Students
-CENFAD is now accepting applications from Temple graduate students for the Marvin Wachman, John Votaw, and Jeffrey Bower Research Fellowships. These fellowships provide stipends of varying amounts to defray the cost of research conducted in connection with completion of the Ph.D. dissertation. All have been made available through the generous contributions of CENFAD supporters. Applicants for these funds must be advanced to Ph.D. candidacy or, if an M.A. student, expect to have completed the required coursework by the end of the Spring 2018 semester and have chosen the Thesis option. The application must include:
+## Research Fellowship Competition for Temple University Graduate Students
+CENFAD is now accepting applications from Temple graduate students for the John Votaw and Jeffrey Bower Fellowships (in the Fall) and the Marvin Wachman and Richard Immerman Fellowships (in the Spring). These fellowships provide stipends of varying amounts to defray the cost of research conducted in connection with completion of the PhD dissertation. All have been made available through the generous contributions of CENFAD supporters. Applicants for these funds must be Ph.D. students in the History Department. The application must include:
 
 - A letter of application that spells out your qualifications for the award.
 - A current C.V.
@@ -89,14 +89,13 @@ CENFAD is now accepting applications from Temple graduate students for the Marvi
 
 Please attach the abstract, C.V., and statement, including expected date of graduation, as three separate files, and arrange for the advisor/reader to submit the letter of support separately (and also electronically).
 
-A student is not eligible to receive the same award twice. However, receipt of one named CENFAD Research Fellowship does not preclude receiving another. Students do not apply for a specific award. They simply apply for a CENFAD research fellowship. Submissions must be made electronically to [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu).
+Students are eligible to receive the same award twice. Students do not apply for a specific award. They simply apply for a CENFAD research fellowship. Submissions must be made electronically to [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu).
 
 ### John Votaw Endowed Research Award
 Endowed research award for Temple University graduate students of diplomatic and military history, with preference going to military history. Direct questions or applications should apply to [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu). **The deadline is October 1.**
 
-- 2019-2020 Recipient: Ariel Natalo-Lifton
-
 **Previous Recipients:**
+- 2019-2020: Ariel Natalo-Lifton
 - 2018-2019: Alexandre Caillot
 - 2017-18: Manna Duah
 - 2016-17: Silke Zoller
@@ -113,6 +112,28 @@ Endowed research award for Temple University graduate students of diplomatic and
 - 2005-06: David Ulbrich
 - 2004-05: Matthew Muhlbauer
 - 2003-04: John Bonin
+
+### Jeffrey Bower Endowed Research Fellowship
+Awarded to a Temple University graduate student of military or diplomatic history. Preference is given to students who incorporate a study of technology into their work. Direct questions or applications should contact [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu). **The deadline for spring awards is October 1.**
+
+**Previous Recipients:**
+- 2019-2020: None
+- 2018-2019: Eric Perinovic
+- 2017-18: Kaete O'Connell
+- 2016-17: Tyler Bamford
+- 2015-16: Thomas Reinstein
+- 2014-15: Larry Kessler
+- 2013-14: EJ Catagnus
+- 2012-13: Sarah Robey
+- 2011-12: Aaron Sullivan
+- 2010-11: Ben Brandenberg
+- 2009-10: Claude Barnes and Michele Louro
+- 2008-09: Andrew McKevitt
+- 2007-08: Katherine Scott
+- 2006-07: Britton MacDonald
+- 2005-06: Uta Kresse
+- 2004-05: Ginger Davis
+- 2003-04: Bob Wintermute
 
 ### Marvin Wachman Fellowship in Force and Diplomacy
 To be awarded to a Temple University graduate student in the history of U.S. foreign relations. Direct questions or applications should contact [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu). **The deadline for spring awards is March 1.**
@@ -135,26 +156,8 @@ To be awarded to a Temple University graduate student in the history of U.S. for
 - 2004-05: Darren Bardell
 - 2003-04: Laura Szumanski Steel
 
-### Jeffrey Bower Endowed Research Fellowship
-Awarded to a Temple University graduate student of military or diplomatic history. Preference is given to students who incorporate a study of technology into their work. Direct questions or applications should contact [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu). **The deadline for spring awards is October 1.**
-
-**Previous Recipients:**
-- 2018-2019: Eric Perinovic
-- 2017-18: Kaete O'Connell
-- 2016-17: Tyler Bamford
-- 2015-16: Thomas Reinstein
-- 2014-15: Larry Kessler
-- 2013-14: EJ Catagnus
-- 2012-13: Sarah Robey
-- 2011-12: Aaron Sullivan
-- 2010-11: Ben Brandenberg
-- 2009-10: Claude Barnes and Michele Louro
-- 2008-09: Andrew McKevitt
-- 2007-08: Katherine Scott
-- 2006-07: Britton MacDonald
-- 2005-06: Uta Kresse
-- 2004-05: Ginger Davis
-- 2003-04: Bob Wintermute
+### The Richard Immerman Research Award- New Award for 2021!
+Awarded to a Temple University PhD student in History whose research project is congruent with the mission of CENFAD. Award recipients shall be selected by a committee comprised of the Dean of the School, the Director of CENFAD, and a College faculty member whose primary academic specialization is the history of United States foreign relations. The maximum award is $1,500. **The deadline is March 1.**
 
 ___
 
