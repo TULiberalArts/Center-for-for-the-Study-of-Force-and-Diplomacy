@@ -10,6 +10,8 @@ keywords: ''
 # custom variables
 sidebar: sidebars/strategic-visions-magazine.html      
 ---
+___
+
 ![Strategic Visions Magazine logo]({{site.baseurl}}/media/clip_image002.jpg){:.responsive-img .img-center}
 ## Fall 2019 Edition
 Read the full [Fall 2019 Edition of _Strategic Visions!_](https://tuljournals.temple.edu/index.php/strategic_visions/issue/view/27)
