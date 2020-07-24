@@ -13,6 +13,11 @@ sidebar: sidebars/strategic-visions-magazine.html
 ___
 
 ![Strategic Visions Magazine logo]({{site.baseurl}}/media/clip_image002.jpg){:.responsive-img .img-center}
+You can read our entire journal collection in the [Strategic Visions](https://tuljournals.temple.edu/index.php/strategic_visions) section of the Temple University Libraries Journals.
+
+## Spring 2020 Edition
+Read the full [Spring 2020 Edition of _Strategic Visions!_](https://drive.google.com/file/d/14uThIsOLbn46oJdOGYBjv6N_mtxOUlFo/view?usp=sharing)
+
 ## Fall 2019 Edition
 Read the full [Fall 2019 Edition of _Strategic Visions!_](https://tuljournals.temple.edu/index.php/strategic_visions/issue/view/27)
 
