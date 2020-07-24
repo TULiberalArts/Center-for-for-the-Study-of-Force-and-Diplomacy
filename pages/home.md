@@ -32,7 +32,7 @@ ___
     title="Strategic Visions"
     content="Check out the newest edition of Strategic Visions, the biannual newsletter of CENFAD to find out what we have coming up in CENFAD in fall 2018!"
     image=""
-    button-link="https://tuljournals.temple.edu/index.php/strategic_visions/article/view/36/61"
+    button-link="https://www.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
