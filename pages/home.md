@@ -30,9 +30,9 @@ ___
 <div class="row row-wide">
   <div class="col m12 l4">{% include cards/card2-fixed.html
     title="Strategic Visions"
-    content="Check out the newest edition of Strategic Visions, the biannual newsletter of CENFAD to find out what we have coming up in CENFAD in fall 2018!"
+    content="Check out the newest edition of Strategic Visions, the biannual newsletter of CENFAD to find out what we have coming up in CENFAD in fall 2020!"
     image=""
-    button-link="https://www.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/"
+    button-link="https://www.cla.temple.edu/center-for-the-study-of-force-and-diplomacy/strategic-visions-magazine/"
     button-text="Learn More" %}
   </div>
   <div class="row row-wide">
