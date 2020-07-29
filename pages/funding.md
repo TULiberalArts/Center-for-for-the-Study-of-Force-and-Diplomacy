@@ -76,7 +76,7 @@ taking applications from any instructor of record of a CLA course (including gra
 instructors and NTTs) who needs sponsorship assistance to bring in a speaker on a topic related
 to force and/or diplomacy, broadly defined.
 
-- Please read the [Call for Applications](https://drive.google.com/file/d/1M6zVoUtR8k5erubJk1Kx9GgP_wazAkrb/view?usp=sharing) (pdf.) to learn more about this upcoming opportunity for the fall. 
+- Please read the [Call for Applications](https://drive.google.com/file/d/1YKJ0x0mpyLf3q9-APygJq--rAHy2yxWT/view?usp=sharing) (pdf.) to learn more about this upcoming opportunity for the fall. 
 
 ### Sergeant Major William F. Berger Prize Endowed Fellowship for War and Society
 Responsibilities will be dedicated to advancing the History Department’s concentration in War and Society, primarily as a teaching assistant in the course War and Peace, if it is being offered. As is the case with a conventional assistantship, awardees will not be expected to work more than 20 hours per week. The prize includes a stipend. Continuing students apply to the Director of Graduate Studies **by December 15 for a fellowship for the next academic year**. Please include an update CV, a letter of recommendation from anybody that may attest to the applicant’s relevant abilities and qualifications, and a 1-2 page statement on the applicant’s abilities to successful serve in this role.
