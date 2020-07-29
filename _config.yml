@@ -51,12 +51,12 @@ media-mentions-feed: https://liberalarts.temple.edu/media-mentions/center-for-th
 # Social Media
 # Put in only the username unless otherwise noted
 # If social media does not apply to your department, keep it blank or use the default values.
+# Ff your page does not have a custom URL, create one!
 social:
-  # Facebook - http://facebook.com/USERNAME
-  # if your page does not have a custom URL, create one!
-  facebook: TempleLiberalArts
+  # Facebook - https://www.facebook.com/CenterfortheStudyofForceandDiplomacy
+  facebook: Center for the Study of Force and Diplomacy
   # Twitter - https://twitter.com/USERNAME
-  twitter: TULiberalArts
+  twitter: @CENFAD
   # Instagram - https://www.instagram.com/USERNAME
   instagram: TULiberalArts
   # Snapchat - USERNAME
