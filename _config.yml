@@ -53,8 +53,8 @@ media-mentions-feed: https://liberalarts.temple.edu/media-mentions/center-for-th
 # If social media does not apply to your department, keep it blank or use the default values.
 # Ff your page does not have a custom URL, create one!
 social:
-  # Facebook - https://www.facebook.com/CenterfortheStudyofForceandDiplomacy
-  facebook: Center for the Study of Force and Diplomacy
+  # Facebook - https://www.facebook.com/USERNAME
+  facebook: /CenterfortheStudyofForceandDiplomacy
   # Twitter - https://twitter.com/USERNAME
   twitter: @CENFAD
   # Instagram - https://www.instagram.com/USERNAME
