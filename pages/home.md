@@ -25,6 +25,15 @@ The Director of CENFAD [Dr. Alan McPherson](https://liberalarts.temple.edu/acade
 **Thomas J. Davis Fellow**
 - [Joshua Stern](mailto:tuj64084@temple.edu)
 
+## Call for Applications: CENFAD Sponsoring “Force and Diplomacy” Speakers for Fall 2020
+In response to the Covid-19 pandemic that is moving many courses online and making campus
+visits by outside speakers more difficult, the Center for the Study of Force and Diplomacy is
+taking applications from any instructor of record of a CLA course (including graduate student
+instructors and NTTs) who needs sponsorship assistance to bring in a speaker on a topic related
+to force and/or diplomacy, broadly defined.
+
+- Please read the [Call for Applications](https://drive.google.com/file/d/1YKJ0x0mpyLf3q9-APygJq--rAHy2yxWT/view?usp=sharing) (pdf.) to learn more about this upcoming opportunity for the fall.
+
 ___
 
 <div class="row row-wide">
