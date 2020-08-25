@@ -13,87 +13,75 @@ sidebar: sidebars/history-of-cenfad.html
 ___
 
 ## Events and Video
-Over the years, CENFAD has invited guest speakers to give talks on issues that relate to the study of force and diplomacy. Past speakers have included Pulitzer- and Bancroft-winning scholars such as John Lewis Gaddis, Ari Kelman, Melvyn Leffler, and Fredrik Logevall, current and former government officials including Gov. Tom Ridge, Gen. Wesley Clark, Anthony Lake, and Aaron O’Connell, and scholars working on the cutting edge of military and diplomatic history like Stephen Biddle, Frank Costigliola, Greg Daddis, Brian DeLay, Thomas Fingar, Maria Höhn, Barbara Keys, Brian Linn, Jennifer Mittelstadt, Tim Naftali, Andrew Preston, Andrew Rotter, Dennis Showalter, and Mark Stoler. Many of these speakers have appeared under the auspices of the CENFAD colloquium series, which is an annual highlight at Temple. CENFAD colloquia typically are scheduled once or twice a month during the semester in the Russell F. Weigley Room, Gladfelter 914. To suggest a speaker, contact CENFAD's Thomas Davis Fellow, [Brandon Kinney](mailto:tuj62914@temple.edu).
+Over the years, CENFAD has invited guest speakers to give talks on issues that relate to the study of force and diplomacy. Past speakers have included Pulitzer- and Bancroft-winning scholars such as John Lewis Gaddis, Ari Kelman, Melvyn Leffler, and Fredrik Logevall, current and former government officials including Gov. Tom Ridge, Gen. Wesley Clark, Anthony Lake, and Aaron O’Connell, and scholars working on the cutting edge of military and diplomatic history like Stephen Biddle, Frank Costigliola, Greg Daddis, Brian DeLay, Thomas Fingar, Maria Höhn, Barbara Keys, Brian Linn, Jennifer Mittelstadt, Tim Naftali, Andrew Preston, Andrew Rotter, Dennis Showalter, and Mark Stoler. Many of these speakers have appeared under the auspices of the CENFAD colloquium series, which is an annual highlight at Temple. CENFAD normally schedules colloquia once or twice a month during the semester in the Russell F. Weigley Room, Gladfelter 914. **However, due to Covid-19 the speaker series will be held on Zoom for Fall 2020.** To suggest a speaker, contact CENFAD’s Thomas Davis Fellow, [Joshua Stern](mailto:tuj64084@temple.edu).
 
 ___
 
-### Spring 2020
-_“Enduring Alliance: A History of NATO and the Postwar Global Order”_<br>
-**Dr. Timothy Andrews Sayle, Assistant Professor at the University of Toronto**<br>
-**Thursday, February 6, 4:30 pm**<br>
+### Fall 2020
+_“Paramilitarism: Mass Violence in the Shadow of the State”_<br>
+**Dr. Uğur Ümit Üngör, Professor of History at the University of Amsterdam**<br>
+**Wednesday, September 2, 4:30pm**<br>
 
-Timothy Andrews Sayle is Assistant Professor of History and Director of the International Relations Program at the University of Toronto. His _Enduring Alliance: A History of NATO and the Postwar Global Order_ was published by Cornell University Press in April 2019. He is also a principal co-investigator and editor of an oral history project examining President George W. Bush’s decision to “surge” troops to Iraq in 2007; a volume of the oral history, The Last Card: Inside George W. Bush’s Decision to Surge in Iraq  will be published by Cornell University Press in September 2019. His research on NATO, Canadian-American relations, and intelligence issues has been published in the _International Journal, the International History Review, Historical Journal, Cold War History, Canadian Military History, and Intelligence & National Security_ and in several edited books.
+Uğur Ümit Üngör is Professor of History at the University of Amsterdam and the Institute for War, Holocaust, and Genocide Studies in Amsterdam. His main areas of interest are the history and sociology of mass violence, with a particular focus on the modern and contemporary Middle East. He is an editor of the _Journal of Perpetrator Research_, and coordinator of the _Syrian Oral History Project_. His publications include _Genocide: New Perspectives_ (Amsterdam University Press, 2016, ed.), _Confiscation and Destruction: The Young Turk Seizure of Armenian Property_ (Continuum, 2011), and the award-winning _The Making of Modern Turkey: Nation and State in Eastern Anatolia, 1913-1950_ (Oxford University Press, 2011). From 2014 to 2019, Üngör coordinated a Dutch Research Council-funded research project on paramilitarism, which led to the monograph _Paramilitarism: Mass Violence in the Shadow of the State_ (Oxford University Press, 2020). He is currently working on its follow-up monograph _Assad’s Militias and Mass Violence in Syria_ (forthcoming, 2021).
 
-Sayle is a Senior Fellow of the Bill Graham Centre for Contemporary International History, an affiliate of the Centre for the Study of the United States, and an associate of the Center for Presidential History at Southern Methodist University. He is a Fellow of Trinity College in the University of Toronto and alumnus of Massey College. He directs Canada Declassified, and in 2017 he co-founded the Canadian Foreign Intelligence History Project.
-
-- [_Interview with Dr. Timothy Andrews Sayle_](https://drive.google.com/file/d/1p8-a080JipIT6aRyLGTaKsXTWObBd7Df/view?usp=sharing)
-- [_Video of Timothy Sayle’s Lecture_](https://ensemble.temple.edu/hapi/v1/contents/permalinks/a6N5PcRo/view)
+- [Zoom Link](https://temple.zoom.us/j/98400292811)
 
 ___
 
-_“From Selma to Moscow: How Human Rights Activists Transformed U.S. Foreign Policy”_<br>
-**Dr. Sarah Snyder, Associate Professor at American University**<br>
-**Wednesday, February 12, 4:30pm**<br>
-Sarah B. Snyder is a historian of U.S. foreign relations who specializes in the history of the Cold War, human rights activism, and U.S. human rights policy. She is the author of _From Selma to Moscow: How Human Rights Activists Transformed U.S. Foreign Policy_ (Columbia University Press, 2018), which explains how transnational connections and 1960s-era social movements inspired Americans to advocate for a new approach to human rights.
+_“In Camps: Vietnamese Refugees, Asylum Seekers, and Repatriates”_<br>
+**Dr. Jana K. Lipman, Associate Professor of History at Tulane University**<br>
+**Wednesday, September 30, 4:30pm**<br>
+Dr. Lipman is a scholar of U.S. foreign relations, U.S. immigration, and labor history. While her research spans numerous geographies, from Cuba to Hong Kong, at its core it investigates the local histories of diplomatic politics. Her first monograph, _Guantánamo: A Working-Class History between Empire and Revolution_ (University of California Press, 2009), argued how Cuban base workers were key actors in shaping U.S.-Cuban relations in Guantánamo, before, during, and after the revolution. 
 
-Her first book, _Human Rights Activism and the End of the Cold War: A Transnational History of the Helsinki Network_ (Cambridge University Press), analyzes the development of a transnational network devoted to human rights advocacy and its contributions to the end of the Cold War. The Society for Historians of American Foreign Relations awarded it the 2012 Stuart Bernath Book Prize by for best first book by an author and the 2012 Myrna F. Bernath Book Award for the best book written by a woman in the field in the previous two years.
+Her new book, _In Camps: Vietnamese Refugees, Asylum-Seekers, and Repatriates_ (University of California Press, 2020), reveals how first asylum sites (places that hosted refugee camps) “pushed” the United Nations High Commissioner for Refugees to reshape international refugee policy. It also argues how Vietnamese activists in the camps and diasporic activists in resettlement countries influenced U.S. and international refugee policy. This project engages with questions raised by historians of human rights, humanitarianism, refugee studies, and Asian American studies. _In Camps_ raises key questions that remain all too relevant today: Who is a refugee? Who determines this status? And how does it change over time? Drawn from archival research in Malaysia, Hong Kong, the Philippines, the UNHCR, and southern California, _In Camps_ pays close attention to host territories and Vietnamese activism in the camps and the diaspora.
 
-In addition to authoring several chapters in edited collections, she has also published articles in _Diplomatic History, Cold War History, Human Rights Quarterly, Diplomacy & Statecraft, Journal of Transatlantic Studies, European Journal of Human Rights_ and _Journal of American Studies_.
+Dr. Lipman has also published essays about the relationship between the U.S. military and refugee camps, and she co-edited multiple projects on U.S. Empire.  Her future projects include investigating the histories of sexual violence and the U.S. military, collaborative projects on Southeast Asia and U.S. foreign relations, and an ongoing commitment to public history.
 
-She previously served as a Lecturer at University College London, a Cassius Marcellus Clay Postdoctoral Fellow in the Department of History at Yale University, the Pierre Keller Post -Doctoral Fellow in Transatlantic Relations at the Whitney and Betty MacMillan Center for International and Area Studies also at Yale, and as a professorial lecturer at Georgetown University. She received her Ph.D. from Georgetown, a M.A. from University College London, and a B.A. with honors from Brown University.
-
-- [_Interview with Dr. Sarah Snyder_](https://drive.google.com/file/d/1aObmruh9ox8b_-kVn4jUcq0q1XIz2xWH/view?usp=sharing)
-- [_Video of Sarah Snyder’s Lecture_](https://ensemble.temple.edu/hapi/v1/contents/permalinks/Sr58YcDq/view)
+- [Zoom Link](https://temple.zoom.us/j/95791045425)
 
 ___
 
-_“Slave Soldiers and Maroonage in Morocco in the 18th Century”_<br>
-**Dr. Chouki El Hamel, Professor at Arizona State University**<br>
-**Wednesday, February 19, 4:30pm**<br>
-Chouki El Hamel is a professor of history in the School of Historical, Philosophical and Religious Studies at Arizona State University, specializing in West and Northwest Africa. His training and doctoral studies in France at the Centre de Recherches Africaines (University of Sorbonne, Paris I & VII) were in African history and Islamic societies. He taught courses in African history at North Carolina State University in Raleigh and at Duke University in Durham, N.C. In 2002, he was a scholar in residence at the Schomburg Center for Research in Black Culture in New York City (NEH fellowship) and he was a visiting professor at Nice University, France in 2016. In the academic year of 2016-17, he was awarded a Fulbright grant for research in Morocco. 
+_“Inter-American Labor Diplomacy: Union Busting, Development, and Modernization Theory”_<br>
+**Dr. Thomas Field Jr., Professor of History at the Embry-Riddle Aeronautical University**<br>
+**Wednesday, October 7, 4:30pm**<br>
+Thomas C. Field Jr. (PhD, London School of Economics) is author of _From Development to Dictatorship: Bolivia and the Alliance for Progress in the Kennedy Era_ (Cornell University Press, 2014), which received the Thomas McGann Award from the Rocky Mountain Council for Latin American Studies and was named a Choice "Outstanding Academic Title" by the American Library Association.  Field is also the recipient of the Stuart L. Bernath Scholarly Article Prize and the Betty M. Unterberger Dissertation Prize, both from the Society for Historians of American Foreign Relations.  He is currently writing a book on the 1967 death of Ernesto "Che" Guevara and its impact in Bolivia, Latin America, and the wider Third World.
 
-His research interests focus on the spread and the growth of Islamic culture and the evolution of Islamic institutions in Africa. He is particularly interested in the subaltern relationship of servile and marginalized communities to Islamic ruling institutions. His research into these relationships revolves around issues of power/class, slavery, race/ethnicity, gender and social justice. He published two major books and many scholarly articles in academic journals and popular magazines. His most recent book is _Black Morocco: a History of Slavery, Race, and Islam_ (Cambridge University Press, 2013), which has won Honorable Mention for the L. Carl Brown American Institute for Maghrib Studies Book Prize. Over the past decade, he has actively participated in a wide variety of positions ranging from committee work to the faculty senate.
-
-
-___
-
-_“Reagan, Pinochet, and the Return to Democracy in Chile”_<br>
-**Dr. Pablo Rubio, Visiting Researcher, Georgetown University**<br>
-**Thursday, February 27, 2:00pm**<br>
-Dr. Pablo Rubio received his PhD in Contemporary History from the Universidad Autónoma de Madrid and Pontificia Universidad Católica de Chile. He is currently a visiting researcher in the Department of History at Georgetown University and researcher at the Biblioteca del Congreso Nacional de Chile. He is a specialist in Chilean and Latin American history and has published more than 30 articles and book chapters. Additionally, he has been a professor at different European and Chilean universities. 
-
-He has published the following books: _Los civiles de Pinochet. La derecha en el régimen militar chileno, 1983-1990; Conflictos y tensiones en el Chile republican; América Latina y tiempo presente. Historia y documentos; and América Latina actual. Del populismo al giro de izquierdas._ Currently, he is preparing a book on the role of the United States at the end of the Pinochet regime and the Chilean democratic transition, based on declassified documents and interviews.
-
-- [_Video of Pablo Rubio’s Lecture_](https://ensemble.temple.edu/hapi/v1/contents/permalinks/Ap57Qxq9/view)
+- [Zoom Link](https://temple.zoom.us/j/95791045425)
 
 ___
 
-_**CANCELLED**:“How to Hide an Empire: Telling the Story of the Greater United States”_<br>
-**Dr. Daniel Immerwahr, Professor at  Northwestern University**<br>
-**Thursday, March 19, 4:30pm**<br>
-Dr. Immerwahr received his undergraduate degree from Columbia University, where he studied history and philosophy. Then, funded by a Marshall scholarship, he received a second BA, this time at King's College at Cambridge University with a thesis on African architecture under the supervision of John Lonsdale. He received his doctoral degree in history at the University of California, Berkeley, studying under the intellectual historian David Hollinger. His dissertation won the Allan Nevins Prize in American Economic History from the Economic History Association, and it received honorable mention for the Betty M. Unterberger Prize from the Society for Historians of American Foreign Relations.
+_“Colombia's Security Situation Four Years After Peace”_<br>
+**Dr. Robert Karl, Associate Professor of Arts & Humanities at Minerva Schools at Keck Graduate Institute**<br>
+**Wednesday, October 14, 4:30pm**<br>
+Robert Karl is an expert on Latin America/Caribbean history and contemporary affairs. He is the author of _Forgotten Peace: Reform, Violence, and the Making of Contemporary Colombia_ (2017), and is currently researching the history of impunity in modern Colombia. In addition to his scholarly work, he has served as an expert country-conditions witness in the cases of more than two dozen Colombian asylum seekers, and as a Senior Advisor to the Princeton Asylum Project. He is currently Associate Professor of Arts & Humanities at Minerva Schools at KGI, and was previously Assistant Professor of History at Princeton University (2010–19) and Member at the Institute for Advanced Study, School of Social Science (2019–20).
 
-In 2011-12, Dr. Immerwahr was a postdoctoral fellow at Columbia University's Committee on Global Thought. In fall 2012, he joined Northwestern University's history department.
-
-His first book, _Thinking Small_ (Harvard, 2015), offers a critical account of the United States' pursuit of grassroots development at home and abroad in the middle of the twentieth century. It won the Merle Curti Prize in Intellectual History from the Organization of American Historians and was the co-winner of the Annual Book Prize from the Society for U.S. Intellectual History. Also, in 2015 he received the Stuart L. Bernath Lecture Prize from the Society for Historians of American Foreign Relations, given every year to a younger scholar for "excellence in teaching and research in the field of foreign relations."
-
-His second book, _How to Hide an Empire_ (Farrar, Straus and Giroux, 2019) is about the United States' territorial empire: colonies, occupation zones, and military bases. Dr. Immerwahr is currently researching in two areas: the popular culture of twentieth-century U.S. foreign relations and urban environmental catastrophes of the nineteenth century.
-
-Dr. Immerwahr’s writing has appeared in the _New York Times, The New Republic, The Guardian, The Nation, Slate, Diplomatic History, Modern Intellectual History, the Journal of the History of Ideas, the Journal of African Cultural Studies, Modern American History, Jacobin, n+1_ and _Dissent_, among other venues.
+- [Zoom Link](https://temple.zoom.us/j/93097777470)
 
 ___
 
-_**CANCELLED**:“The Price of Aid: The Economic Cold War in India”_<br>
-**Dr. David Engerman, Professor at Yale University**<br>
-**Wednesday, April 15, 4:30pm**<br>
-David C. Engerman is a scholar of twentieth-century international history. Building on his dual training in American and Russian/Soviet history at the University of California-Berkeley (where he received his Ph.D. in 1998), he wrote two books on the place of Russia and the USSR in American intellectual and political life: _Modernization from the Other Shore: American Intellectuals and the Romance of Russian Development_ (Harvard UP, 2003) and _Know Your Enemy: The Rise and Fall of America’s Soviet Experts_ (Oxford UP, 2009). 
+_Enemies and Lovers: Soviet-American Relations during the Cold War”_<br>
+**Dr. Rósa Magnúsdóttir, Associate Professor of History at Aarhus University**<br>
+**Wednesday, November 4, 4:30pm**<br>
+Rósa Magnúsdóttir is Associate Professor of History at Aarhus University, with a focus on cultural diplomacy, propaganda, and ideology during the Cold War. Her most recent publications focus on the Soviet-American cultural Cold War, Soviet-American intermarriage, Cold War biography, and European soft power and public diplomacy. She is currently working on a joint biography of two Icelandic communists as well as a monograph on Soviet-American intermarriage during the Cold War. In her presentation at CENFAD, she will present the main conclusions of her most recent book, _Enemy Number One: The United States in Soviet Ideology and Propaganda, 1945-1959_ (Oxford University Press, 2019) in the context of how the two superpowers navigated the personal relations of their citizens.
 
-He has also researched and written on a variety of topics related to the history of development assistance, including a co-edited volume, Staging Growth: Modernization, Development and the Global Cold War (U-Mass Press, 2003), and most recently a monograph, The Price of Aid: The Economic Cold War in India (Harvard UP, 2018). This research was also the topic of his presidential address for the Society for Historians of American Foreign Relations in 2016.  Research for The Price of Aid was supported by grants and fellowships from the American Council of Learned Societies, the American Institute of Indian Studies, the American Philosophical Society, the Guggenheim Foundation, the Kennan Institute for Advanced Russian Studies, the National Council for Eurasian and East European Studies, the National Endowment for the Humanities, and the Eisenhower, Johnson and Truman presidential libraries.
-
-Engerman joined the faculty at Yale after nineteen years at Brandeis University. His new research focuses on the geopolitics of international economic inequality in the second half of the twentieth century.
+- [Zoom Link](https://temple.zoom.us/j/98461410388)
 
 ___
 
-- **View more of our [Past Lectures and Videos from 2019](https://docs.google.com/document/d/1f0nfTFdbBHdgwyJCqozzeW132OfN_6miB3Uaoilmw8k/edit?usp=sharing)** 
+_How to Hide an Empire: Telling the Story of the Greater United States”_<br>
+**Dr. Daniel Immerwahr, Professor at Northwestern University**<br>
+**Wednesday, November 18, 4:30pm**<br>
+Look at a map of the United States and you'll see the familiar cluster of states in North America, plus Hawai'i and Alaska in boxes. But what about Puerto Rico? What about American Samoa? The country has held overseas territory--lands containing millions of U.S. nationals--for the bulk of its history. They don't appear often in textbooks, but the outposts and colonies of the United States have been central to its history. This talk explores what U.S. history would look like if it weren't just the history of the continental states but of all U.S. land: the Greater United States.
+
+Dr. Daniel Immerwahr, is a professor of history at Northwestern University, where he teaches global history and U.S. foreign relations. His first book, _Thinking Small_ (Harvard 2015), a history of U.S. grassroots antipoverty strategies, won the Organization of American Historians' Merle Curti Award for best work of U.S. intellectual history. His second, _How to Hide an Empire_ (Farrar, Straus and Giroux, 2019), a retelling of U.S. history with the overseas parts of the country included in the story, is a national bestseller. Immerwahr is currently working on two research projects, one on the pop culture of U.S. global hegemony, the other a book about nineteenth-century urban catastrophes. Immerwahr's writings have appeared in the _New York Times, Washington Post, The Guardian, Slate, The Nation_, and _The New Republic_.
+
+Dr. Immerwahr’s writing has appeared in the _New York Times, The New Republic, The Guardian, The Nation, Slate, Diplomatic History, Modern Intellectual History, the Journal of the History of Ideas, the Journal of African Cultural Studies, Modern American History, Jacobin, n+1 and Dissent_, among other venues.
+
+- [Zoom Link](https://temple.zoom.us/j/94291516522)
+
+___
+
+- **View more of our [Past Lectures and Videos from Spring 2020](https://drive.google.com/file/d/12_--TRaOiEh4pZObhSuJv_kz_tFNvYiK/view?usp=sharing)** 
+- **View more of our [Past Lectures and Videos from 2019](https://drive.google.com/file/d/1OyBZlWv7Ur6T-lhZEjzF9ZytiIae9RRx/view?usp=sharing)** 
 - **View more of our [Past Lectures and Videos from 2016-2018](https://liberalarts.temple.edu/sites/liberalarts/files/2016-18%20Past%20Lecture%20Archives.pdf)**
 - **View more of our [Past Lectures and Videos from 2007-2015](https://liberalarts.temple.edu/sites/liberalarts/files/CENFAD%20Guest%20Speaker%20Lectures.pdf)**
