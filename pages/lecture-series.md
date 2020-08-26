@@ -44,7 +44,7 @@ Dr. Lipman has also published essays about the relationship between the U.S. mil
 
 ___
 
-_“Inter-American Labor Diplomacy: Union Busting, Development, and Modernization Theory”_<br>
+_“Workers of the World, Modernize: Labor Transnationalism, the CIA, and the Nonstate Origins of Kennedy's Trade Union Development Program for Latin America”_<br>
 **Dr. Thomas Field Jr., Professor of History at the Embry-Riddle Aeronautical University**<br>
 **Wednesday, October 7, 4:30pm**<br>
 
