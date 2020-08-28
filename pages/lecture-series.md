@@ -64,7 +64,7 @@ Robert Karl is an expert on Latin America/Caribbean history and contemporary aff
 
 ___
 
-_Enemies and Lovers: Soviet-American Relations during the Cold War”_<br>
+_"Enemies and Lovers: Soviet-American Relations during the Cold War”_<br>
 **Dr. Rósa Magnúsdóttir, Associate Professor of History at Aarhus University**<br>
 **Wednesday, November 4, 4:30pm**<br>
 
@@ -74,7 +74,7 @@ Rósa Magnúsdóttir is Associate Professor of History at Aarhus University, wit
 
 ___
 
-_How to Hide an Empire: Telling the Story of the Greater United States”_<br>
+_"How to Hide an Empire: Telling the Story of the Greater United States”_<br>
 **Dr. Daniel Immerwahr, Professor at Northwestern University**<br>
 **Wednesday, November 18, 4:30pm**<br>
 
