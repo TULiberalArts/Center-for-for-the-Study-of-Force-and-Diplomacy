@@ -25,7 +25,8 @@ The Director of CENFAD [Dr. Alan McPherson](https://liberalarts.temple.edu/acade
 **Thomas J. Davis Fellow**
 - [Joshua Stern](mailto:tuj64084@temple.edu)
 
-### Call for Papers: CENFAD Hosting a Workshop for PhD Students of all Disciplines for Spring 2021
+## Call for Papers
+### CENFAD Hosting a Workshop for PhD Students of all Disciplines for Spring 2021
 The workshop’s purpose is to advance the research projects of PhD students working on dissertations on inter-American relations or Latin American foreign policy, with the related goal of producing an edited book. PhD students from all disciplines of the social sciences and humanities are encouraged to apply.
 
 - Please read the [Call for Applications](https://drive.google.com/file/d/1lM8l3aAeMXe8-J0brXaW32k1IuWX7fI-/view?usp=sharing) (pdf.) to learn more about this upcoming opportunity for the fall.
