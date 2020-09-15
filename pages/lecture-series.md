@@ -26,7 +26,8 @@ _“Paramilitarism: Mass Violence in the Shadow of the State”_<br>
 
 Uğur Ümit Üngör is Professor of History at the University of Amsterdam and the Institute for War, Holocaust, and Genocide Studies in Amsterdam. His main areas of interest are the history and sociology of mass violence, with a particular focus on the modern and contemporary Middle East. He is an editor of the _Journal of Perpetrator Research_, and coordinator of the _Syrian Oral History Project_. His publications include _Genocide: New Perspectives_ (Amsterdam University Press, 2016, ed.), _Confiscation and Destruction: The Young Turk Seizure of Armenian Property_ (Continuum, 2011), and the award-winning _The Making of Modern Turkey: Nation and State in Eastern Anatolia, 1913-1950_ (Oxford University Press, 2011). From 2014 to 2019, Üngör coordinated a Dutch Research Council-funded research project on paramilitarism, which led to the monograph _Paramilitarism: Mass Violence in the Shadow of the State_ (Oxford University Press, 2020). He is currently working on its follow-up monograph _Assad’s Militias and Mass Violence in Syria_ (forthcoming, 2021).
 
-- [Zoom Link](https://temple.zoom.us/j/98400292811)
+- [Interview with Uğur Ümit Üngör](https://drive.google.com/file/d/1mfICG5ivNFcdKdSCmhZUoEmTUqhc17Ip/view)
+- [Video of Talk with Uğur Ümit Üngör](https://drive.google.com/file/d/1Zlb7oRldt4AnTa_5H8NwV_1E9dLtdCB9/view)
 
 ___
 
