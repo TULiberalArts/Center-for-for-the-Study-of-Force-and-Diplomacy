@@ -41,7 +41,8 @@ Her new book, _In Camps: Vietnamese Refugees, Asylum-Seekers, and Repatriates_�
 
 Dr. Lipman has also published essays about the relationship between the U.S. military and refugee camps, and she co-edited multiple projects on U.S. Empire.  Her future projects include investigating the histories of sexual violence and the U.S. military, collaborative projects on Southeast Asia and U.S. foreign relations, and an ongoing commitment to public history.
 
-- [Zoom Link](https://temple.zoom.us/j/95791045425)
+- [Interview with Jana K. Lipman](https://ensemble.temple.edu/Watch/m9DYe28M)
+- [Video of Jana K. Lipman's Lecture](https://ensemble.temple.edu/Watch/m9DYe28M)
 
 ___
 
