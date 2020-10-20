@@ -52,7 +52,7 @@ _“Workers of the World, Modernize: Labor Transnationalism, the CIA, and the No
 
 Thomas C. Field Jr. (PhD, London School of Economics) is author of _From Development to Dictatorship: Bolivia and the Alliance for Progress in the Kennedy Era_ (Cornell University Press, 2014), which received the Thomas McGann Award from the Rocky Mountain Council for Latin American Studies and was named a Choice "Outstanding Academic Title" by the American Library Association.  Field is also the recipient of the Stuart L. Bernath Scholarly Article Prize and the Betty M. Unterberger Dissertation Prize, both from the Society for Historians of American Foreign Relations.  He is currently writing a book on the 1967 death of Ernesto "Che" Guevara and its impact in Bolivia, Latin America, and the wider Third World.
 
-- [Zoom Link](https://temple.zoom.us/j/97847989188)
+- [Video of Thomas Field Jr's Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/t4WXm35C/view)
 
 ___
 
