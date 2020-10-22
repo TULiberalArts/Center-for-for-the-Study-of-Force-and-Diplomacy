@@ -58,11 +58,11 @@ ___
 
 _“Colombia's Security Situation Four Years After Peace”_<br>
 **Dr. Robert Karl, Associate Professor of Arts & Humanities at Minerva Schools at Keck Graduate Institute**<br>
-**Wednesday, October 14, 4:30pm**<br>
+**Wednesday, October 28, 4:30pm**<br>
 
 Robert Karl is an expert on Latin America/Caribbean history and contemporary affairs. He is the author of _Forgotten Peace: Reform, Violence, and the Making of Contemporary Colombia_ (2017), and is currently researching the history of impunity in modern Colombia. In addition to his scholarly work, he has served as an expert country-conditions witness in the cases of more than two dozen Colombian asylum seekers, and as a Senior Advisor to the Princeton Asylum Project. He is currently Associate Professor of Arts & Humanities at Minerva Schools at KGI, and was previously Assistant Professor of History at Princeton University (2010–19) and Member at the Institute for Advanced Study, School of Social Science (2019–20).
 
-- [Zoom Link](https://temple.zoom.us/j/93097777470)
+- [Zoom Link](https://temple.zoom.us/j/95057002695)
 
 ___
 
