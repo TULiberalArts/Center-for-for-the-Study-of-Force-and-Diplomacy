@@ -62,7 +62,7 @@ _“Colombia's Security Situation Four Years After Peace”_<br>
 
 Robert Karl is an expert on Latin America/Caribbean history and contemporary affairs. He is the author of _Forgotten Peace: Reform, Violence, and the Making of Contemporary Colombia_ (2017), and is currently researching the history of impunity in modern Colombia. In addition to his scholarly work, he has served as an expert country-conditions witness in the cases of more than two dozen Colombian asylum seekers, and as a Senior Advisor to the Princeton Asylum Project. He is currently Associate Professor of Arts & Humanities at Minerva Schools at KGI, and was previously Assistant Professor of History at Princeton University (2010–19) and Member at the Institute for Advanced Study, School of Social Science (2019–20).
 
-- [Zoom Link](https://temple.zoom.us/j/95057002695)
+- [Video of Robert Karl's Lecture](https://ensemble.temple.edu/Watch/Fo4z8S9Y)
 
 ___
 
@@ -72,7 +72,7 @@ _"Enemies and Lovers: Soviet-American Relations during the Cold War”_<br>
 
 Rósa Magnúsdóttir is Associate Professor of History at Aarhus University, with a focus on cultural diplomacy, propaganda, and ideology during the Cold War. Her most recent publications focus on the Soviet-American cultural Cold War, Soviet-American intermarriage, Cold War biography, and European soft power and public diplomacy. She is currently working on a joint biography of two Icelandic communists as well as a monograph on Soviet-American intermarriage during the Cold War. In her presentation at CENFAD, she will present the main conclusions of her most recent book, _Enemy Number One: The United States in Soviet Ideology and Propaganda, 1945-1959_ (Oxford University Press, 2019) in the context of how the two superpowers navigated the personal relations of their citizens.
 
-- [Zoom Link](https://temple.zoom.us/j/98461410388)
+- [Video of Rósa Magnúsdóttir's Lecture](https://ensemble.temple.edu/Watch/Ko9c3T5M)
 
 ___
 
