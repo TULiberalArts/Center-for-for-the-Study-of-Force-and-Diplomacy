@@ -41,7 +41,7 @@ Her new book, _In Camps: Vietnamese Refugees, Asylum-Seekers, and Repatriates_�
 
 Dr. Lipman has also published essays about the relationship between the U.S. military and refugee camps, and she co-edited multiple projects on U.S. Empire.  Her future projects include investigating the histories of sexual violence and the U.S. military, collaborative projects on Southeast Asia and U.S. foreign relations, and an ongoing commitment to public history.
 
-- [Interview with Jana K. Lipman](https://ensemble.temple.edu/Watch/m9DYe28M)
+- [Interview with Jana K. Lipman](https://ensemble.temple.edu/Watch/s3P4MbDi)
 - [Video of Jana K. Lipman's Lecture](https://ensemble.temple.edu/Watch/m9DYe28M)
 
 ___
@@ -62,6 +62,7 @@ _“Colombia's Security Situation Four Years After Peace”_<br>
 
 Robert Karl is an expert on Latin America/Caribbean history and contemporary affairs. He is the author of _Forgotten Peace: Reform, Violence, and the Making of Contemporary Colombia_ (2017), and is currently researching the history of impunity in modern Colombia. In addition to his scholarly work, he has served as an expert country-conditions witness in the cases of more than two dozen Colombian asylum seekers, and as a Senior Advisor to the Princeton Asylum Project. He is currently Associate Professor of Arts & Humanities at Minerva Schools at KGI, and was previously Assistant Professor of History at Princeton University (2010–19) and Member at the Institute for Advanced Study, School of Social Science (2019–20).
 
+- [Interview with Robert Karl](https://ensemble.temple.edu/Watch/Zj5f9E7A)
 - [Video of Robert Karl's Lecture](https://ensemble.temple.edu/Watch/Fo4z8S9Y)
 
 ___
@@ -86,7 +87,7 @@ Dr. Daniel Immerwahr, is a professor of history at Northwestern University, wher
 
 Dr. Immerwahr’s writing has appeared in the _New York Times, The New Republic, The Guardian, The Nation, Slate, Diplomatic History, Modern Intellectual History, the Journal of the History of Ideas, the Journal of African Cultural Studies, Modern American History, Jacobin, n+1 and Dissent_, among other venues.
 
-- [Zoom Link](https://temple.zoom.us/j/94291516522)
+- [Video of Daniel Immerwahr's Lecture](https://ensemble.temple.edu/Watch/m6N9Cok2)
 
 ___
 
