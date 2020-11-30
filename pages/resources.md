@@ -40,7 +40,7 @@ ___
 - [Peace & Change](http://onlinelibrary.wiley.com/journal/10.1111/(ISSN)1468-0130)
 - [Frontline Diplomacy](http://memory.loc.gov/ammem/collections/diplomacy/)
 - [U.S. Diplomacy](http://www.usdiplomacy.org/)
-- [Libertas](http://www.libertas.bham.ac.uk/)
+- Libertas
 - [Journal of Military History](http://www.smh-hq.org/jmh/)
 - [New Books in Military History](http://newbooksinmilitaryhistory.com/)
 
