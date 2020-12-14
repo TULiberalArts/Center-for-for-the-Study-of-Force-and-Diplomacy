@@ -46,7 +46,7 @@ ___
 ## Fellowships
 
 ### Thomas J. Davis Endowed Fellowship in Diplomacy and Foreign Relations
-This fellowship is made possible by the generosity of Todd Davis, who received his Ph.D. in History from Temple in 2002 and served as the first graduate assistant for development for the Center for the Study of Diplomacy (CENFAD). Todd named the fellowship after his father, a decorated first lieutenant in the U.S. Army who was killed in action during the Vietnam War. Responsibilities will be dedicated to advancing the Center for the Study of Force and Diplomacy. In this capacity, your assignment will be primarily to assist, through research and writing, applications for external grants to support CENFAD’s projects. You will also be expected to assist in the publication of CENFAD’s newsletter, Strategic Visions, help publicize lectures and symposia, administrate CENFAD’s website, coordinate CENFAD colloquia and other events, and contribute in parallel ways. As is the case with a conventional assistantship, you will not be expected to work more than 20 hours per week. The fellowship includes a stipend — amount changes each year. Students should apply to [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu) by **December 15 for a fellowship for the next academic year**. Please include an update CV, a letter of recommendation from anybody that may attest to the applicant’s relevant abilities and qualifications, and a 1-2 page statement on the applicant’s abilities to successful serve in this role. 
+This fellowship is made possible by the generosity of Todd Davis, who received his Ph.D. in History from Temple in 2002 and served as the first graduate assistant for development for the Center for the Study of Diplomacy (CENFAD). Todd named the fellowship after his father, a decorated first lieutenant in the U.S. Army who was killed in action during the Vietnam War. Responsibilities will be dedicated to advancing the Center for the Study of Force and Diplomacy. In this capacity, you will also be expected to assist in the publication of CENFAD’s newsletter, Strategic Visions, help publicize lectures and symposia, administer CENFAD’s website, coordinate CENFAD colloquia and other events, and contribute in parallel ways. As is the case with a conventional assistantship, you will not be expected to work more than 20 hours per week. The fellowship includes a stipend — at least $2,000. Students should apply to [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu) by **December 15 for a fellowship for the next academic year**. Please include an updated CV, a letter of recommendation from anybody that may attest to your relevant abilities and qualifications, and a 1-2 page statement on your abilities to successfully serve in this role.
 
 - 2020-2021 Recipient: [Joshua Stern](mailto:tuj64084@temple.edu)
 
@@ -70,11 +70,10 @@ This fellowship is made possible by the generosity of Todd Davis, who received h
 - 2003-04: Andrew McKevitt 
 
 ### Sergeant Major William F. Berger Prize Endowed Fellowship for War and Society
-Responsibilities will be dedicated to advancing the History Department’s concentration in War and Society, primarily as a teaching assistant in the course War and Peace, if it is being offered. As is the case with a conventional assistantship, awardees will not be expected to work more than 20 hours per week. The prize includes a stipend. Continuing students apply to the Director of Graduate Studies **by December 15 for a fellowship for the next academic year**. Please include an update CV, a letter of recommendation from anybody that may attest to the applicant’s relevant abilities and qualifications, and a 1-2 page statement on the applicant’s abilities to successful serve in this role.
-
-- 2019-2020: Rhiannon Amato
+Responsibilities will be dedicated to advancing the History Department’s concentration in War, Empire, and Society, primarily as a teaching assistant in the course War and Peace, if it is being offered. As is the case with a conventional assistantship, awardees will not be expected to work more than 20 hours per week. The prize includes a stipend of at least $2,000. Continuing students apply to the Director of Graduate Studies **by December 15 for a fellowship for the next academic year**. Please include an updated CV, a letter of recommendation from anybody that may attest to your relevant abilities and qualifications, and a 1-2 page statement on your abilities to successfully serve in this role.
 
 **Previous Recipients:**
+- 2019-2020: Rhiannon Amato
 - September 2015 – Alexandre Caillot
 - October 2014 – Thomas Reinstein
 - September 2012 – Steven Elliott
@@ -119,7 +118,7 @@ Endowed research award for Temple University graduate students of diplomatic and
 Awarded to a Temple University graduate student of military or diplomatic history. Preference is given to students who incorporate a study of technology into their work. Direct questions or applications should contact [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu). **The deadline for spring awards is October 1.**
 
 **Previous Recipients:**
-- 2019-20: None
+- 2019-20: Stanley Schwartz
 - 2018-19: Eric Perinovic
 - 2017-18: Kaete O'Connell
 - 2016-17: Tyler Bamford
