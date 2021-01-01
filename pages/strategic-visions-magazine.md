@@ -17,33 +17,28 @@ ___
 **You can read our entire journal collection in the [Strategic Visions](https://tuljournals.temple.edu/index.php/strategic_visions) section of the Temple University Libraries Journals.**
 
 ## Spring 2020 Edition
-Read the [Spring 2020 Edition of _Strategic Visions!_](https://drive.google.com/file/d/14uThIsOLbn46oJdOGYBjv6N_mtxOUlFo/view?usp=sharing)
-
-## Fall 2020 Edition
-Read the [Fall 2020 Edition of _Strategic Visions!_](https://drive.google.com/file/d/1GoKfVuNpSaXiLZtWYpolz937C7ZuRb1J/view?usp=sharing)
+Read the [Spring 2020 Edition of _Strategic Visions!_](https://tuljournals.temple.edu/index.php/strategic_visions/issue/view/34)
 
 ### Contents:
 **Featured Articles:**
-- Dr. Alan McPherson (Temple University): ["News from the Director"](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/238/186)
-- Brandon Kinney (Temple University): ["Note from the Davis Fellow"](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/227/174)
-- [Celebrating Campaigns & Commanders: 66 Titles in 20 Years!](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/235/182)
-- [One Must Walk the Ground”: Experiencing the Staff Ride](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/236/184)
+- Dr. Alan McPherson (Temple University): ["News from the Director"](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/435)
+- Joshua Stern (Temple University): ["Note from the Davis Fellow"](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/436)
+- [Temple Community Interviews](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/437)
 
 **Book Reviews:**
-- Stanley Schwartz (Temple University), [Review of Nancy Mitchell. _Jimmy Carter in Africa: Race and the Cold War_](https://drive.google.com/file/d/1N3dg3U9bihbjUU9jBFmMwVN2NT8YGFsL/view?usp=sharing). Stanford: Stanford University Press, 2016.
-- Michael Fischer (Temple University), [Review of Kara Dixon Vuic. _The Girl Next Door: Bringing the Home Front to the Front Line_](https://drive.google.com/file/d/1EnwsJxREpmBGfRvAgdAj3EhQOKjVyAAm/view?usp=sharing). Cambridge: Harvard University Press, 2019.
-- Abby Whitaker (Temple University), [Review of Kenneth M. Pollack. _Armies of Sand: The Past, Present, and Future of Arab Military Effectiveness_](https://drive.google.com/file/d/1RP5AFmYBSXN_G3cJnZ6ZbAES88qOXeOq/view?usp=sharing). New York: Oxford University Press, 2019.
-- James Kopaczewski (Temple University), [Review of Nancy Mitchell. _Review of Nancy Mitchell. Jimmy Carter in Africa: Race and the Cold War_](https://drive.google.com/file/d/150ZyLP0g1lAFAs4sMnzY5i2veR7NuPYB/view?usp=sharing). Stanford: Stanford University Press, 2016.
-
-**Author Interviews**
-- [Interview with Nan Enstad](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/229/176), Conducted by Brandon Kinney
-- [Interview with Thomas Schwartz](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/230/177), Conducted by Brandon Kinney
+- Graydon Dennison (Temple University), [_Book Review - Kissinger and Latin America: Intervention, Human Rights, and Diplomacy_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/438). 
+- Ryan Langton (Temple University), [_Book Review - America's Middlemen: Power at the Edge of Empire_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/439).
+- Grace Anne Parker (Temple University), [_Book Review - Anthropology, Colonial Policy and the Decline of French Empire in Africa_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/440).
+- Casey VanSise (Temple University), [_Book Review - Latin America and the Global Cold War_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/441).
 
 **Editorial Staff**
-- **Editor-in-Chief:** Brandon Kinney, Graduate Student, 2018-19 Thomas J. Davis Fellow<br>
+- **Editor-in-Chief:** Joshua Stern, Graduate Student: 2020-2021 Thomas J. Davis Fellow<br>
 - **CENFAD Director:** Dr. Alan McPherson<br>
 
 ___
+
+## Fall 2020 Edition
+Read the [Fall 2020 Edition of _Strategic Visions!_](https://tuljournals.temple.edu/index.php/strategic_visions/index)
 
 ## Fall 2019 Edition
 Read the full [Fall 2019 Edition of _Strategic Visions!_](https://tuljournals.temple.edu/index.php/strategic_visions/issue/view/27)
