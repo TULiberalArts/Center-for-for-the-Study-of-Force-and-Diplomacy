@@ -22,9 +22,9 @@ ___
 ### Spring 2021
 _“Whistleblowing Nation: The History of National Security Disclosures and the Cult of State Secrecy”_<br>
 **Roundtable with Editors:**<br>
-**Kaeten Mistry**, Senior Lecturer in American Studies, University of East Anglia<br>
-**Hannah Gurman**, Clinical Associate Professor of American Studies, NYU Gallatin<br> 
-**comment from Richard Immerman**, Emeritus Professor of History at Temple University<br>
+**Kaeten Mistry**, _Senior Lecturer in American Studies, University of East Anglia_<br>
+**Hannah Gurman**, _Clinical Associate Professor of American Studies, NYU Gallatin_<br> 
+**Comment from Richard Immerman**, _Emeritus Professor of History at Temple University_<br>
 **Monday, January 25, 4:30pm**<br>
 
 Kaeten Mistry is a historian of the U.S. and the world and teaches at the University of East Anglia. He has authored _Waging Political Warfare: The United States, Italy, and the Origins of Cold War_ (Cambridge, 2014) and edited _Reforms, Reflection and Reappraisals: The CIA and U.S. Foreign Policy since 1947_ (2011). He recently led a large AHRC-funded project with Hannah Gurman. Among the publications from this collaboration is _Whistleblowing Nation: The History of National Security Disclosures and the Cult of State Secrecy_ (Columbia, 2020).
@@ -38,7 +38,7 @@ Richard Immerman directed CENFAD for 25 years and chaired Temple’s History Dep
 ___
 
 _“Power to the People: How Open Technological Innovation is Arming Tomorrow’s Terrorists”_<br>
-**Audrey Kurth Cronin, Professor of International Security, American University**<br>
+**Audrey Kurth Cronin**, _Professor of International Security, American University_<br>
 **Thursday, February 4, 4:30pm**<br>
 
 Audrey Kurth Cronin is Founding Director of the Center for Security, Innovation and New Technology at American University in Washington, DC, and Professor at the School of International Service. Cronin’s career has combined academic positions and government service. She was a faculty member and director of the core course on War and Statecraft at the U.S. National War College, and Academic Director of Studies for the Changing Character of War at Oxford University. Before that, she was Specialist in Terrorism at the Congressional Research Service, responsible for advising Members of Congress in the aftermath of 9/11. She has also served in the U.S. executive branch, including in the Office of the Secretary of Defense for Policy, and frequently advises at senior levels. Cronin is also an award-winning author. Her latest book, Power to the People:  How Open Technological Innovation is Arming Tomorrow’s Terrorists (Oxford University Press, 2020), analyzes the risks and opportunities of new and emerging technologies, including mobilizing via social media and web platforms. It won the 2020 Airey Neave international prize for “the most significant, original, relevant, and practically valuable contribution to the understanding of terrorism.”
@@ -48,7 +48,7 @@ Audrey Kurth Cronin is Founding Director of the Center for Security, Innovation 
 ___
 
 _“Challenging Beijing’s Mandate of Heaven: Taiwan's Sunflower Movement and Hong Kong's Umbrella Movement”_<br>
-**Ming-sho Ho, Professor of Sociology, National Taiwan University**<br>
+**Ming-sho Ho**, _Professor of Sociology, National Taiwan University_<br>
 **Wednesday, February 17, 5:00pm**<br>
 
 Ming-sho Ho is a professor in the Department of Sociology, National Taiwan University. He researches social movements, labor, and environmental issues. He published _Working Class Formation in Taiwan: Fractured Solidarity in State-Owned Enterprises_ (2014) and _Challenging Beijing’s Mandate of Heaven: Taiwan’s Sunflower Movement and Hong Kong’s Umbrella Movement_ (2019). His current research focuses on citizen's involvement in energy transition in Taiwan and other East Asian nations.
@@ -60,7 +60,7 @@ In this lecture, I will present and summarize the major findings of my 2019 book
 ___
 
 _“I’ll Go: War, Religion, and Coming Home, from Cairo to Kansas City”_<br>
-**Alexs Thompson, PhD in Divinity and Veteran of the War on Terror**<br>
+**Alexs Thompson**, _PhD in Divinity and Veteran of the War on Terror_<br>
 **Wednesday,March 10, 4:30pm**<br>
 
 Alexs Thompson is an internationally recognized scholar of Islam who spent over a decade living and working in the Middle East with self-described fundamentalists in Egypt, Syria, Yemen, Iraq, Afghanistan, and numerous countries in Central and East Africa. Much of that time was spent in support of U.S. forces and international policy. Alexs received a Ph.D. from the Divinity School at the University of Chicago where he wrote his dissertation on medieval Islamic history. He also received a Master's degree in geochemistry from the University of Illinois (Chicago) where he wrote about the age and sustainability of groundwater in Egypt. Dr. Thompson has been published in Joint Force Quarterly--the leading military journal directed by the Chairman of the Joint Chiefs of Staff, the Small Wars Journal, and been a guest speaker at the Center for the Study of Islam and Democracy as well as the Association of the United States Army. In his travels, he worked with Generals David Petraeus and Stanley McChrystal and participated in numerous pivotal combat zones in the War on Terror. 
@@ -70,7 +70,7 @@ Alexs Thompson is an internationally recognized scholar of Islam who spent over 
 ___
 
 _"Empire of Democracy: The Remaking of the West since the Cold War, 1971-2017”_<br>
-**Simon Reid-Henry, Professor of History and Geography Studies at Queen Mary University**<br>
+**Simon Reid-Henry**, _Professor of History and Geography Studies at Queen Mary University_<br>
 **Thursday, April 8, 4:30pm**<br>
 
 Dr. Simon Reid-Henry is an historical and political geographer with interests in political philosophy and the history of ideas, political economy, and the international politics of the postwar era. At QMUL he helped establish and was the founding director (2009-2012) of the Centre for the study of Global Security and Development. More recently he theme lead, as part of the Institute for Humanities and Social Science, for research on democracy. His work has been funded by the ESRC, the Smuts Memorial Fund, the Norwegian Research Council, the Yale MacMillan Center for International and Area Studies, and the Leverhulme Trust. He has reviewed and commented on current affairs for _The Times, The Guardian_, the _New Statesman_, _The Times Literary Supplement_, _The Times Higher_ and for national and international television and radio.
