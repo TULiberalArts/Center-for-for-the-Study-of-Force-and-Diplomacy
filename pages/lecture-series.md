@@ -22,9 +22,9 @@ ___
 ### Spring 2021
 _“Whistleblowing Nation: The History of National Security Disclosures and the Cult of State Secrecy”_<br>
 **Roundtable with Editors:**<br>
-**Kaeten Mistry**, _Senior Lecturer in American Studies, University of East Anglia_<br>
-**Hannah Gurman**, _Clinical Associate Professor of American Studies, NYU Gallatin_<br> 
-**Comment from Richard Immerman**, _Emeritus Professor of History at Temple University_<br>
+- **Kaeten Mistry**, _Senior Lecturer in American Studies, University of East Anglia_
+- **Hannah Gurman**, _Clinical Associate Professor of American Studies, NYU Gallatin_
+- **Comment from Richard Immerman**, _Emeritus Professor of History at Temple University_
 **Monday, January 25, 4:30pm**<br>
 
 Kaeten Mistry is a historian of the U.S. and the world and teaches at the University of East Anglia. He has authored _Waging Political Warfare: The United States, Italy, and the Origins of Cold War_ (Cambridge, 2014) and edited _Reforms, Reflection and Reappraisals: The CIA and U.S. Foreign Policy since 1947_ (2011). He recently led a large AHRC-funded project with Hannah Gurman. Among the publications from this collaboration is _Whistleblowing Nation: The History of National Security Disclosures and the Cult of State Secrecy_ (Columbia, 2020).
