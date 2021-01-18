@@ -19,78 +19,69 @@ CENFAD normally schedules colloquia once or twice a month during the semester in
 
 ___
 
-### Fall 2020
-_“Paramilitarism: Mass Violence in the Shadow of the State”_<br>
-**Dr. Uğur Ümit Üngör, Professor of History at the University of Amsterdam**<br>
-**Wednesday, September 2, 4:30pm**<br>
+### Spring 2021
+_“Whistleblowing Nation: The History of National Security Disclosures and the Cult of State Secrecy”_<br>
+**Roundtable with Editors:**<br>
+**Kaeten Mistry**, Senior Lecturer in American Studies, University of East Anglia<br>
+**Hannah Gurman**, Clinical Associate Professor of American Studies, NYU Gallatin<br> 
+**comment from Richard Immerman**, Emeritus Professor of History at Temple University<br>
+**Monday, January 25, 4:30pm**<br>
 
-Uğur Ümit Üngör is Professor of History at the University of Amsterdam and the Institute for War, Holocaust, and Genocide Studies in Amsterdam. His main areas of interest are the history and sociology of mass violence, with a particular focus on the modern and contemporary Middle East. He is an editor of the _Journal of Perpetrator Research_, and coordinator of the _Syrian Oral History Project_. His publications include _Genocide: New Perspectives_ (Amsterdam University Press, 2016, ed.), _Confiscation and Destruction: The Young Turk Seizure of Armenian Property_ (Continuum, 2011), and the award-winning _The Making of Modern Turkey: Nation and State in Eastern Anatolia, 1913-1950_ (Oxford University Press, 2011). From 2014 to 2019, Üngör coordinated a Dutch Research Council-funded research project on paramilitarism, which led to the monograph _Paramilitarism: Mass Violence in the Shadow of the State_ (Oxford University Press, 2020). He is currently working on its follow-up monograph _Assad’s Militias and Mass Violence in Syria_ (forthcoming, 2021).
+Kaeten Mistry is a historian of the U.S. and the world and teaches at the University of East Anglia. He has authored _Waging Political Warfare: The United States, Italy, and the Origins of Cold War_ (Cambridge, 2014) and edited _Reforms, Reflection and Reappraisals: The CIA and U.S. Foreign Policy since 1947_ (2011). He recently led a large AHRC-funded project with Hannah Gurman. Among the publications from this collaboration is _Whistleblowing Nation: The History of National Security Disclosures and the Cult of State Secrecy_ (Columbia, 2020).
 
-- [Interview with Uğur Ümit Üngör](https://ensemble.temple.edu/hapi/v1/contents/permalinks/Zb8a3AJj/view)
-- [Video of Uğur Ümit Üngör's Lecture](https://ensemble.temple.edu/Watch/g6XLm9w4)
+Hannah Gurman teaches U.S. history and American Studies at NYU’s Gallatin School of Individualized Study. She is the author of _The Dissent Papers: The Voices of Diplomats in the Cold War and Beyond_ (2012, Columbia UP) and editor of _A People’s History of Counterinsurgency_ (2013, The New Press). Along with Kaeten Mistry, she recently co-led a large collaborative research project on the history of U.S. national security whistleblowing, which was funded by the AHRC. As part of this project, she and Mistry co-edited _Whistleblowing Nation: The History of National Security Disclosures and the Cult of State Secrecy_ (2020, Columbia UP).
 
-___
+Richard Immerman directed CENFAD for 25 years and chaired Temple’s History Department for 8. The recipient of Temple’s Paul Eberman Prize for distinguished research, he has received numerous awards for his scholarship and professional service. He was elected President of the Society for Historians of American Foreign Relations (SHAFR), served as an Assistant Deputy Director of National Intelligence, and held the Frances DeSerio W. Chair in Strategic and Theater Intelligence at the U.S. Army War College. Retired since 2017, Immerman still publishes, primarily on the Intelligence Community, and currently chairs the State Department Historical Advisory Committee, the American Historical Association’s Committee on Relations with the National Archives, and SHAFR’s Historical Documentation Committee.
 
-_“In Camps: Vietnamese Refugees, Asylum Seekers, and Repatriates”_<br>
-**Dr. Jana K. Lipman, Associate Professor of History at Tulane University**<br>
-**Wednesday, September 30, 4:30pm**<br>
-
-Dr. Lipman is a scholar of U.S. foreign relations, U.S. immigration, and labor history. While her research spans numerous geographies, from Cuba to Hong Kong, at its core it investigates the local histories of diplomatic politics. Her first monograph, _Guantánamo: A Working-Class History between Empire and Revolution_ (University of California Press, 2009), argued how Cuban base workers were key actors in shaping U.S.-Cuban relations in Guantánamo, before, during, and after the revolution. 
-
-Her new book, _In Camps: Vietnamese Refugees, Asylum-Seekers, and Repatriates_ (University of California Press, 2020), reveals how first asylum sites (places that hosted refugee camps) “pushed” the United Nations High Commissioner for Refugees to reshape international refugee policy. It also argues how Vietnamese activists in the camps and diasporic activists in resettlement countries influenced U.S. and international refugee policy. This project engages with questions raised by historians of human rights, humanitarianism, refugee studies, and Asian American studies. _In Camps_ raises key questions that remain all too relevant today: Who is a refugee? Who determines this status? And how does it change over time? Drawn from archival research in Malaysia, Hong Kong, the Philippines, the UNHCR, and southern California, _In Camps_ pays close attention to host territories and Vietnamese activism in the camps and the diaspora.
-
-Dr. Lipman has also published essays about the relationship between the U.S. military and refugee camps, and she co-edited multiple projects on U.S. Empire.  Her future projects include investigating the histories of sexual violence and the U.S. military, collaborative projects on Southeast Asia and U.S. foreign relations, and an ongoing commitment to public history.
-
-- [Interview with Jana K. Lipman](https://ensemble.temple.edu/Watch/s3P4MbDi)
-- [Video of Jana K. Lipman's Lecture](https://ensemble.temple.edu/Watch/m9DYe28M)
+- **[Zoom Link](https://temple.zoom.us/j/97815202699)** 
 
 ___
 
-_“Workers of the World, Modernize: Labor Transnationalism, the CIA, and the Nonstate Origins of Kennedy's Trade Union Development Program for Latin America”_<br>
-**Dr. Thomas Field Jr., Professor of History at the Embry-Riddle Aeronautical University**<br>
-**Wednesday, October 7, 4:30pm**<br>
+_“Power to the People: How Open Technological Innovation is Arming Tomorrow’s Terrorists”_<br>
+**Audrey Kurth Cronin, Professor of International Security, American University**<br>
+**Thursday, February 4, 4:30pm**<br>
 
-Thomas C. Field Jr. (PhD, London School of Economics) is author of _From Development to Dictatorship: Bolivia and the Alliance for Progress in the Kennedy Era_ (Cornell University Press, 2014), which received the Thomas McGann Award from the Rocky Mountain Council for Latin American Studies and was named a Choice "Outstanding Academic Title" by the American Library Association.  Field is also the recipient of the Stuart L. Bernath Scholarly Article Prize and the Betty M. Unterberger Dissertation Prize, both from the Society for Historians of American Foreign Relations.  He is currently writing a book on the 1967 death of Ernesto "Che" Guevara and its impact in Bolivia, Latin America, and the wider Third World.
+Audrey Kurth Cronin is Founding Director of the Center for Security, Innovation and New Technology at American University in Washington, DC, and Professor at the School of International Service. Cronin’s career has combined academic positions and government service. She was a faculty member and director of the core course on War and Statecraft at the U.S. National War College, and Academic Director of Studies for the Changing Character of War at Oxford University. Before that, she was Specialist in Terrorism at the Congressional Research Service, responsible for advising Members of Congress in the aftermath of 9/11. She has also served in the U.S. executive branch, including in the Office of the Secretary of Defense for Policy, and frequently advises at senior levels. Cronin is also an award-winning author. Her latest book, Power to the People:  How Open Technological Innovation is Arming Tomorrow’s Terrorists (Oxford University Press, 2020), analyzes the risks and opportunities of new and emerging technologies, including mobilizing via social media and web platforms. It won the 2020 Airey Neave international prize for “the most significant, original, relevant, and practically valuable contribution to the understanding of terrorism.”
 
-- [Video of Thomas Field Jr's Lecture](https://ensemble.temple.edu/hapi/v1/contents/permalinks/t4WXm35C/view)
-
-___
-
-_“Colombia's Security Situation Four Years After Peace”_<br>
-**Dr. Robert Karl, Associate Professor of Arts & Humanities at Minerva Schools at Keck Graduate Institute**<br>
-**Wednesday, October 28, 4:30pm**<br>
-
-Robert Karl is an expert on Latin America/Caribbean history and contemporary affairs. He is the author of _Forgotten Peace: Reform, Violence, and the Making of Contemporary Colombia_ (2017), and is currently researching the history of impunity in modern Colombia. In addition to his scholarly work, he has served as an expert country-conditions witness in the cases of more than two dozen Colombian asylum seekers, and as a Senior Advisor to the Princeton Asylum Project. He is currently Associate Professor of Arts & Humanities at Minerva Schools at KGI, and was previously Assistant Professor of History at Princeton University (2010–19) and Member at the Institute for Advanced Study, School of Social Science (2019–20).
-
-- [Interview with Robert Karl](https://ensemble.temple.edu/Watch/Zj5f9E7A)
-- [Video of Robert Karl's Lecture](https://ensemble.temple.edu/Watch/Fo4z8S9Y)
+- **[Zoom Link](https://temple.zoom.us/j/96729644943)** 
 
 ___
 
-_"Enemies and Lovers: Soviet-American Relations during the Cold War”_<br>
-**Dr. Rósa Magnúsdóttir, Associate Professor of History at Aarhus University**<br>
-**Wednesday, November 4, 4:30pm**<br>
+_“Challenging Beijing’s Mandate of Heaven: Taiwan's Sunflower Movement and Hong Kong's Umbrella Movement”_<br>
+**Ming-sho Ho, Professor of Sociology, National Taiwan University**<br>
+**Wednesday, February 17, 5:00pm**<br>
 
-Rósa Magnúsdóttir is Associate Professor of History at Aarhus University, with a focus on cultural diplomacy, propaganda, and ideology during the Cold War. Her most recent publications focus on the Soviet-American cultural Cold War, Soviet-American intermarriage, Cold War biography, and European soft power and public diplomacy. She is currently working on a joint biography of two Icelandic communists as well as a monograph on Soviet-American intermarriage during the Cold War. In her presentation at CENFAD, she will present the main conclusions of her most recent book, _Enemy Number One: The United States in Soviet Ideology and Propaganda, 1945-1959_ (Oxford University Press, 2019) in the context of how the two superpowers navigated the personal relations of their citizens.
+Ming-sho Ho is a professor in the Department of Sociology, National Taiwan University. He researches social movements, labor, and environmental issues. He published _Working Class Formation in Taiwan: Fractured Solidarity in State-Owned Enterprises_ (2014) and _Challenging Beijing’s Mandate of Heaven: Taiwan’s Sunflower Movement and Hong Kong’s Umbrella Movement_ (2019). His current research focuses on citizen's involvement in energy transition in Taiwan and other East Asian nations.
 
-- [Video of Rósa Magnúsdóttir's Lecture](https://ensemble.temple.edu/Watch/Ko9c3T5M)
+In this lecture, I will present and summarize the major findings of my 2019 book, _Challenging Beijing’s Mandate of Heaven_. I will use the perspective of social movement studies to make sense of the two student-led occupy movements in Taiwan and Hong Kong. In the latter part of my presentation, I will utilize this analytical framework to understand Hong Kong's anti-extradition protest that erupted in 2019 and conclude with an updated reflection about potential future courses.
 
-___
-
-_"How to Hide an Empire: Telling the Story of the Greater United States”_<br>
-**Dr. Daniel Immerwahr, Professor at Northwestern University**<br>
-**Wednesday, November 18, 4:30pm**<br>
-
-Look at a map of the United States and you'll see the familiar cluster of states in North America, plus Hawai'i and Alaska in boxes. But what about Puerto Rico? What about American Samoa? The country has held overseas territory--lands containing millions of U.S. nationals--for the bulk of its history. They don't appear often in textbooks, but the outposts and colonies of the United States have been central to its history. This talk explores what U.S. history would look like if it weren't just the history of the continental states but of all U.S. land: the Greater United States.
-
-Dr. Daniel Immerwahr, is a professor of history at Northwestern University, where he teaches global history and U.S. foreign relations. His first book, _Thinking Small_ (Harvard 2015), a history of U.S. grassroots antipoverty strategies, won the Organization of American Historians' Merle Curti Award for best work of U.S. intellectual history. His second, _How to Hide an Empire_ (Farrar, Straus and Giroux, 2019), a retelling of U.S. history with the overseas parts of the country included in the story, is a national bestseller. Immerwahr is currently working on two research projects, one on the pop culture of U.S. global hegemony, the other a book about nineteenth-century urban catastrophes. Immerwahr's writings have appeared in the _New York Times, Washington Post, The Guardian, Slate, The Nation_, and _The New Republic_.
-
-Dr. Immerwahr’s writing has appeared in the _New York Times, The New Republic, The Guardian, The Nation, Slate, Diplomatic History, Modern Intellectual History, the Journal of the History of Ideas, the Journal of African Cultural Studies, Modern American History, Jacobin, n+1 and Dissent_, among other venues.
-
-- [Video of Daniel Immerwahr's Lecture](https://ensemble.temple.edu/Watch/m6N9Cok2)
+- **[Zoom Link](https://temple.zoom.us/j/94026568250)** 
 
 ___
 
+_“I’ll Go: War, Religion, and Coming Home, from Cairo to Kansas City”_<br>
+**Alexs Thompson, PhD in Divinity and Veteran of the War on Terror**<br>
+**Wednesday,March 10, 4:30pm**<br>
+
+Alexs Thompson is an internationally recognized scholar of Islam who spent over a decade living and working in the Middle East with self-described fundamentalists in Egypt, Syria, Yemen, Iraq, Afghanistan, and numerous countries in Central and East Africa. Much of that time was spent in support of U.S. forces and international policy. Alexs received a Ph.D. from the Divinity School at the University of Chicago where he wrote his dissertation on medieval Islamic history. He also received a Master's degree in geochemistry from the University of Illinois (Chicago) where he wrote about the age and sustainability of groundwater in Egypt. Dr. Thompson has been published in Joint Force Quarterly--the leading military journal directed by the Chairman of the Joint Chiefs of Staff, the Small Wars Journal, and been a guest speaker at the Center for the Study of Islam and Democracy as well as the Association of the United States Army. In his travels, he worked with Generals David Petraeus and Stanley McChrystal and participated in numerous pivotal combat zones in the War on Terror. 
+
+- **[Zoom Link](https://temple.zoom.us/j/91649994503)**
+
+___
+
+_"Empire of Democracy: The Remaking of the West since the Cold War, 1971-2017”_<br>
+**Simon Reid-Henry, Professor of History and Geography Studies at Queen Mary University**<br>
+**Thursday, April 8, 4:30pm**<br>
+
+Dr. Simon Reid-Henry is an historical and political geographer with interests in political philosophy and the history of ideas, political economy, and the international politics of the postwar era. At QMUL he helped establish and was the founding director (2009-2012) of the Centre for the study of Global Security and Development. More recently he theme lead, as part of the Institute for Humanities and Social Science, for research on democracy. His work has been funded by the ESRC, the Smuts Memorial Fund, the Norwegian Research Council, the Yale MacMillan Center for International and Area Studies, and the Leverhulme Trust. He has reviewed and commented on current affairs for _The Times, The Guardian_, the _New Statesman_, _The Times Literary Supplement_, _The Times Higher_ and for national and international television and radio.
+
+Dr. Reid-Henry’s research has examined the making of particular forms of power/knowledge as these have shaped the modern world: development, global health, science, humanitarianism, welfare, security, and war. 
+
+- **[Zoom Link](https://temple.zoom.us/j/93299349106)**
+
+___
+
+- **View more of our [Past Lectures and Videos from Fall 2020](https://drive.google.com/file/d/1-DYnp6X7Ahy8ycO8QznXYQu40whHl8F9/view?usp=sharing)** 
 - **View more of our [Past Lectures and Videos from Spring 2020](https://drive.google.com/file/d/12_--TRaOiEh4pZObhSuJv_kz_tFNvYiK/view?usp=sharing)** 
 - **View more of our [Past Lectures and Videos from 2019](https://drive.google.com/file/d/1OyBZlWv7Ur6T-lhZEjzF9ZytiIae9RRx/view?usp=sharing)** 
 - **View more of our [Past Lectures and Videos from 2016-2018](https://liberalarts.temple.edu/sites/liberalarts/files/2016-18%20Past%20Lecture%20Archives.pdf)**
