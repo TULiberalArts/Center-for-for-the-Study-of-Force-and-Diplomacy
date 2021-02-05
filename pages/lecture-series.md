@@ -33,7 +33,7 @@ Hannah Gurman teaches U.S. history and American Studies at NYU’s Gallatin Scho
 
 Richard Immerman directed CENFAD for 25 years and chaired Temple’s History Department for 8. The recipient of Temple’s Paul Eberman Prize for distinguished research, he has received numerous awards for his scholarship and professional service. He was elected President of the Society for Historians of American Foreign Relations (SHAFR), served as an Assistant Deputy Director of National Intelligence, and held the Frances DeSerio W. Chair in Strategic and Theater Intelligence at the U.S. Army War College. Retired since 2017, Immerman still publishes, primarily on the Intelligence Community, and currently chairs the State Department Historical Advisory Committee, the American Historical Association’s Committee on Relations with the National Archives, and SHAFR’s Historical Documentation Committee.
 
-- **[Zoom Link](https://temple.zoom.us/j/97815202699)** 
+- [_Video of Hannah Gurman's Lecture_](https://ensemble.temple.edu/Watch/f6N9PeFa) 
 
 ___
 
