@@ -55,7 +55,7 @@ Ming-sho Ho is a professor in the Department of Sociology, National Taiwan Univ
 
 In this lecture, I will present and summarize the major findings of my 2019 book, _Challenging Beijing’s Mandate of Heaven_. I will use the perspective of social movement studies to make sense of the two student-led occupy movements in Taiwan and Hong Kong. In the latter part of my presentation, I will utilize this analytical framework to understand Hong Kong's anti-extradition protest that erupted in 2019 and conclude with an updated reflection about potential future courses.
 
-- **[Zoom Link](https://temple.zoom.us/j/94026568250)** 
+- [_Video of Ming-sho Ho's Talk_](https://ensemble.temple.edu/Watch/s3DXm7n8) 
 
 ___
 
@@ -66,6 +66,18 @@ _“I’ll Go: War, Religion, and Coming Home, from Cairo to Kansas City”_<br>
 Alexs Thompson is an internationally recognized scholar of Islam who spent over a decade living and working in the Middle East with self-described fundamentalists in Egypt, Syria, Yemen, Iraq, Afghanistan, and numerous countries in Central and East Africa. Much of that time was spent in support of U.S. forces and international policy. Alexs received a Ph.D. from the Divinity School at the University of Chicago where he wrote his dissertation on medieval Islamic history. He also received a Master's degree in geochemistry from the University of Illinois (Chicago) where he wrote about the age and sustainability of groundwater in Egypt. Dr. Thompson has been published in Joint Force Quarterly--the leading military journal directed by the Chairman of the Joint Chiefs of Staff, the Small Wars Journal, and been a guest speaker at the Center for the Study of Islam and Democracy as well as the Association of the United States Army. In his travels, he worked with Generals David Petraeus and Stanley McChrystal and participated in numerous pivotal combat zones in the War on Terror. 
 
 - **[Zoom Link](https://temple.zoom.us/j/91649994503)**
+
+___
+
+_“War: How Conflict Shaped Us”_<br>
+**Margaret MacMillan**, _Professor of History at the University of Toronto_<br>
+**Wednesday,March 24, 4:30pm**<br>
+
+War raises fundamental questions about what it is to be human and about the essence of human society. Does war bring out the bestial side of human nature or the best?... Is it an indelible part of human society, somehow woven in like an original sin from the time our ancestors first started organizing themselves into social groups? Our mark of Cain, a curse put on us which condemns groups? Or is such a view a dangerous self-fulfilling prophecy? Do changes in society bring new types of war or does war drive change in society? Or should we even try to say what comes first, but rather see war and society as partners, locked into a dangerous but also productive relationship? Can war—destructive, cruel and wasteful—also bring benefits?”
+
+Margaret MacMillan (Toronto and Oxford) is professor of History at the University of Toronto and an emeritus professor of International History at Oxford University. She was Provost of Trinity College, Toronto from 2002-7 and Warden of St Antony’s College, Oxford from 2007-2017. She is currently a trustee of the Central European University and the Imperial War Museum. Her research specializes in British imperial history and the international history of the 19th and 20th centuries. Publications include _War: How Conflict Shaped Us, Paris, 1919_, and _The War that Ended Peace_. She gave the CBC’s Massey lectures in 2015 and the BBC’s Reith Lectures in 2018. Awards include the Samuel Johnson prize for non-fiction and the Governor-General’s literary award. She has honorary degrees from several universities and is an honorary Fellow of the British Academy. She is also a Companion of the Order of Canada and a Companion of Honour (UK).
+ 
+- **[Zoom Link](https://temple.zoom.us/j/93210617105)**
 
 ___
 
