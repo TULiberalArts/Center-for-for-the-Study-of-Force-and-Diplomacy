@@ -55,7 +55,7 @@ Ming-sho Ho is a professor in the Department of Sociology, National Taiwan Univ
 
 In this lecture, I will present and summarize the major findings of my 2019 book, _Challenging Beijing’s Mandate of Heaven_. I will use the perspective of social movement studies to make sense of the two student-led occupy movements in Taiwan and Hong Kong. In the latter part of my presentation, I will utilize this analytical framework to understand Hong Kong's anti-extradition protest that erupted in 2019 and conclude with an updated reflection about potential future courses.
 
-- [_Video of Ming-sho Ho's Talk_](https://ensemble.temple.edu/Watch/s3DXm7n8) 
+- [_Video of Dr. Ming-sho Ho's Talk_](https://ensemble.temple.edu/Watch/s3DXm7n8) 
 
 ___
 
