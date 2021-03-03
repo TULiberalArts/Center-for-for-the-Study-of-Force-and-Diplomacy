@@ -72,6 +72,8 @@ This fellowship is made possible by the generosity of Todd Davis, who received h
 ### Sergeant Major William F. Berger Prize Endowed Fellowship for War and Society
 Responsibilities will be dedicated to advancing the History Department’s concentration in War, Empire, and Society, primarily as a teaching assistant in the course War and Peace, if it is being offered. As is the case with a conventional assistantship, awardees will not be expected to work more than 20 hours per week. The prize includes a stipend of at least $2,000. Continuing students apply to the Director of Graduate Studies **by December 15 for a fellowship for the next academic year**. Please include an updated CV, a letter of recommendation from anybody that may attest to your relevant abilities and qualifications, and a 1-2 page statement on your abilities to successfully serve in this role.
 
+- 2020-21: Stanley Schwartz
+
 **Previous Recipients:**
 - 2019-2020: Rhiannon Amato
 - September 2015 – Alexandre Caillot
@@ -81,7 +83,7 @@ Responsibilities will be dedicated to advancing the History Department’s conce
 - July 2010 – Meredith Hohe
 
 ## Research Fellowship Competition for Temple University Graduate Students
-CENFAD is now accepting applications from Temple graduate students for the John Votaw and Jeffrey Bower Fellowships (in the Fall) and the Marvin Wachman and Richard Immerman Fellowships (in the Spring). These fellowships provide stipends of varying amounts to defray the cost of research conducted in connection with completion of the PhD dissertation. All have been made available through the generous contributions of CENFAD supporters. Applicants for these funds must be Ph.D. students in the History Department. The application must include:
+CENFAD accepts applications from Temple graduate students for the John Votaw and Jeffrey Bower Fellowships (in the Fall) and the Marvin Wachman and Richard Immerman Fellowships (in the Spring). These fellowships provide stipends of varying amounts to defray the cost of research conducted in connection with completion of the PhD dissertation. All have been made available through the generous contributions of CENFAD supporters. Applicants for these funds must be Ph.D. students in the History Department. The application must include:
 
 - A letter of application that spells out your qualifications for the award.
 - A current C.V.
@@ -95,6 +97,8 @@ Students are eligible to receive the same award twice. Students do not apply for
 ### John Votaw Endowed Research Award
 Endowed research award for Temple University graduate students of diplomatic and military history, with preference going to military history. Direct questions or applications should apply to [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu). **The deadline is October 1.**
 
+- 2020-21: Mike Fischer
+- 
 **Previous Recipients:**
 - 2019-20: Ariel Natalo-Lifton
 - 2018-19: Alexandre Caillot
@@ -117,6 +121,8 @@ Endowed research award for Temple University graduate students of diplomatic and
 ### Jeffrey Bower Endowed Research Fellowship
 Awarded to a Temple University graduate student of military or diplomatic history. Preference is given to students who incorporate a study of technology into their work. Direct questions or applications should contact [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu). **The deadline for spring awards is October 1.**
 
+- 2020-21: Ethan Cohen
+- 
 **Previous Recipients:**
 - 2019-20: Stanley Schwartz
 - 2018-19: Eric Perinovic
