@@ -16,26 +16,6 @@ ___
 
 **You can read our entire journal collection in the [Strategic Visions](https://tuljournals.temple.edu/index.php/strategic_visions) section of the Temple University Libraries Journals.**
 
-## Spring 2020 Edition
-Read the [Spring 2020 Edition of _Strategic Visions!_](https://tuljournals.temple.edu/index.php/strategic_visions/issue/view/34)
-
-### Contents:
-**Featured Articles:**
-- Dr. Alan McPherson (Temple University): ["News from the Director"](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/345)
-- Joshua Stern (Temple University): ["Note from the Davis Fellow"](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/346)
-- [News from the Community](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/328)
-
-**Book Reviews:**
-- Joseph A. Fry, [_Book Review: Lincoln, Seward, and US Foreign Relations in the Civil War, reviewed by Alexandre F. Caillot_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/332). 
-- Daniel Immerwahr, [_Book Review: How to Hide an Empire: A History of the Greater United States, reviewed by Graydon Dennison_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/333).
-- Timothy Sayle, [_Book Review: Enduring Alliance: A History of NATO and the Postwar Global Order, reviewed by Stanley Schwartz_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/334).
-
-**Editorial Staff**
-- **Editor-in-Chief:** Joshua Stern, Graduate Student: 2020-2021 Thomas J. Davis Fellow<br>
-- **CENFAD Director:** Dr. Alan McPherson<br>
-
-___
-
 ## Fall 2020 Edition
 Read the [Fall 2020 Edition of _Strategic Visions!_](https://tuljournals.temple.edu/index.php/strategic_visions/issue/view/34)
 
@@ -50,6 +30,26 @@ Read the [Fall 2020 Edition of _Strategic Visions!_](https://tuljournals.temple.
 - Ryan Langton (Temple University), [_Book Review - America's Middlemen: Power at the Edge of Empire_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/439).
 - Grace Anne Parker (Temple University), [_Book Review - Anthropology, Colonial Policy and the Decline of French Empire in Africa_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/440).
 - Casey VanSise (Temple University), [_Book Review - Latin America and the Global Cold War_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/441).
+
+**Editorial Staff**
+- **Editor-in-Chief:** Joshua Stern, Graduate Student: 2020-2021 Thomas J. Davis Fellow<br>
+- **CENFAD Director:** Dr. Alan McPherson<br>
+
+___
+
+## Spring 2020 Edition
+Read the [Spring 2020 Edition of _Strategic Visions!_](https://tuljournals.temple.edu/index.php/strategic_visions/issue/view/34)
+
+### Contents:
+**Featured Articles:**
+- Dr. Alan McPherson (Temple University): ["News from the Director"](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/345)
+- Joshua Stern (Temple University): ["Note from the Davis Fellow"](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/346)
+- [News from the Community](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/328)
+
+**Book Reviews:**
+- Joseph A. Fry, [_Book Review: Lincoln, Seward, and US Foreign Relations in the Civil War, reviewed by Alexandre F. Caillot_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/332). 
+- Daniel Immerwahr, [_Book Review: How to Hide an Empire: A History of the Greater United States, reviewed by Graydon Dennison_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/333).
+- Timothy Sayle, [_Book Review: Enduring Alliance: A History of NATO and the Postwar Global Order, reviewed by Stanley Schwartz_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/334).
 
 **Editorial Staff**
 - **Editor-in-Chief:** Joshua Stern, Graduate Student: 2020-2021 Thomas J. Davis Fellow<br>
