@@ -21,6 +21,26 @@ Read the [Spring 2020 Edition of _Strategic Visions!_](https://tuljournals.templ
 
 ### Contents:
 **Featured Articles:**
+- Dr. Alan McPherson (Temple University): ["News from the Director"](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/345)
+- Joshua Stern (Temple University): ["Note from the Davis Fellow"](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/346)
+- [News from the Community](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/328)
+
+**Book Reviews:**
+- Joseph A. Fry, [_Book Review: Lincoln, Seward, and US Foreign Relations in the Civil War, reviewed by Alexandre F. Caillot_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/332). 
+- Daniel Immerwahr, [_Book Review: How to Hide an Empire: A History of the Greater United States, reviewed by Graydon Dennison_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/333).
+- Timothy Sayle, [_Book Review: Enduring Alliance: A History of NATO and the Postwar Global Order, reviewed by Stanley Schwartz_](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/334).
+
+**Editorial Staff**
+- **Editor-in-Chief:** Joshua Stern, Graduate Student: 2020-2021 Thomas J. Davis Fellow<br>
+- **CENFAD Director:** Dr. Alan McPherson<br>
+
+___
+
+## Fall 2020 Edition
+Read the [Fall 2020 Edition of _Strategic Visions!_](https://tuljournals.temple.edu/index.php/strategic_visions/issue/view/34)
+
+### Contents:
+**Featured Articles:**
 - Dr. Alan McPherson (Temple University): ["News from the Director"](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/435)
 - Joshua Stern (Temple University): ["Note from the Davis Fellow"](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/436)
 - [Temple Community Interviews](https://tuljournals.temple.edu/index.php/strategic_visions/article/view/437)
@@ -34,11 +54,6 @@ Read the [Spring 2020 Edition of _Strategic Visions!_](https://tuljournals.templ
 **Editorial Staff**
 - **Editor-in-Chief:** Joshua Stern, Graduate Student: 2020-2021 Thomas J. Davis Fellow<br>
 - **CENFAD Director:** Dr. Alan McPherson<br>
-
-___
-
-## Fall 2020 Edition
-Read the [Fall 2020 Edition of _Strategic Visions!_](https://tuljournals.temple.edu/index.php/strategic_visions/index)
 
 ## Fall 2019 Edition
 Read the full [Fall 2019 Edition of _Strategic Visions!_](https://tuljournals.temple.edu/index.php/strategic_visions/issue/view/27)
