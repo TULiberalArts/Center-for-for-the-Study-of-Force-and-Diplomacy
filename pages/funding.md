@@ -143,9 +143,10 @@ Awarded to a Temple University graduate student of military or diplomatic histor
 - 2003-04: Bob Wintermute
 
 ### Marvin Wachman Fellowship in Force and Diplomacy
-To be awarded to a Temple University graduate student in the history of U.S. foreign relations. Direct questions or applications should contact [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu). **The deadline for spring awards is March 1.**
+To be awarded to Temple University graduate students in the history of U.S. foreign relations. Direct questions or applications should contact [Dr. Alan McPherson](mailto:alan.mcpherson@temple.edu). **The deadline for spring awards is March 1.**
 
 **Previous Recipients:**
+- 2020-2021:Graydon Dennison, Mike Fischer, Mathias Fuelling, and Ryan Langton
 - 2019-2020: Alexandre Caillot, Mike Fischer and Josh Stern
 - 2018-2019: None
 - 2017-18: Keith Riley
@@ -166,6 +167,8 @@ To be awarded to a Temple University graduate student in the history of U.S. for
 
 ### The Richard Immerman Research Award- New Award for 2021!
 Awarded to a Temple University PhD student in History whose research project is congruent with the mission of CENFAD. Award recipients shall be selected by a committee comprised of the Dean of the School, the Director of CENFAD, and a College faculty member whose primary academic specialization is the history of United States foreign relations. The maximum award is $1,500. **The deadline is March 1.**
+
+- **Inaugural Immerman Winner:** Ethan Cohen
 
 ___
 
