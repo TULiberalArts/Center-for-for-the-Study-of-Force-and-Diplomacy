@@ -33,7 +33,8 @@ Hannah Gurman teaches U.S. history and American Studies at NYU’s Gallatin Scho
 
 Richard Immerman directed CENFAD for 25 years and chaired Temple’s History Department for 8. The recipient of Temple’s Paul Eberman Prize for distinguished research, he has received numerous awards for his scholarship and professional service. He was elected President of the Society for Historians of American Foreign Relations (SHAFR), served as an Assistant Deputy Director of National Intelligence, and held the Frances DeSerio W. Chair in Strategic and Theater Intelligence at the U.S. Army War College. Retired since 2017, Immerman still publishes, primarily on the Intelligence Community, and currently chairs the State Department Historical Advisory Committee, the American Historical Association’s Committee on Relations with the National Archives, and SHAFR’s Historical Documentation Committee.
 
-- [_Video of Roundtable Lecture_](https://ensemble.temple.edu/Watch/f6N9PeFa) 
+**Video of Video of Roundtable Lecture**<br>
+<iframe width="560" height="315" src="https://ensemble.temple.edu/Watch/f6N9PeFa" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ___
 
@@ -43,7 +44,8 @@ _“Power to the People: How Open Technological Innovation is Arming Tomorrow’
 
 Audrey Kurth Cronin is Founding Director of the Center for Security, Innovation and New Technology at American University in Washington, DC, and Professor at the School of International Service. Cronin’s career has combined academic positions and government service. She was a faculty member and director of the core course on War and Statecraft at the U.S. National War College, and Academic Director of Studies for the Changing Character of War at Oxford University. Before that, she was Specialist in Terrorism at the Congressional Research Service, responsible for advising Members of Congress in the aftermath of 9/11. She has also served in the U.S. executive branch, including in the Office of the Secretary of Defense for Policy, and frequently advises at senior levels. Cronin is also an award-winning author. Her latest book, Power to the People:  How Open Technological Innovation is Arming Tomorrow’s Terrorists (Oxford University Press, 2020), analyzes the risks and opportunities of new and emerging technologies, including mobilizing via social media and web platforms. It won the 2020 Airey Neave international prize for “the most significant, original, relevant, and practically valuable contribution to the understanding of terrorism.”
 
-- [_Video of Dr. Cronin's Talk_](https://ensemble.temple.edu/Watch/Eg43JpAt)
+**Video of Dr. Cronin's Talk**<br>
+<iframe width="560" height="315" src="https://ensemble.temple.edu/Watch/Eg43JpAt" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ___
 
@@ -55,7 +57,8 @@ Ming-sho Ho is a professor in the Department of Sociology, National Taiwan Univ
 
 In this lecture, I will present and summarize the major findings of my 2019 book, _Challenging Beijing’s Mandate of Heaven_. I will use the perspective of social movement studies to make sense of the two student-led occupy movements in Taiwan and Hong Kong. In the latter part of my presentation, I will utilize this analytical framework to understand Hong Kong's anti-extradition protest that erupted in 2019 and conclude with an updated reflection about potential future courses.
 
-- [_Video of Dr. Ming-sho Ho's Talk_](https://ensemble.temple.edu/Watch/s3DXm7n8) 
+**Video of Dr. Ming-sho Ho's Talk**<br>
+<iframe width="560" height="315" src="https://ensemble.temple.edu/Watch/s3DXm7n8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ___
 
