@@ -65,6 +65,7 @@ _“I’ll Go: War, Religion, and Coming Home, from Cairo to Kansas City”_<br>
 
 Alexs Thompson is an internationally recognized scholar of Islam who spent over a decade living and working in the Middle East with self-described fundamentalists in Egypt, Syria, Yemen, Iraq, Afghanistan, and numerous countries in Central and East Africa. Much of that time was spent in support of U.S. forces and international policy. Alexs received a Ph.D. from the Divinity School at the University of Chicago where he wrote his dissertation on medieval Islamic history. He also received a Master's degree in geochemistry from the University of Illinois (Chicago) where he wrote about the age and sustainability of groundwater in Egypt. Dr. Thompson has been published in Joint Force Quarterly--the leading military journal directed by the Chairman of the Joint Chiefs of Staff, the Small Wars Journal, and been a guest speaker at the Center for the Study of Islam and Democracy as well as the Association of the United States Army. In his travels, he worked with Generals David Petraeus and Stanley McChrystal and participated in numerous pivotal combat zones in the War on Terror. 
 
+**Video of Dr. Alexs Thompson's Talk**<br>
 <iframe width="560" height="315" src="https://ensemble.temple.edu/Watch/y7W8Ejp6" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ___
