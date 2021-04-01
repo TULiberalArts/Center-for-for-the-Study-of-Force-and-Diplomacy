@@ -81,7 +81,8 @@ War raises fundamental questions about what it is to be human and about the esse
 
 Margaret MacMillan (Toronto and Oxford) is professor of History at the University of Toronto and an emeritus professor of International History at Oxford University. She was Provost of Trinity College, Toronto from 2002-7 and Warden of St Antony’s College, Oxford from 2007-2017. She is currently a trustee of the Central European University and the Imperial War Museum. Her research specializes in British imperial history and the international history of the 19th and 20th centuries. Publications include _War: How Conflict Shaped Us, Paris, 1919_, and _The War that Ended Peace_. She gave the CBC’s Massey lectures in 2015 and the BBC’s Reith Lectures in 2018. Awards include the Samuel Johnson prize for non-fiction and the Governor-General’s literary award. She has honorary degrees from several universities and is an honorary Fellow of the British Academy. She is also a Companion of the Order of Canada and a Companion of Honour (UK).
  
-- **[Zoom Link](https://temple.zoom.us/j/93210617105)**
+**Video of Dr. Margaret MacMillan's Talk**<br>
+<iframe width="560" height="315" src="https://ensemble.temple.edu/Watch/Ge86CbAi" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ___
 
