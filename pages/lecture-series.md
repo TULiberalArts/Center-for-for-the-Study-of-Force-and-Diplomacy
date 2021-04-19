@@ -94,7 +94,8 @@ Dr. Simon Reid-Henry is an historical and political geographer with interests in
 
 Dr. Reid-Henry’s research has examined the making of particular forms of power/knowledge as these have shaped the modern world: development, global health, science, humanitarianism, welfare, security, and war. 
 
-- **[Zoom Link](https://temple.zoom.us/j/93299349106)**
+**Video of Dr. Simon Reid-Henr's Talk**<br>
+<iframe width="560" height="315" src="https://ensemble.temple.edu/hapi/v1/contents/permalinks/Ad2r4J9C/view" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ___
 
