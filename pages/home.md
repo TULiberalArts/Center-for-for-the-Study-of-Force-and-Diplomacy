@@ -25,9 +25,8 @@ The Director of CENFAD [Dr. Alan McPherson](https://liberalarts.temple.edu/acade
 **Thomas J. Davis Fellow**
 - [Joshua Stern](mailto:tuj64084@temple.edu)
 
-## Call for Papers
 ### CENFAD Workshop - Latin America and the World: Globalization and Its Discontents
-The workshop’s purpose is to advance the research projects of PhD students working on dissertations on inter-American relations or Latin American foreign policy by pairing them with their dream mentors. The workshop will take place on May 14th from 8:15 to 4pm EST and will be online and open to the public. The participants' papers, the workshop schedule, and a zoom link will be provided soon on this page.
+The workshop’s purpose is to advance the research projects of PhD students working on dissertations on inter-American relations or Latin American foreign policy by pairing them with their dream mentors. On May 14th from 8:15 to 4pm EST, the workshop will take place online and will be open to the public. You can join the workshop by [following this link](https://temple.zoom.us/j/94935624119).
 
 ___
 
