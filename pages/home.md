@@ -29,10 +29,11 @@ The Director of CENFAD [Dr. Alan McPherson](https://liberalarts.temple.edu/acade
 The workshop’s purpose is to advance the research projects of PhD students working on dissertations on inter-American relations or Latin American foreign policy by pairing them with their dream mentors. On May 14th from 8:15 to 4pm EST, the workshop will take place online and will be open to the public. You can join the workshop by [following this link](https://temple.zoom.us/j/94935624119).
 
 <details>
-  <summary><p>“Borders and Rights: Impasses on State Sovereignty and Human Rights in Latin America.”<a href="" title="Borders and Rights: Impasses on State Sovereignty and Human Rights in Latin America.">Borders and Rights: Impasses on State Sovereignty and Human Rights in Latin America.”</a></p></summary>
-  <ul>
- <li><p>Author: Alexandre Quieroz, PhD student of Social History at the University of São Paulo</p></li><br>  
- <li><p> Mentor: Dr. Petra Goedde, Professor of History at Temple University</p></li><<br>
+  <summary><p><a href="" title="Borders and Rights: Impasses on State Sovereignty and Human Rights in Latin America.">Borders and Rights: Impasses on State Sovereignty and Human Rights in Latin America.”</a></p>
+</summary>
+ <ul>
+ <li><p>Author: Alexandre Quieroz, PhD student of Social History at the University of São Paulo</p></li> 
+ <li><p> Mentor: Dr. Petra Goedde, Professor of History at Temple University</p></li>
 </ul>
 </details>
 
