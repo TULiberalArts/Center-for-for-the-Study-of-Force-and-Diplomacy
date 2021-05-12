@@ -26,10 +26,10 @@ The Director of CENFAD [Dr. Alan McPherson](https://liberalarts.temple.edu/acade
 - [Joshua Stern](mailto:tuj64084@temple.edu)
 
 ### CENFAD Workshop - Latin America and the World: Globalization and Its Discontents
-The workshop’s purpose is to advance the research projects of PhD students working on dissertations on inter-American relations or Latin American foreign policy by pairing them with their dream mentors. On May 14th from 8:15 to 4pm EST, the workshop will take place online and will be open to the public. You can join the workshop by [following this link](https://temple.zoom.us/j/94935624119).
+The workshop’s purpose is to advance the research projects of PhD students working on dissertations on inter-American relations or Latin American foreign policy by pairing them with their dream mentors. On May 14th from 8:15 to 4pm EST, the workshop will take place online and will be open to the public. You can join the workshop by [following this link](https://temple.zoom.us/j/94935624119). You can read the workshop papers below:
 
 <details>
-  <summary><a href="" title="Borders and Rights: Impasses on State Sovereignty and Human Rights in Latin America.">Borders and Rights: Impasses on State Sovereignty and Human Rights in Latin America.”</a>
+  <summary><a href="" title="Borders and Rights: Impasses on State Sovereignty and Human Rights in Latin America">Borders and Rights: Impasses on State Sovereignty and Human Rights in Latin America</a>
 </summary>
  <ul>
  <li><p>Author: Alexandre Quieroz, PhD student of Social History at the University of São Paulo</p></li> 
@@ -37,11 +37,50 @@ The workshop’s purpose is to advance the research projects of PhD students wor
 </ul>
 </details>
 
+<details>
+  <summary><a href="" title="United States’ Influence on Brazilian Anti-Corruption Imaginary and Movement (1945-2016)">United States’ Influence on Brazilian Anti-Corruption Imaginary and Movement (1945-2016)</a>
+</summary>
+ <ul>
+ <li><p>Fernando Miramontes, PhD student of History at PUC-São Paulo</p></li> 
+ <li><p> Mentor: Dr. Robert Karl, Associate Professor of Arts and Humanities at Minerva Schools and Temple University</p></li>
+</ul>
+</details>
 
+<details>
+  <summary><a href="" title="Bending the United States’ Stronghold: InterAmerican perspectives on the Panama Canal Treaties (1975-1978)">Bending the United States’ Stronghold: InterAmerican perspectives on the Panama Canal Treaties (1975-1978)</a>
+</summary>
+ <ul>
+ <li><p>Author: Maxime Minne, PhD student of History at George Washington University</p></li> 
+ <li><p> Mentor: Dr. Mark Lawrence, Associate Professor of History and Director of the LBJ Library at UT-Austin</p></li>
+</ul>
+</details>
 
+<details>
+  <summary><a href="" title="Consultas and Competing Claims: Global Resources and Local Conflict in Colombia">Consultas and Competing Claims: Global Resources and Local Conflict in Colombia</a>
+</summary>
+ <ul>
+ <li><p>Author: Jamie L. Shenk, PhD student of Sociology at Oxford University</p></li> 
+ <li><p> Mentor: Dr. Alisha Holland, Associate Professor in the Government Department at Harvard University</p></li>
+</ul>
+</details>
 
+<details>
+  <summary><a href="" title="Mixed Motives: The politics of US interest in Refugees in Honduras during the 1980s">Mixed Motives: The politics of US interest in Refugees in Honduras during the 1980s</a>
+</summary>
+ <ul>
+ <li><p>Author: Fionntan O’Hara, PhD student of History at the London School of Economics</p></li> 
+ <li><p> Mentor: Dr. Jussi Hanhimaki, Professor of International History at the Graduate Institute of International and Development Studies, Geneva</p></li>
+</ul>
+</details>
 
-
+<details>
+  <summary><a href="" title="Indebted, Irregular Migration: Latinx Identity, Isthmian Mobilities, and Neoliberalism">Indebted, Irregular Migration: Latinx Identity, Isthmian Mobilities, and Neoliberalism</a>
+</summary>
+ <ul>
+ <li><p>Author: John Kennedy, PhD student of Romance Studies at Cornell University</p></li> 
+ <li><p> Mentor: Dr. Hillel Soifer, Associate Professor of Political Science at Temple University</p></li>
+</ul>
+</details>
 
 ___
 
