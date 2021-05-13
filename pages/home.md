@@ -34,7 +34,7 @@ The workshop’s purpose is to advance the research projects of PhD students wor
 </summary>
  <ul>
  <li><p>Author: Alexandre Quieroz, PhD student of Social History at the University of São Paulo</p></li> 
- <li><p> Mentor: Dr. Petra Goedde, Professor of History at Temple University</p></li>
+ <li><p>Mentor: Dr. Petra Goedde, Professor of History at Temple University</p></li>
 </ul>
 </details>
 
